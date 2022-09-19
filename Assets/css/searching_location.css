@@ -1,0 +1,306 @@
+#content10 {
+    background-color: #16202f;
+    grid-area: content10;
+    border-radius: var(--main-radius);
+    padding: var(--main-padding);
+
+}
+
+.mapbox {
+    height: 292px;
+    background-color: #fff;
+    position: relative;
+    margin-left: 1px;
+    margin-top: 6px;
+
+}
+
+.mapbox iframe {
+    width: 100%;
+    height: 100%;
+}
+
+#content11 {
+    background-color: rgb(5, 32, 32);
+    grid-area: content11;
+    border-radius: var(--main-radius);
+    padding: var(--main-padding);
+    height: 306px;
+    background-color: #16202f;
+    border-radius: 13px;
+    line-height: 0px;
+    font-size: 13px;
+}
+
+
+img[alt="imglocationsearch"] {
+    position: ABSOLUTE;
+    height: 34px;
+    /* width: 44px; */
+    MARGIN-TOP: -17px;
+    MARGIN-LEFT: 3px;
+
+
+}
+
+.aaa {
+
+    MARGIN-TOP: 60px;
+    font-size: 17px;
+}
+
+
+
+img[alt="imglocation"] {
+
+    position: ABSOLUTE;
+    height: 30px;
+    width: 38px;
+    /* top: -45px; */
+    /* left: 3px; */
+    margin-left: -48px;
+    background: #16202f;
+    box-sizing: border-box;
+    border-radius: 0%;
+    border-block: initial;
+    MARGIN-TOP: -17PX;
+
+}
+
+input[placeholder="Enter a location"] {
+    margin-left: 20px;
+    background: #16202f;
+    box-sizing: border-box;
+    border-radius: 0%;
+    border-block: initial;
+    padding: 12px;
+    border: none;
+    outline: none;
+    border-right: 1px gray solid;
+    color: whitesmoke;
+    margin-left: -69px;
+    width: 143px;
+}
+
+::placeholder {
+    color: #555555;
+}
+
+label {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 71px;
+}
+
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+
+.right {
+    transform: rotate(-45deg);
+    position: ABSOLUTE;
+    MARGIN-LEFT: 25px;
+    MARGIN-TOP: 58PX;
+
+}
+
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    position: ABSOLUTE;
+    MARGIN-TOP: 59px;
+    MARGIN-LEFT: -176PX;
+
+}
+
+
+
+
+/* .entries {
+    margin-left: -25.5px;
+    padding-right: 10px;
+    padding-left: 24px;
+} */
+
+
+
+.formbutt {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px 10px;
+
+}
+
+
+.button {
+    background-color: #16202f00;
+    border: NONE;
+
+
+
+}
+
+img[alt="asidbui"] {
+    width: 24px;
+}
+
+.text1 {
+    color: white;
+    font-size: 12px;
+}
+
+.asione,
+.asitwo {
+    border-top: #ffffff 1px solid;
+    border-bottom: #ffffff 3px solid;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    grid-auto-rows: 33% 29% 47%;
+    gap: 0px 1px;
+    color: #DFDBD9;
+    margin-left: 1px;
+    padding: 11px;
+    margin-top: 10px;
+    padding-bottom: 1px;
+
+}
+
+
+.asitwo {
+    border-top: hidden;
+
+}
+
+.bui {
+    color: #d59563;
+}
+
+#a {
+    color: #d59563;
+
+}
+
+#es {
+    margin-left: 47.5px;
+    /* padding-right: 10px; */
+    /* padding-left: 24px; */
+    position: absolute;
+    margin-top: 24px;
+    color: aliceblue;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgside1 {
+    width: 24px;
+    height: 24px;
+    position: ABSOLUTE;
+    MARGIN-TOP: -31px;
+    /* MARGIN-LEFT: 94%; */
+    z-index: 1000;
+    margin-left: 249px;
+    /* margin-left: 209px; */
+}
+
+img[alt="imgside2"] {
+    width: 24px;
+    height: 24px;
+    width: 24px;
+    height: 24px;
+    position: ABSOLUTE;
+    MARGIN-TOP: -16px;
+    margin-left: 350px;
+
+}
+
+
+/*  */
+
+
+input[ name="num"] {
+    width: 84px;
+    height: 16px;
+    margin-top: 55px;
+    margin-left: -71px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    position: absolute;
+}
+
+/* .entries {
+    margin-left: -25.5px;
+    padding-right: 10px;
+    padding-left: 24px;
+} */
+
+
+
+.formbutt {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px 10px;
+
+}
+
+
+.button {
+    background-color: #16202f00;
+    border: NONE;
+
+
+
+}
+
+img[alt="asidbui"] {
+    width: 24px;
+}
+
+img[alt="imgpa0"] {
+    width: 51px;
+    height: 34px;
+    POSITION: absolute;
+    margin-left: -52px;
+    margin-top: -23px;
+}
+
+.text1 {
+    color: white;
+    font-size: 12px;
+}
+
+.asione,
+.asitwo {
+    border-top: #ffffff 1px solid;
+    border-bottom: #ffffff 3px solid;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    grid-auto-rows: 33% 29% 47%;
+    gap: 0px 1px;
+    color: #DFDBD9;
+    margin-left: 1px;
+    padding: 11px;
+    margin-top: 10px;
+    padding-bottom: 1px;
+
+}
+
+
+.asitwo {
+    border-top: hidden;
+
+}
+
+.bui {
+    color: #d59563;
+}
+
+#a {
+    color: #d59563;
+
+}
