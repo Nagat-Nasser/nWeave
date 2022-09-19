@@ -5,7 +5,7 @@
 
 ?>
 
-<div id="content1">
+<div id="content1"> //content1
     <div class="buildbui">
         <div class="build bui1">#Of Buildings</div>
         <div class="build bui2">Gross Area(Sq.Ft.)</div>
@@ -22,7 +22,7 @@
                 $format = number_format($number / 1000000000, 2) . 'B';
             }
             echo $format;?>
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
 
@@ -38,7 +38,7 @@
                 $format = number_format($number / 1000000000, 2) . 'B';
             }
             echo $format;?>
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
     </div>
 </div>
@@ -52,7 +52,7 @@
             <?php
             $number = $Account_Data->AccountSummaries2->LeasedPercentage;
             echo number_format($number, 1);?>
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
             --
@@ -76,7 +76,7 @@
                 $format = number_format($number / 1000000000, 2) . 'B';
             }
             echo $format;?>
-        <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+        <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
 
@@ -90,7 +90,7 @@
                 $format = number_format($number / 1000000000, 2) . 'B';
             }
                 echo '$' . $format;?>
-        <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+        <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
     </div>
 </div>
@@ -112,7 +112,7 @@
             echo '$' . $format;?>
 
 
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
             <?php
@@ -126,7 +126,7 @@
             }
             echo $format;?>
             <!-- <?php echo $Account_Data->sum['buildingavg']; ?> -->
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
     </div>
 </div>
@@ -146,7 +146,7 @@
             }
             echo '$' . $format;?>
             <!-- <?php echo $Account_Data->cost_psf['cost_psf']; ?> -->
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
 
@@ -162,7 +162,7 @@
             echo '$' . $format;?>
 
                        <!-- <?php echo $Account_Data->cost_building['cost_building']; ?> -->
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
     </div>
 </div>
@@ -182,14 +182,14 @@
             }
             echo $format; ?>
             <!-- <?php echo $Account_Data->AGE['AVG_AGE']; ?> -->
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
         <div class="number">
             <?php
             $number =$Account_Data->AccountSummaries2->AvgHoldingPeriod;
             echo number_format($number, 1);?>
 
-            <img src="../Assets/Imgs/up-16.ico" alt="uparrow" />
+            <img src="./Assets/Imgs/up-16.ico" alt="uparrow" />
         </div>
     </div>
 </div>

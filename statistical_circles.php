@@ -82,7 +82,7 @@
                                            bottom: 100%;
                                            padding: 1em;
                                            position: absolute;
-                                           width: 150px;
+                                           width: 80px;
                                            z-index: 1;
                                        }
                                    </style>
@@ -225,7 +225,7 @@
                                 bottom: 100%;
                                 padding: 1em;
                                 position: absolute;
-                                width: 120px;
+                                width: 80px;
                                 z-index: 1;
                             }
                         </style>
@@ -394,7 +394,7 @@
                          bottom: 100%;
                          padding: 1em;
                          position: absolute;
-                         width: 120px;
+                         width: 80px;
                          z-index: 1;
                          }
                          </style>

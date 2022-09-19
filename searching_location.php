@@ -7,15 +7,15 @@
 <div id="content11">
     <!-- <div class="location"> -->
     <button class="button">
-        <!-- <a href=""><img src="../Assets/Imgs/Capture2.PNG" class="imgside1"></a> -->
+        <!-- <a href=""><img src="./Assets/Imgs/Capture2.PNG" class="imgside1"></a> -->
     </button>
 
     <input type="text" placeholder="Enter a location">
     <button class="button">
-        <a href=""><img src="../Assets/Imgs/4.jpg" alt="imglocationsearch" id="a"></a>
+        <a href=""><img src="./Assets/Imgs/4.jpg" alt="imglocationsearch" id="a"></a>
     </button>
     <button class="button">
-        <a href=""><img src="../Assets/Imgs/5.jpg" alt="imglocation" id="a"></a>
+        <a href=""><img src="./Assets/Imgs/5.jpg" alt="imglocation" id="a"></a>
     </button>
     <!-- <div class="entries"> -->
 
@@ -34,13 +34,13 @@
             <div class="asionelocation bui">Fresenius Kidney Care Azalea City</div>
             <div class="asionelocation bui4">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/1.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/1.png" alt="asidbui"></a>
                 </button>
             </div>
             <div class="asionelocation bui3">Office</div>
             <div class="asionelocation bui6">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/2.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/2.png" alt="asidbui"></a>
                 </button>
             </div>
 
@@ -48,7 +48,7 @@
 
             <div class="asionelocation bui7">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/3.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/3.png" alt="asidbui"></a>
                 </button>
             </div>
 
@@ -57,19 +57,19 @@
             <div class="asionelocation bui">Dialysis ll-DaVita-parma OH</div>
             <div class="asionelocation bui4">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/1.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/1.png" alt="asidbui"></a>
                 </button>
             </div>
             <div class="asionelocation bui3">Office</div>
             <div class="asionelocation bui6">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/2.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/2.png" alt="asidbui"></a>
                 </button>
             </div>
             <div class="asionelocation bui2">9050 north church drive ,cleveland</div>
             <div class="asionelocation bui7">
                 <button class="button">
-                    <a href=""><img src="../Assets/Imgs/3.png" alt="asidbui"></a>
+                    <a href=""><img src="./Assets/Imgs/3.png" alt="asidbui"></a>
                 </button>
 
             </div>

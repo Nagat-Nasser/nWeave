@@ -10,18 +10,18 @@
     <div class="menu-items" style="z-index: 1;">
       <div class=" ZEYSTRA">
         <!-- <h1> -->
-        <img src="../Assets/Imgs/screencapture-zeustra-account-2022-07-18-11_59_15-removebg-preview.png" alt="liLOGO" />
+        <img src="./Assets/Imgs/screencapture-zeustra-account-2022-07-18-11_59_15-removebg-preview.png" alt="liLOGO" />
         ZEYSTRA
         <!-- </h1> -->
       </div>
       <li>
-        <img src="../Assets/Imgs/dashboard.png" alt="bulogo" />
+        <img src="./Assets/Imgs/dashboard.png" alt="bulogo" />
         <a href="#Dashboard" class="anui "> Dashboard</a>
       </li>
       <li>
         <details>
           <summary>
-            <img src="../Assets/Imgs/filter.png" alt="bulogo" style="
+            <img src="./Assets/Imgs/filter.png" alt="bulogo" style="
     position: absolute;
     top: 0;
 ">
@@ -40,20 +40,20 @@
         </details>
       </li>
       <li>
-        <img src="../Assets/Imgs/list-search.png" alt="bulogo">
+        <img src="./Assets/Imgs/list-search.png" alt="bulogo">
         <a href="#Overview" class="anui ">Overview</a>
       </li>
       <li>
-        <img src="../Assets/Imgs/customer.png" alt="bulogo">
+        <img src="./Assets/Imgs/customer.png" alt="bulogo">
         <a href="#Servies" class="anui ">Servies</a>
       </li>
 
       <li>
-        <img src="../Assets/Imgs/mail.png" alt="bulogo">
+        <img src="./Assets/Imgs/mail.png" alt="bulogo">
         <a href="#About" class="anui">About</a>
       </li>
       <li>
-        <img src="../Assets/Imgs/contact-mail.png" alt="bulogo">
+        <img src="./Assets/Imgs/contact-mail.png" alt="bulogo">
         <a href="#Contact" class="anui ">Contact</a>
       </li>
 
