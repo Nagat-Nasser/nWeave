@@ -30,6 +30,10 @@
 
 <?php }}?>
 
+                <div class="color colorone_others" style="background-color:#f54275;" >
+                    <span class="M">Others</span>
+                </div>
+
             </div>
 
             <div class="one">
@@ -39,30 +43,30 @@
 
                 $colors = array("#795ab0","#439abb","#d59563","#9f9e9e","#00725f", "#ffe9cf", "#838d37" ,"#4c8077" , "#402e32" , "#c35256" );
 
-                $circles_container_width = 190;
-                $circles_container_height = 192;
-                $others_circle_space = 0;
 
                 $data_from_string_to_array= json_encode($Account_Data->GeographyStatisticsByState);
                 $number_of_printed_circles =  sizeof($Account_Data->GeographyStatisticsByState);
+             global  $circles_container_width ; $circles_container_width=190;
+               global  $circles_container_height; $circles_container_height = 192;
+                $others_circle_space = 0;
 
 
                 for($loop_counter=0 ; $loop_counter < $number_of_printed_circles ; $loop_counter++){
 
-                $colored_space_of_arc = 100 * ($Account_Data->GeographyStatisticsByState[$loop_counter]->geoStatePercentage);
 
-//                $width_of_printed_circle= $circles_container_width - ($loop_counter*20);
-//                $height_of_printed_circles= $circles_container_height - ($loop_counter*20);
+                    $colored_space_of_arc = 100 * ($Account_Data->GeographyStatisticsByState[$loop_counter]->geoStatePercentage);
 
-                if ($colored_space_of_arc >= 3 ){
+                    global   $width_of_printed_circle ; $width_of_printed_circle= $circles_container_width - ($loop_counter *20);
+                    global   $height_of_printed_circles ;  $height_of_printed_circles = $circles_container_height - ($loop_counter *20);
 
-                    $width_of_printed_circle= $circles_container_width - ($loop_counter*20);
-                    $height_of_printed_circles= $circles_container_height - ($loop_counter*20);
+                    if ($colored_space_of_arc >= 3 ){
 
+                            global $more_than_three;
+                                     $more_than_three=0;
+                                $more_than_three++;
 
                 ?>
-                               <abbr title=" <?php echo ceil(100 * $Account_Data->GeographyStatisticsByState[$loop_counter]->geoStatePercentage) ;
-                                                echo  $Account_Data->GeographyStatisticsByState[$loop_counter]->state__c;?>  ">
+             <abbr title=" <?php echo ceil(100 * $Account_Data->GeographyStatisticsByState[$loop_counter]->geoStatePercentage) ."%". $Account_Data->GeographyStatisticsByState[$loop_counter]->state__c;?> ">
 
                                    <style>
 
@@ -82,7 +86,8 @@
                                            bottom: 100%;
                                            padding: 1em;
                                            position: absolute;
-                                           width: 80px;
+                                           width: fit-content;
+                                           height: fit-content;
                                            z-index: 1;
                                        }
                                    </style>
@@ -107,18 +112,19 @@
                 else {
 
                     $others_circle_space = $colored_space_of_arc + $others_circle_space;
-                    $width_of_printed_other_circle = $width_of_printed_circle-20;
-                    $height_of_printed_other_circles= $height_of_printed_circles-20;
+                   global $width_of_printed_other_circle ;  $width_of_printed_other_circle = $circles_container_width - (7* 20);
+                   global   $height_of_printed_other_circles ; $height_of_printed_other_circles= $circles_container_width - (7 *20 );
                 }}
                  ?>
-                <section class="SECTION1_1_(<?php echo $loop_counter?>)">
-                    <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo  $width_of_printed_other_circle?>px"
-                         height="<?php echo  $height_of_printed_other_circles?>px"  >
+
+                <section class="SECTION1_1_others">
+                    <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo $width_of_printed_other_circle ?>px"
+                         height="<?php  echo $height_of_printed_other_circles?>px"  >
 
                         <circle class="circle-chart__background 1" stroke="#413e3e" stroke-width="0.4" fill="none"
                                 cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
 
-                        <circle class="circle-chart__circle 1" stroke="red" stroke-width="0.4"
+                        <circle class="circle-chart__circle 1" stroke="#f54275" stroke-width="0.4"
                                 stroke-dasharray="<?php echo  ($others_circle_space) ?> , 100" stroke-linecap="round" fill="none" cx="16.91549431"
                                 cy="16.91549431" r="15.91549431"></circle>
 
@@ -126,7 +132,9 @@
                 </section>
 
 
-         </div></div>
+
+
+            </div></div>
 
 
 
@@ -146,7 +154,9 @@
                         $colors = array("#795ab0","#439abb","#d59563","#9f9e9e","#00725f", "#ffe9cf", "#838d37" ,"#4c8077" , "#402e32" , "#c35256");
 
 
-
+//                        $circles_container_width = 190;
+//                        $circles_container_height = 192;
+//                        $others_circle_space = 0;
 //                        $data_from_string_to_array= json_encode($Account_Data->PropertyTypeStatistics);
                         $number_of_printed_buttons =  sizeof($Account_Data->PropertyTypeStatistics);
 
@@ -159,13 +169,18 @@
 
                                 ?>
 
-                                <div class="color colorone<?php echo $loop_counter?>" style="background-color:  <?php echo $colors[$loop_counter]?>;">
+                                <div class="color colorone<?php echo $loop_counter?>" style="background-color: <?php echo $colors[$loop_counter]?>;">
                                     <span class="M"><?php echo $Account_Data->PropertyTypeStatistics[$loop_counter]->PROPERTY_TYPE_RCA__c?> </span>
                                 </div>
 
                             <?php }}?>
 
-                </div>
+                        <div class="color colorone_others" style="background-color:#f54275;" >
+                            <span class="M">Others</span>
+                        </div>
+
+
+                    </div>
 
 
 
@@ -181,16 +196,12 @@
                 for($loop_counter=0 ; $loop_counter<$number_of_printed_circles ; $loop_counter++){
 
                     $colored_space_of_arc = 100 * ($Account_Data->PropertyTypeStatistics[$loop_counter]->propertyTypePercentage);
-                    if ($colored_space_of_arc >= 3 ){
+                    if ($colored_space_of_arc > 3 ){
 
                         $width_of_printed_circle= $circles_container_width - ($loop_counter*20);
                         $height_of_printed_circles= $circles_container_height - ($loop_counter*20);
-
-
-
                         ?>
-                <abbr title=" <?php echo ceil(100 * $Account_Data->PropertyTypeStatistics[$loop_counter]->propertyTypePercentage)  . "\n";
-                echo  $Account_Data->PropertyTypeStatistics[$loop_counter]->PROPERTY_TYPE_RCA__c;?>">
+                <abbr title=" <?php echo ceil(100 * $Account_Data->PropertyTypeStatistics[$loop_counter]->propertyTypePercentage)."%". $Account_Data->PropertyTypeStatistics[$loop_counter]->PROPERTY_TYPE_RCA__c;?>">
                         <section class="SECTION1_1_<?php echo $loop_counter?>">
                             <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo  $width_of_printed_circle?>px"
                                  height="<?php echo $height_of_printed_circles?>px" >
@@ -213,7 +224,6 @@
                                 height: 20px;
                                 border-radius: 15px;
 
-
                             }
 
                             abbr:hover::after {
@@ -225,61 +235,43 @@
                                 bottom: 100%;
                                 padding: 1em;
                                 position: absolute;
-                                width: 80px;
+                                width: fit-content;
+                                height: fit-content;
                                 z-index: 1;
                             }
                         </style>
 
-                    <?php }?><?php }?>
+                    <?php }
+                    elseif ($colored_space_of_arc < 3 ) {
+                        $others_circle_space =0;
+                        $others_circle_space += $colored_space_of_arc;
+                        global $width_of_printed_other_circle ;  $width_of_printed_other_circle = $circles_container_width - ($loop_counter * 20);
+                        global   $height_of_printed_other_circles ; $height_of_printed_other_circles= $circles_container_width - ($loop_counter * 20 );
+                    }}
+                ?>
+
+                <section class="SECTION1_1_others">
+                    <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo 90?>px"
+                         height="<?php echo 92?>px"  >
+
+                        <circle class="circle-chart__background 1" stroke="#413e3e" stroke-width="0.4" fill="none"
+                                cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+
+                        <circle class="circle-chart__circle 1" stroke="#f54275" stroke-width="0.4"
+                                stroke-dasharray="<?php echo  ($others_circle_space) ?> , 100" stroke-linecap="round" fill="none" cx="16.91549431"
+                                cy="16.91549431" r="15.91549431"></circle>
+
+                    </svg>
+                </section>
 
 
-<!---->
-<!--                --><?php //     //others_circle
-//
-//
-//                $data_from_string_to_array= json_encode($Account_Data->PropertyTypeStatistics);
-//                $number_of_printed_circles =  sizeof($Account_Data->PropertyTypeStatistics);
-//
-//
-////
-////                $total_others_cricle_pecentage = 0;
-////                $width_of_others_circle=0;
-////                $height_of_others_circle=0;
-//                for($loop_counter=0 ; $loop_counter<$number_of_printed_circles ; $loop_counter++){
-////
-//                    $colored_space_of_arc = 100 * ($Account_Data->PropertyTypeStatistics[$loop_counter]->propertyTypePercentage);
-//                    if ($colored_space_of_arc < 3 ) {
-//                        $less_than_three_circle_percentage = $colored_space_of_arc;
-//                        $total_others_cricle_pecentage1=0;
-//                     global $total_others_cricle_pecentage2;
-//                        $total_others_cricle_pecentage2 =  $total_others_cricle_pecentage1 + $less_than_three_circle_percentage;
-//                     global  $width_of_others_circle ;
-//                       $width_of_others_circle= $circles_container_width - ($number_of_printed_circles * 20);
-//                         global $height_of_others_circle ;
-//                        $height_of_others_circle = $circles_container_height - ($number_of_printed_circles * 20);
-//
-//
-//                    } }
-//                        ?>
-<!---->
-<!--                        <section class="SECTION1_1_--><?php //echo $loop_counter?><!--">-->
-<!--                            <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="--><?php //echo  $GLOBALS['width_of_others_circle']?><!--px"-->
-<!--                                 height="--><?php //echo  $GLOBALS['height_of_others_circle']?><!--px" >-->
-<!---->
-<!--                                <circle class="circle-chart__background 1" stroke="#413e3e" stroke-width="0.4" fill="none"-->
-<!--                                        cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>-->
-<!---->
-<!--                                <circle class="circle-chart__circle 1" stroke="--><?php //echo $colors[$loop_counter]?><!--" stroke-width="0.4"-->
-<!--                                        stroke-dasharray="--><?php //echo $GLOBALS ['total_others_cricle_pecentage2'] ?><!-- , 100" stroke-linecap="round" fill="none" cx="16.91549431"-->
-<!--                                        cy="16.91549431" r="15.91549431"></circle>-->
-<!---->
-<!--                            </svg>-->
-<!--                        </section>-->
-<!---->
-<!---->
-<!--<                  --><?php ////}?>
 
             </div>  </div>
+
+
+
+
+
 
                 <div class="Transactions">
                 Transactions
@@ -298,11 +290,6 @@
                       $colors = array("#795ab0","#439abb","#d59563","#9f9e9e","#00725f", "#ffe9cf", "#838d37" ,"#4c8077" , "#402e32" , "#c35256");
 
 
-//
-//                      $data_from_string_to_array= json_encode($Account_Data->AccountTransactionsTypeStatistics);
-//                      $number_of_printed_buttons =  sizeof($Account_Data->AccountTransactionsTypeStatistics);
-
-
                       for($loop_counter=0 ; $loop_counter< $number_of_printed_buttons ; $loop_counter++){
 
                           $colored_space_of_arc = 100 * ($Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->accTransTypePercentage);
@@ -311,31 +298,20 @@
 
                               ?>
 
+
                               <div class="color colorone<?php echo $loop_counter?>" style="background-color:  <?php echo $colors[$loop_counter]?>;">
-                                  <span class="M"><?php echo $Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->Transaction_Type__c?> </span>
+                                  <span class="M"><?php echo $Account_Data->GeographyStatisticsByState[$loop_counter]->state__c?> </span>
                               </div>
 
                           <?php }}?>
 
+                      <div class="color colorone_others" style="background-color:#f54275;" >
+                          <span class="M">Others</span>
+                      </div>
 
 
 
-
-
-
-
-
-
-
-
-
-                      <!--                                <div class="color colorone9">-->
-<!--                                 <span class="M" STYLE="color:#439abb;">Refinance</span></div>-->
-<!--                                <div class="color colorone10">-->
-<!--                                 <span class="M" STYLE="color:#795ab0;">Sale</span></div>-->
-
-
-                </div>
+                  </div>
              <div class="three">
 
                  <?php
@@ -355,8 +331,7 @@
 
 
                          ?>
-                 <abbr title=" <?php echo ceil(100 * $Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->accTransTypePercentage) ."%" . "\n";
-                 echo  $Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->Transaction_Type__c;?>">
+                 <abbr title=" <?php echo ceil(100 * $Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->accTransTypePercentage) ."%". $Account_Data->AccountTransactionsTypeStatistics[$loop_counter]->Transaction_Type__c;?>">
                          <section class="SECTION1_1_<?php echo $loop_counter?>">
                              <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo  $width_of_printed_circle?>px"
                                   height="<?php echo $height_of_printed_circles?>px" >
@@ -392,15 +367,61 @@
                          display: inline-block;
                          left: 68%;
                          bottom: 100%;
-                         padding: 1em;
+                         /*padding: 1em;*/
                          position: absolute;
-                         width: 80px;
+                             width: fit-content;
+                             height: 5px;
+                             padding-top: 4px;
                          z-index: 1;
                          }
                          </style>
 
-                     <?php    }?><?php }?>
-        </div> </div>
+                     <?php    }
+                     else{
+
+
+                             $others_circle_space = $colored_space_of_arc + $others_circle_space;
+                             global $width_of_printed_other_circle ;  $width_of_printed_other_circle = $circles_container_width - (3* 20);
+                             global   $height_of_printed_other_circles ; $height_of_printed_other_circles= $circles_container_width - (3 *20 );
+                         }}
+                     ?>
+
+                     <section class="SECTION1_1_others">
+                         <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="<?php echo $width_of_printed_other_circle ?>px"
+                              height="<?php  echo $height_of_printed_other_circles?>px"  >
+
+                             <circle class="circle-chart__background 1" stroke="#413e3e" stroke-width="0.4" fill="none"
+                                     cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+
+                             <circle class="circle-chart__circle 1" stroke="#f54275" stroke-width="0.4"
+                                     stroke-dasharray="<?php echo  ($others_circle_space) ?> , 100" stroke-linecap="round" fill="none" cx="16.91549431"
+                                     cy="16.91549431" r="15.91549431"></circle>
+
+                         </svg>
+                     </section>
+
+
+
+
+<!--                     -->
+<!--                     ?>--><?php //}?>
+<!---->
+<!--                 <section class="SECTION1_1_(--><?php //echo $loop_counter?><!--)">-->
+<!--                     <svg class="circle-chart 1" viewBox="0 0 33.83098862 33.83098862" width="--><?php //echo  $width_of_printed_other_circle?><!--px"-->
+<!--                          height="--><?php //echo  $height_of_printed_other_circles?><!--px"  >-->
+<!---->
+<!--                         <circle class="circle-chart__background 1" stroke="#413e3e" stroke-width="0.4" fill="none"-->
+<!--                                 cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>-->
+<!---->
+<!--                         <circle class="circle-chart__circle 1" stroke="#f54275" stroke-width="0.4"-->
+<!--                                 stroke-dasharray="--><?php //echo  ($others_circle_space) ?><!-- , 100" stroke-linecap="round" fill="none" cx="16.91549431"-->
+<!--                                 cy="16.91549431" r="15.91549431"></circle>-->
+<!---->
+<!--                     </svg>-->
+<!--                 </section>-->
+<!---->
+
+             </div> </div>
 
 <?php wh_log('log', '-----------END------------');?>
 
