@@ -1,4 +1,4 @@
-<div id="sidebar">//sidebar
+<div id="sidebar">
     <!-- <div class="aside"> -->
     <div class="navigation">
         <ul class="menu">

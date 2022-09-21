@@ -39,26 +39,56 @@
     <div class="pages">
         <div class="formimg0">
 
-            <button class="buttonform">
-                <a href=""><img src="./Assets/Imgs/1.png" alt="imgform3"></a>
-            </button>
-            <button class="buttonform">
-                <a href=""><img src="./Assets/Imgs/2.png" alt="imgform3"></a>
-            </button>
-            <button class="buttonform">
-                <a href=""><img src="./Assets/Imgs/3.png" alt="imgform3"></a>
-            </button>
-            <h4>
+<!--            <button class="buttonform">-->
+<!--                <a href=""><img src="./Assets/Imgs/1.png" alt="imgform3"></a>-->
+<!--            </button>-->
+<!--            <button class="buttonform">-->
+<!--                <a href=""><img src="./Assets/Imgs/2.png" alt="imgform3"></a>-->
+<!--            </button>-->
+<!--            <button class="buttonform">-->
+<!--                <a href=""><img src="./Assets/Imgs/3.png" alt="imgform3"></a>-->
+<!--            </button>-->
+<!--            <h4>-->
 
-                <H5>2669 church street,atlanta,ga30344</H5>
-            </h4>East Point </h4>
-            <h4>Single Tenant </h4>
-            <h4>GA </h4>
-            <h4>30344</h4>
-            <h4>Office</h4>
-            <h4>Office-Sub</h4>
-            <h4>10,560</h4>
-            <h4>10,560</h4>
+                <H5>Property Name</H5>
+            </h4>Address </h4>
+            <h4>City </h4>
+            <h4>Tenanst </h4>
+            <h4>Zip</h4>
+            <h4>Type</h4>
+            <h4>SubType</h4>
+            <h4>Size</h4>
+            <h4>GLA</h4>
+            <h4>Stake</h4>
+            </h4>
+
+        </div>
+        <div class="formimg1">
+
+                               <div class="icons">
+                        <button class="buttonform">
+                            <a href=""><img src="./Assets/Imgs/1.png" alt="imgform3"></a>
+                        </button>
+                        <button class="buttonform">
+                            <a href=""><img src="./Assets/Imgs/2.png" alt="imgform3"></a>
+                        </button>
+                        <button class="buttonform">
+                            <a href=""><img src="./Assets/Imgs/3.png" alt="imgform3"></a>
+                        </button>
+                        <h4>
+
+            </div>
+
+            <H5>Property Name</H5>
+            </h4>Address </h4>
+            <h4>City </h4>
+            <h4>Tenanst </h4>
+            <h4>Zip</h4>
+            <h4>Type</h4>
+            <h4>SubType</h4>
+            <h4>Size</h4>
+            <h4>GLA</h4>
+            <h4>Stake</h4>
             </h4>
 
         </div>

@@ -39,6 +39,7 @@ body {
 .container {
     display: grid;
     height: 100vh;
+    /*grid-template-columns : 2.665fr 1fr 1fr 1fr;*/
     grid-template-columns: 0.75fr 1fr 1fr 1fr;
     grid-template-rows: 0.05fr 0.2fr 0.2fr 0.01fr 0.2fr 0.1fr 0.2fr;
     grid-template-areas:

@@ -5,7 +5,7 @@
 
 ?>
 
-<div id="content1"> //content1
+<div id="content1">
     <div class="buildbui">
         <div class="build bui1">#Of Buildings</div>
         <div class="build bui2">Gross Area(Sq.Ft.)</div>

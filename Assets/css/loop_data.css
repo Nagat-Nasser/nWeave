@@ -150,21 +150,39 @@ div.formimg0 {
     display: grid;
     font-size: 17px;
     /* margin-left: -1px; */
-    grid-template-columns: 42.2fr 42.2fr 42.2fr 42.2fr 120.2fr 49.2fr 50.2fr 96.2fr 92.2fr 92.2fr 92.2fr 92.2fr 92.2fr;
-    gap: 7.4px 53.4px;
+    grid-template-columns: repeat(11 , 8%);
+    gap: 32px 135px;
     grid-auto-flow: row;
     width: 100px;
-
-    margin-left: 37px;
+    margin-left: 194px;
 }
-
+div.formimg1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left: 33px; */
+    margin-top: 42px;
+    display: grid;
+    font-size: 17px;
+    /* margin-left: -1px; */
+    grid-template-columns: repeat(14, 6%);
+    gap: 32px 135px;
+    grid-auto-flow: row;
+    width: 100px;
+    margin-left: 194px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+}
 .pages {
     justify-content: center;
     align-items: center;
     width: 100%;
-    overflow: hidden;
+    /*overflow: hidden;*/
     /* height: 50%; */
+
     overflow-x: scroll;
+    overflow-y: scroll;
 }
 
 .PA2 {
@@ -211,6 +229,7 @@ div.formimg0 {
     margin-top: -37px;
     /* display: flex; */
     /* margin-left: 35px; */
+    flex-direction: row;
 
 
 }
@@ -280,4 +299,23 @@ img[alt="imgform3"] {
     /* position: absolute; */
     /* margin-top: -8px; */
     grid-area: "leftPA2";
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #010413;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
