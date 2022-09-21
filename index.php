@@ -17,7 +17,7 @@
     
     
     <title>ZEYSTRA</title>
-</head>
+</head>  //update
 <body>
 <div class="container">
     <?php include "config.php" ?>
