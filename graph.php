@@ -136,7 +136,7 @@
 
 
                             ?>
-                            <div class="year_data"><?php echo $year_data ?></div>
+                            <div class="width"><?php echo $year_data ?></div>
 
                         </div>
                     <?php  }?>
@@ -146,20 +146,6 @@
 
 
             </div>
-        </div>
-
-
-        <div class="width">
-            <span class="spanchart2">2013</span>
-            <span class="spanchart2">2014</span>
-            <span class="spanchart2">2015</span>
-            <span class="spanchart2">2016</span>
-            <span class="spanchart2">2017</span>
-            <span class="spanchart2">2018</span>
-            <span class="spanchart2">2019 </span>
-            <span class="spanchart2">2020 </span>
-            <span class="spanchart2">2021</span>
-
         </div>
 
 

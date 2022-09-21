@@ -6,7 +6,9 @@
             <!-- <a href=""><img src="./Assets/Imgs/Capture2.PNG" alt="imgside2"></a> -->
         </button>
 
-        <input type="text" class="pagesearch" placeholder="Search...">
+        <label>
+            <input type="text" class="pagesearch" placeholder="Search...">
+        </label>
         <button class="button">
             <a href=""><img src="./Assets/Imgs/square_20220723_120015 (4).jpg" alt="imgpa0"></a>
         </button>
@@ -116,4 +118,3 @@
     </div>
 </div>
 
-/*update*/

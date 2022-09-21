@@ -195,5 +195,3 @@
 </div>
 <?php wh_log('log', ' print company data End '); ?>
 
-
-/*update*/

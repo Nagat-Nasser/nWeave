@@ -67,7 +67,7 @@ gap: 33px;
 
 #charts2 {
     grid-area: charts2;
-    overflow: auto;
+    overflow: hidden;
 }
 
 
@@ -80,7 +80,7 @@ gap: 33px;
     justify-content: space-evenly;
     width: 100%;
     position: relative;
-    left: -36px;
+    left: -41%;
     top: 208px;
 }
 
@@ -99,9 +99,11 @@ gap: 33px;
         "positive_part_of_graph"
         "negative_part_of_graph";
     height: 471px;
-    overflow: hidden;
     position: relative;
     top:51px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
 
 }
 
@@ -130,7 +132,7 @@ gap: 33px;
 }
 
 .Net_data_chart {
-    width: 25px;
+    width: 32px;
     position: revert;
     border: 5PX SOLID #795ab0;
     /* margin-left: -4px; */
@@ -139,14 +141,14 @@ gap: 33px;
 }
 
 .Acquisition_data_chart {
-    width: 29px;
+    width: 34px;
     background-color: #d59563;
     position: revert;
     display: inline-block;
 }
 
 .Dispoaition_data_chart {
-    width: 27px;
+    width: 49px;
     background-color: #439abb;
     position: revert;
     display: inline-block;
@@ -155,7 +157,7 @@ gap: 33px;
 
 .positive_part_of_graph {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: .5fr 1.6fr .7fr 1.2fr 1fr 1fr 1fr 1fr 1fr .8fr;
     display: grid;
     grid-auto-columns: 1fr;
     grid-template-rows: repeat(8, minmax(0, 1fr)) -91.6rem;

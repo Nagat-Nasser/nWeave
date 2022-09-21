@@ -41,17 +41,16 @@
     }
 
     .width {
-
         COLOR: aliceblue;
         FONT-SIZE: 21PX;
         display: flex;
         flex-direction: row;
         align-content: stretch;
         justify-content: space-evenly;
-        width: 210%;
+        width: 100%;
         position: relative;
-        left: -13px;
-        top: -10px;
+        left: -41%;
+        top: 208px;
     }
 
     .imgside1 {
@@ -271,7 +270,7 @@
 
     .scroll-chart {
         overflow-x: scroll;
-        margin-top: -68px;
+        margin-top: -40px;
         /*margin-left: 85px;*/
     }
 

@@ -84,6 +84,29 @@ function get_graph_data($access_token,$account_id) //Api graph
     return $graph_data;
 }
 
+function get_graph_year_data($access_token,$account_id) //Api graph_year
+{
+
+    $curls = curl_init();
+    curl_setopt_array($curls,array(
+        CURLOPT_URL => 'https://zeustrare.my.salesforce.com/services/apexrest/DashboardAccountData/'.$account_id.'/?limitRecords=1000&selectedData=investAct&startYear=2012&endYear=2020',
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_CUSTOMREQUEST => 'GET',
+        CURLOPT_HTTPHEADER => array(
+            'Authorization: Bearer ' . $access_token,
+        ),
+    ));
+    $response = curl_exec($curls);
+    $graph_year_data = json_decode($response);
+
+    curl_close($curls);
+
+    return $graph_year_data;
+}
+
+
+
+
 function get_property_data($access_token,$account_id) //Api Property
 {
 
@@ -106,7 +129,8 @@ function get_property_data($access_token,$account_id) //Api Property
 
 $access_token = get_access_token();
 $Account_Data = get_account_data($access_token,$_GET['account_id']); //0016e00002zuFq9AAE
-$graph_data = $Account_Data;
+$graph_data = get_graph_data($access_token,$_GET['account_id']);
+$graph_year_data = get_graph_year_data($access_token,$_GET['account_id']);
 $property_data = get_property_data($access_token,$_GET['account_id']); //0016e00002zuFq9AAE
 
 wh_log('log', 'Retrieve GET data request');
@@ -119,6 +143,3 @@ if (is_array($Account_Data) && isset($Account_Data[0]->errorCode) &&$Account_Dat
 
 ?>
 
-
-<!---->
-<!--update-->

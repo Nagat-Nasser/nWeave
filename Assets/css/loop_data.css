@@ -302,7 +302,7 @@ img[alt="imgform3"] {
 }
 
 ::-webkit-scrollbar {
-    width: 20px;
+    width: 6px;
 }
 
 /* Track */
@@ -320,5 +320,3 @@ img[alt="imgform3"] {
     background: #555;
 }
 
-
-/*update*/
