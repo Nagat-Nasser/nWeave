@@ -17,7 +17,7 @@
     
     
     <title>ZEYSTRA</title>
-</head>  //update
+</head>
 <body>
 <div class="container">
     <?php include "config.php" ?>
@@ -32,3 +32,4 @@
 </div>
 </body>
 </html>
+/*update*/
