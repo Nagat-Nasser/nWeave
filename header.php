@@ -15,5 +15,3 @@
         alt="adminLogo"></a>
   </button>
 </nav>
-
-/*update*/
