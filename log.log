@@ -1,2340 +1,1566 @@
-2022-09-19 12:53:55pm: --------------------------
-2022-09-19 12:53:55pm: --------NEW REQUEST-------
-2022-09-19 12:53:55pm: Start page loading
-2022-09-19 12:53:55pm: Send access token request
-2022-09-19 12:53:55pm: Recieve access token request
-2022-09-19 12:53:55pm: Start GET data request
-2022-09-19 12:54:00pm: Retrieve GET data request
-2022-09-19 12:54:00pm:  print company data 
-2022-09-19 12:54:00pm:  print company data End 
-2022-09-19 12:54:00pm:  print statistical circles data 
-2022-09-19 12:54:00pm: -----------END------------
-2022-09-19 12:55:17pm: --------------------------
-2022-09-19 12:55:17pm: --------NEW REQUEST-------
-2022-09-19 12:55:17pm: Start page loading
-2022-09-19 12:55:17pm: Send access token request
-2022-09-19 12:55:17pm: Recieve access token request
-2022-09-19 12:55:17pm: Start GET data request
-2022-09-19 12:55:21pm: Retrieve GET data request
-2022-09-19 12:55:21pm:  print company data 
-2022-09-19 12:55:21pm:  print company data End 
-2022-09-19 12:55:21pm:  print statistical circles data 
-2022-09-19 12:55:21pm: -----------END------------
-2022-09-19 12:55:42pm: --------------------------
-2022-09-19 12:55:42pm: --------NEW REQUEST-------
-2022-09-19 12:55:42pm: Start page loading
-2022-09-19 12:55:42pm: Send access token request
-2022-09-19 12:55:42pm: Recieve access token request
-2022-09-19 12:55:42pm: Start GET data request
-2022-09-19 12:55:46pm: Retrieve GET data request
-2022-09-19 12:55:46pm:  print company data 
-2022-09-19 12:55:46pm:  print company data End 
-2022-09-19 12:55:46pm:  print statistical circles data 
-2022-09-19 12:55:46pm: -----------END------------
-2022-09-19 12:57:00pm: --------------------------
-2022-09-19 12:57:00pm: --------NEW REQUEST-------
-2022-09-19 12:57:00pm: Start page loading
-2022-09-19 12:57:00pm: Send access token request
-2022-09-19 12:57:00pm: Recieve access token request
-2022-09-19 12:57:00pm: Start GET data request
-2022-09-19 12:57:05pm: Retrieve GET data request
-2022-09-19 12:57:05pm:  print company data 
-2022-09-19 12:57:05pm:  print company data End 
-2022-09-19 12:57:05pm:  print statistical circles data 
-2022-09-19 12:57:05pm: -----------END------------
-2022-09-19 12:58:57pm: --------------------------
-2022-09-19 12:58:57pm: --------NEW REQUEST-------
-2022-09-19 12:58:57pm: Start page loading
-2022-09-19 12:58:57pm: Send access token request
-2022-09-19 12:58:57pm: Recieve access token request
-2022-09-19 12:58:57pm: Start GET data request
-2022-09-19 12:59:03pm: Retrieve GET data request
-2022-09-19 12:59:03pm:  print company data 
-2022-09-19 12:59:03pm:  print company data End 
-2022-09-19 12:59:03pm:  print statistical circles data 
-2022-09-19 12:59:03pm: -----------END------------
-2022-09-19 01:05:43pm: --------------------------
-2022-09-19 01:05:43pm: --------NEW REQUEST-------
-2022-09-19 01:05:43pm: Start page loading
-2022-09-19 01:05:43pm: Send access token request
-2022-09-19 01:05:43pm: Recieve access token request
-2022-09-19 01:05:43pm: Start GET data request
-2022-09-19 01:05:49pm: Retrieve GET data request
-2022-09-19 01:05:50pm:  print company data 
-2022-09-19 01:05:50pm:  print company data End 
-2022-09-19 01:05:50pm:  print statistical circles data 
-2022-09-19 01:05:50pm: -----------END------------
-2022-09-19 01:10:10pm: --------------------------
-2022-09-19 01:10:10pm: --------NEW REQUEST-------
-2022-09-19 01:10:10pm: Start page loading
-2022-09-19 01:10:10pm: Send access token request
-2022-09-19 01:10:10pm: Recieve access token request
-2022-09-19 01:10:10pm: Start GET data request
-2022-09-19 01:10:14pm: Retrieve GET data request
-2022-09-19 01:10:14pm:  print company data 
-2022-09-19 01:10:14pm:  print company data End 
-2022-09-19 01:10:14pm:  print statistical circles data 
-2022-09-19 01:10:14pm: -----------END------------
-2022-09-19 01:12:44pm: --------------------------
-2022-09-19 01:12:44pm: --------NEW REQUEST-------
-2022-09-19 01:12:44pm: Start page loading
-2022-09-19 01:12:44pm: Send access token request
-2022-09-19 01:12:44pm: Recieve access token request
-2022-09-19 01:12:44pm: Start GET data request
-2022-09-19 01:12:48pm: Retrieve GET data request
-2022-09-19 01:12:48pm:  print company data 
-2022-09-19 01:12:48pm:  print company data End 
-2022-09-19 01:12:48pm:  print statistical circles data 
-2022-09-19 01:12:48pm: -----------END------------
-2022-09-19 01:13:17pm: --------------------------
-2022-09-19 01:13:17pm: --------NEW REQUEST-------
-2022-09-19 01:13:17pm: Start page loading
-2022-09-19 01:13:17pm: Send access token request
-2022-09-19 01:13:17pm: Recieve access token request
-2022-09-19 01:13:17pm: Start GET data request
-2022-09-19 01:13:22pm: Retrieve GET data request
-2022-09-19 01:13:22pm:  print company data 
-2022-09-19 01:13:22pm:  print company data End 
-2022-09-19 01:13:22pm:  print statistical circles data 
-2022-09-19 01:13:22pm: -----------END------------
-2022-09-19 01:14:01pm: --------------------------
-2022-09-19 01:14:01pm: --------NEW REQUEST-------
-2022-09-19 01:14:01pm: Start page loading
-2022-09-19 01:14:01pm: Send access token request
-2022-09-19 01:14:01pm: Recieve access token request
-2022-09-19 01:14:01pm: Start GET data request
-2022-09-19 01:14:06pm: Retrieve GET data request
-2022-09-19 01:14:06pm:  print company data 
-2022-09-19 01:14:06pm:  print company data End 
-2022-09-19 01:14:06pm:  print statistical circles data 
-2022-09-19 01:14:06pm: -----------END------------
-2022-09-19 01:14:46pm: --------------------------
-2022-09-19 01:14:46pm: --------NEW REQUEST-------
-2022-09-19 01:14:46pm: Start page loading
-2022-09-19 01:14:46pm: Send access token request
-2022-09-19 01:14:46pm: Recieve access token request
-2022-09-19 01:14:46pm: Start GET data request
-2022-09-19 01:14:50pm: Retrieve GET data request
-2022-09-19 01:14:50pm:  print company data 
-2022-09-19 01:14:50pm:  print company data End 
-2022-09-19 01:14:50pm:  print statistical circles data 
-2022-09-19 01:14:50pm: -----------END------------
-2022-09-19 01:15:26pm: --------------------------
-2022-09-19 01:15:26pm: --------NEW REQUEST-------
-2022-09-19 01:15:26pm: Start page loading
-2022-09-19 01:15:26pm: Send access token request
-2022-09-19 01:15:26pm: Recieve access token request
-2022-09-19 01:15:26pm: Start GET data request
-2022-09-19 01:15:30pm: Retrieve GET data request
-2022-09-19 01:15:30pm:  print company data 
-2022-09-19 01:15:30pm:  print company data End 
-2022-09-19 01:15:30pm:  print statistical circles data 
-2022-09-19 01:15:30pm: -----------END------------
-2022-09-19 01:17:16pm: --------------------------
-2022-09-19 01:17:16pm: --------NEW REQUEST-------
-2022-09-19 01:17:16pm: Start page loading
-2022-09-19 01:17:16pm: Send access token request
-2022-09-19 01:17:16pm: Recieve access token request
-2022-09-19 01:17:16pm: Start GET data request
-2022-09-19 01:17:20pm: Retrieve GET data request
-2022-09-19 01:17:20pm:  print company data 
-2022-09-19 01:17:20pm:  print company data End 
-2022-09-19 01:17:20pm:  print statistical circles data 
-2022-09-19 01:17:20pm: -----------END------------
-2022-09-19 01:20:29pm: --------------------------
-2022-09-19 01:20:29pm: --------NEW REQUEST-------
-2022-09-19 01:20:29pm: Start page loading
-2022-09-19 01:20:29pm: Send access token request
-2022-09-19 01:20:29pm: Recieve access token request
-2022-09-19 01:20:29pm: Start GET data request
-2022-09-19 01:20:34pm: Retrieve GET data request
-2022-09-19 01:20:34pm:  print company data 
-2022-09-19 01:20:34pm:  print company data End 
-2022-09-19 01:20:34pm:  print statistical circles data 
-2022-09-19 01:20:34pm: -----------END------------
-2022-09-19 01:22:37pm: --------------------------
-2022-09-19 01:22:37pm: --------NEW REQUEST-------
-2022-09-19 01:22:37pm: Start page loading
-2022-09-19 01:22:37pm: Send access token request
-2022-09-19 01:22:37pm: Recieve access token request
-2022-09-19 01:22:37pm: Start GET data request
-2022-09-19 01:22:41pm: Retrieve GET data request
-2022-09-19 01:22:41pm:  print company data 
-2022-09-19 01:22:41pm:  print company data End 
-2022-09-19 01:22:41pm:  print statistical circles data 
-2022-09-19 01:22:41pm: -----------END------------
-2022-09-19 01:26:21pm: --------------------------
-2022-09-19 01:26:21pm: --------NEW REQUEST-------
-2022-09-19 01:26:21pm: Start page loading
-2022-09-19 01:26:21pm: Send access token request
-2022-09-19 01:26:21pm: Recieve access token request
-2022-09-19 01:26:21pm: Start GET data request
-2022-09-19 01:26:26pm: Retrieve GET data request
-2022-09-19 01:26:26pm:  print company data 
-2022-09-19 01:26:26pm:  print company data End 
-2022-09-19 01:26:26pm:  print statistical circles data 
-2022-09-19 01:26:26pm: -----------END------------
-2022-09-19 01:35:11pm: --------------------------
-2022-09-19 01:35:11pm: --------NEW REQUEST-------
-2022-09-19 01:35:11pm: Start page loading
-2022-09-19 01:35:11pm: Send access token request
-2022-09-19 01:35:11pm: Recieve access token request
-2022-09-19 01:35:11pm: Start GET data request
-2022-09-19 01:35:45pm: Retrieve GET data request
-2022-09-19 01:35:45pm:  print company data 
-2022-09-19 01:35:45pm:  print company data End 
-2022-09-19 01:35:45pm:  print statistical circles data 
-2022-09-19 01:35:45pm: -----------END------------
-2022-09-19 01:37:43pm: --------------------------
-2022-09-19 01:37:43pm: --------NEW REQUEST-------
-2022-09-19 01:37:43pm: Start page loading
-2022-09-19 01:37:43pm: Send access token request
-2022-09-19 01:37:43pm: Recieve access token request
-2022-09-19 01:37:43pm: Start GET data request
-2022-09-19 01:38:03pm: Retrieve GET data request
-2022-09-19 01:38:03pm:  print company data 
-2022-09-19 01:38:03pm:  print company data End 
-2022-09-19 01:38:03pm:  print statistical circles data 
-2022-09-19 01:38:03pm: -----------END------------
-2022-09-19 02:34:35pm: --------------------------
-2022-09-19 02:34:35pm: --------NEW REQUEST-------
-2022-09-19 02:34:35pm: Start page loading
-2022-09-19 02:34:35pm: Send access token request
-2022-09-19 02:34:35pm: Recieve access token request
-2022-09-19 02:34:35pm: Start GET data request
-2022-09-19 02:34:46pm: Retrieve GET data request
-2022-09-19 02:34:46pm:  print company data 
-2022-09-19 02:34:46pm:  print company data End 
-2022-09-19 02:34:46pm:  print statistical circles data 
-2022-09-19 02:34:46pm: -----------END------------
-2022-09-19 02:37:15pm: --------------------------
-2022-09-19 02:37:15pm: --------NEW REQUEST-------
-2022-09-19 02:37:15pm: Start page loading
-2022-09-19 02:37:15pm: Send access token request
-2022-09-19 02:37:15pm: Recieve access token request
-2022-09-19 02:37:15pm: Start GET data request
-2022-09-19 02:37:24pm: Retrieve GET data request
-2022-09-19 02:37:24pm:  print company data 
-2022-09-19 02:37:24pm:  print company data End 
-2022-09-19 02:37:24pm:  print statistical circles data 
-2022-09-19 02:37:24pm: -----------END------------
-2022-09-19 02:44:15pm: --------------------------
-2022-09-19 02:44:15pm: --------NEW REQUEST-------
-2022-09-19 02:44:15pm: Start page loading
-2022-09-19 02:44:15pm: Send access token request
-2022-09-19 02:44:15pm: Recieve access token request
-2022-09-19 02:44:15pm: Start GET data request
-2022-09-19 02:44:20pm: Retrieve GET data request
-2022-09-19 02:44:20pm:  print company data 
-2022-09-19 02:44:20pm:  print company data End 
-2022-09-19 02:44:20pm:  print statistical circles data 
-2022-09-19 02:44:20pm: -----------END------------
-2022-09-19 02:46:43pm: --------------------------
-2022-09-19 02:46:43pm: --------NEW REQUEST-------
-2022-09-19 02:46:43pm: Start page loading
-2022-09-19 02:46:43pm: Send access token request
-2022-09-19 02:46:43pm: Recieve access token request
-2022-09-19 02:46:43pm: Start GET data request
-2022-09-19 02:46:48pm: Retrieve GET data request
-2022-09-19 02:46:48pm:  print company data 
-2022-09-19 02:46:48pm:  print company data End 
-2022-09-19 02:46:48pm:  print statistical circles data 
-2022-09-19 02:46:48pm: -----------END------------
-2022-09-19 02:49:15pm: --------------------------
-2022-09-19 02:49:15pm: --------NEW REQUEST-------
-2022-09-19 02:49:15pm: Start page loading
-2022-09-19 02:49:15pm: Send access token request
-2022-09-19 02:49:15pm: Recieve access token request
-2022-09-19 02:49:15pm: Start GET data request
-2022-09-19 02:49:21pm: Retrieve GET data request
-2022-09-19 02:49:21pm:  print company data 
-2022-09-19 02:49:21pm:  print company data End 
-2022-09-19 02:49:21pm:  print statistical circles data 
-2022-09-19 02:49:21pm: -----------END------------
-2022-09-19 02:51:12pm: --------------------------
-2022-09-19 02:51:12pm: --------NEW REQUEST-------
-2022-09-19 02:51:12pm: Start page loading
-2022-09-19 02:51:12pm: Send access token request
-2022-09-19 02:51:12pm: Recieve access token request
-2022-09-19 02:51:12pm: Start GET data request
-2022-09-19 02:51:17pm: Retrieve GET data request
-2022-09-19 02:51:17pm:  print company data 
-2022-09-19 02:51:17pm:  print company data End 
-2022-09-19 02:51:17pm:  print statistical circles data 
-2022-09-19 02:51:17pm: -----------END------------
-2022-09-19 03:08:43pm: --------------------------
-2022-09-19 03:08:43pm: --------NEW REQUEST-------
-2022-09-19 03:08:43pm: Start page loading
-2022-09-19 03:08:43pm: Send access token request
-2022-09-19 03:08:43pm: Recieve access token request
-2022-09-19 03:08:43pm: Start GET data request
-2022-09-19 03:08:47pm: Retrieve GET data request
-2022-09-19 03:08:47pm:  print company data 
-2022-09-19 03:08:47pm:  print company data End 
-2022-09-19 03:09:25pm: --------------------------
-2022-09-19 03:09:25pm: --------NEW REQUEST-------
-2022-09-19 03:09:25pm: Start page loading
-2022-09-19 03:09:25pm: Send access token request
-2022-09-19 03:09:25pm: Recieve access token request
-2022-09-19 03:09:25pm: Start GET data request
-2022-09-19 03:09:30pm: Retrieve GET data request
-2022-09-19 03:09:30pm:  print company data 
-2022-09-19 03:09:30pm:  print company data End 
-2022-09-19 03:09:30pm:  print statistical circles data 
-2022-09-19 03:09:30pm: -----------END------------
-2022-09-19 03:10:20pm: --------------------------
-2022-09-19 03:10:20pm: --------NEW REQUEST-------
-2022-09-19 03:10:20pm: Start page loading
-2022-09-19 03:10:20pm: Send access token request
-2022-09-19 03:10:20pm: Recieve access token request
-2022-09-19 03:10:20pm: Start GET data request
-2022-09-19 03:10:25pm: Retrieve GET data request
-2022-09-19 03:10:25pm:  print company data 
-2022-09-19 03:10:25pm:  print company data End 
-2022-09-19 03:10:25pm:  print statistical circles data 
-2022-09-19 03:10:25pm: -----------END------------
-2022-09-19 03:16:19pm: --------------------------
-2022-09-19 03:16:19pm: --------NEW REQUEST-------
-2022-09-19 03:16:19pm: Start page loading
-2022-09-19 03:16:19pm: Send access token request
-2022-09-19 03:16:19pm: Recieve access token request
-2022-09-19 03:16:19pm: Start GET data request
-2022-09-19 03:16:24pm: Retrieve GET data request
-2022-09-19 03:16:24pm:  print company data 
-2022-09-19 03:16:24pm:  print company data End 
-2022-09-19 03:16:24pm:  print statistical circles data 
-2022-09-19 03:16:24pm: -----------END------------
-2022-09-19 03:19:19pm: --------------------------
-2022-09-19 03:19:19pm: --------NEW REQUEST-------
-2022-09-19 03:19:19pm: Start page loading
-2022-09-19 03:19:19pm: Send access token request
-2022-09-19 03:19:19pm: Recieve access token request
-2022-09-19 03:19:19pm: Start GET data request
-2022-09-19 03:19:24pm: Retrieve GET data request
-2022-09-19 03:19:24pm:  print company data 
-2022-09-19 03:19:24pm:  print company data End 
-2022-09-19 03:19:24pm:  print statistical circles data 
-2022-09-19 03:19:24pm: -----------END------------
-2022-09-19 03:20:33pm: --------------------------
-2022-09-19 03:20:33pm: --------NEW REQUEST-------
-2022-09-19 03:20:33pm: Start page loading
-2022-09-19 03:20:33pm: Send access token request
-2022-09-19 03:20:33pm: Recieve access token request
-2022-09-19 03:20:33pm: Start GET data request
-2022-09-19 03:20:38pm: Retrieve GET data request
-2022-09-19 03:20:38pm:  print company data 
-2022-09-19 03:20:38pm:  print company data End 
-2022-09-19 03:20:38pm:  print statistical circles data 
-2022-09-19 03:20:38pm: -----------END------------
-2022-09-19 03:25:08pm: --------------------------
-2022-09-19 03:25:08pm: --------NEW REQUEST-------
-2022-09-19 03:25:08pm: Start page loading
-2022-09-19 03:25:08pm: Send access token request
-2022-09-19 03:25:08pm: Recieve access token request
-2022-09-19 03:25:08pm: Start GET data request
-2022-09-19 03:25:13pm: Retrieve GET data request
-2022-09-19 03:25:13pm:  print company data 
-2022-09-19 03:25:13pm:  print company data End 
-2022-09-19 03:25:13pm:  print statistical circles data 
-2022-09-19 03:25:13pm: -----------END------------
-2022-09-19 03:31:08pm: --------------------------
-2022-09-19 03:31:08pm: --------NEW REQUEST-------
-2022-09-19 03:31:08pm: Start page loading
-2022-09-19 03:31:08pm: Send access token request
-2022-09-19 03:31:08pm: Recieve access token request
-2022-09-19 03:31:08pm: Start GET data request
-2022-09-19 03:31:14pm: Retrieve GET data request
-2022-09-19 03:31:14pm:  print company data 
-2022-09-19 03:31:14pm:  print company data End 
-2022-09-19 03:31:14pm:  print statistical circles data 
-2022-09-19 03:31:14pm: -----------END------------
-2022-09-19 03:32:57pm: --------------------------
-2022-09-19 03:32:57pm: --------NEW REQUEST-------
-2022-09-19 03:32:57pm: Start page loading
-2022-09-19 03:32:57pm: Send access token request
-2022-09-19 03:32:57pm: Recieve access token request
-2022-09-19 03:32:57pm: Start GET data request
-2022-09-19 03:33:04pm: Retrieve GET data request
-2022-09-19 03:33:04pm:  print company data 
-2022-09-19 03:33:04pm:  print company data End 
-2022-09-19 03:33:04pm:  print statistical circles data 
-2022-09-19 03:33:04pm: -----------END------------
-2022-09-19 03:33:44pm: --------------------------
-2022-09-19 03:33:44pm: --------NEW REQUEST-------
-2022-09-19 03:33:44pm: Start page loading
-2022-09-19 03:33:44pm: Send access token request
-2022-09-19 03:33:44pm: Recieve access token request
-2022-09-19 03:33:44pm: Start GET data request
-2022-09-19 03:33:52pm: Retrieve GET data request
-2022-09-19 03:33:52pm:  print company data 
-2022-09-19 03:33:52pm:  print company data End 
-2022-09-19 03:33:52pm:  print statistical circles data 
-2022-09-19 03:33:52pm: -----------END------------
-2022-09-19 03:35:32pm: --------------------------
-2022-09-19 03:35:32pm: --------NEW REQUEST-------
-2022-09-19 03:35:32pm: Start page loading
-2022-09-19 03:35:32pm: Send access token request
-2022-09-19 03:35:32pm: Recieve access token request
-2022-09-19 03:35:32pm: Start GET data request
-2022-09-19 03:35:40pm: Retrieve GET data request
-2022-09-19 03:35:40pm:  print company data 
-2022-09-19 03:35:40pm:  print company data End 
-2022-09-19 03:36:00pm: --------------------------
-2022-09-19 03:36:00pm: --------NEW REQUEST-------
-2022-09-19 03:36:00pm: Start page loading
-2022-09-19 03:36:00pm: Send access token request
-2022-09-19 03:36:00pm: Recieve access token request
-2022-09-19 03:36:00pm: Start GET data request
-2022-09-19 03:36:04pm: Retrieve GET data request
-2022-09-19 03:36:04pm:  print company data 
-2022-09-19 03:36:04pm:  print company data End 
-2022-09-19 03:36:04pm:  print statistical circles data 
-2022-09-19 03:36:04pm: -----------END------------
-2022-09-19 03:36:48pm: --------------------------
-2022-09-19 03:36:48pm: --------NEW REQUEST-------
-2022-09-19 03:36:48pm: Start page loading
-2022-09-19 03:36:48pm: Send access token request
-2022-09-19 03:36:48pm: Recieve access token request
-2022-09-19 03:36:48pm: Start GET data request
-2022-09-19 03:36:53pm: Retrieve GET data request
-2022-09-19 03:36:53pm:  print company data 
-2022-09-19 03:36:53pm:  print company data End 
-2022-09-19 03:36:53pm:  print statistical circles data 
-2022-09-19 03:36:53pm: -----------END------------
-2022-09-19 03:37:37pm: --------------------------
-2022-09-19 03:37:37pm: --------NEW REQUEST-------
-2022-09-19 03:37:37pm: Start page loading
-2022-09-19 03:37:37pm: Send access token request
-2022-09-19 03:37:37pm: Recieve access token request
-2022-09-19 03:37:37pm: Start GET data request
-2022-09-19 03:37:41pm: Retrieve GET data request
-2022-09-19 03:37:41pm:  print company data 
-2022-09-19 03:37:41pm:  print company data End 
-2022-09-19 03:37:41pm:  print statistical circles data 
-2022-09-19 03:37:41pm: -----------END------------
-2022-09-19 03:39:39pm: --------------------------
-2022-09-19 03:39:39pm: --------NEW REQUEST-------
-2022-09-19 03:39:39pm: Start page loading
-2022-09-19 03:39:39pm: Send access token request
-2022-09-19 03:39:39pm: Recieve access token request
-2022-09-19 03:39:39pm: Start GET data request
-2022-09-19 03:39:47pm: Retrieve GET data request
-2022-09-19 03:39:47pm:  print company data 
-2022-09-19 03:39:47pm:  print company data End 
-2022-09-19 03:39:47pm:  print statistical circles data 
-2022-09-19 03:39:47pm: -----------END------------
-2022-09-19 03:40:22pm: --------------------------
-2022-09-19 03:40:22pm: --------NEW REQUEST-------
-2022-09-19 03:40:22pm: Start page loading
-2022-09-19 03:40:22pm: Send access token request
-2022-09-19 03:40:22pm: Recieve access token request
-2022-09-19 03:40:22pm: Start GET data request
-2022-09-19 03:40:26pm: Retrieve GET data request
-2022-09-19 03:40:26pm:  print company data 
-2022-09-19 03:40:26pm:  print company data End 
-2022-09-19 03:40:26pm:  print statistical circles data 
-2022-09-19 03:40:26pm: -----------END------------
-2022-09-19 03:42:01pm: --------------------------
-2022-09-19 03:42:01pm: --------NEW REQUEST-------
-2022-09-19 03:42:01pm: Start page loading
-2022-09-19 03:42:01pm: Send access token request
-2022-09-19 03:42:01pm: Recieve access token request
-2022-09-19 03:42:01pm: Start GET data request
-2022-09-19 03:42:05pm: Retrieve GET data request
-2022-09-19 03:42:05pm:  print company data 
-2022-09-19 03:42:05pm:  print company data End 
-2022-09-19 03:42:05pm:  print statistical circles data 
-2022-09-19 03:42:05pm: -----------END------------
-2022-09-19 03:43:37pm: --------------------------
-2022-09-19 03:43:37pm: --------NEW REQUEST-------
-2022-09-19 03:43:37pm: Start page loading
-2022-09-19 03:43:37pm: Send access token request
-2022-09-19 03:43:37pm: Recieve access token request
-2022-09-19 03:43:37pm: Start GET data request
-2022-09-19 03:43:42pm: Retrieve GET data request
-2022-09-19 03:43:42pm:  print company data 
-2022-09-19 03:43:42pm:  print company data End 
-2022-09-19 03:43:42pm:  print statistical circles data 
-2022-09-19 03:43:42pm: -----------END------------
-2022-09-19 03:43:46pm: --------------------------
-2022-09-19 03:43:46pm: --------NEW REQUEST-------
-2022-09-19 03:43:46pm: Start page loading
-2022-09-19 03:43:46pm: Send access token request
-2022-09-19 03:43:46pm: Recieve access token request
-2022-09-19 03:43:46pm: Start GET data request
-2022-09-19 03:43:51pm: Retrieve GET data request
-2022-09-19 03:43:51pm:  print company data 
-2022-09-19 03:43:51pm:  print company data End 
-2022-09-19 03:43:51pm:  print statistical circles data 
-2022-09-19 03:43:51pm: -----------END------------
-2022-09-19 03:45:36pm: --------------------------
-2022-09-19 03:45:36pm: --------NEW REQUEST-------
-2022-09-19 03:45:36pm: Start page loading
-2022-09-19 03:45:36pm: Send access token request
-2022-09-19 03:45:36pm: Recieve access token request
-2022-09-19 03:45:36pm: Start GET data request
-2022-09-19 03:45:41pm: Retrieve GET data request
-2022-09-19 03:45:41pm:  print company data 
-2022-09-19 03:45:41pm:  print company data End 
-2022-09-19 03:45:41pm:  print statistical circles data 
-2022-09-19 03:45:41pm: -----------END------------
-2022-09-19 03:48:55pm: --------------------------
-2022-09-19 03:48:55pm: --------NEW REQUEST-------
-2022-09-19 03:48:55pm: Start page loading
-2022-09-19 03:48:55pm: Send access token request
-2022-09-19 03:48:55pm: Recieve access token request
-2022-09-19 03:48:55pm: Start GET data request
-2022-09-19 03:48:59pm: Retrieve GET data request
-2022-09-19 03:48:59pm:  print company data 
-2022-09-19 03:48:59pm:  print company data End 
-2022-09-19 03:48:59pm:  print statistical circles data 
-2022-09-19 03:48:59pm: -----------END------------
-2022-09-19 03:49:23pm: --------------------------
-2022-09-19 03:49:23pm: --------NEW REQUEST-------
-2022-09-19 03:49:23pm: Start page loading
-2022-09-19 03:49:23pm: Send access token request
-2022-09-19 03:49:23pm: Recieve access token request
-2022-09-19 03:49:23pm: Start GET data request
-2022-09-19 03:49:27pm: Retrieve GET data request
-2022-09-19 03:49:27pm:  print company data 
-2022-09-19 03:49:27pm:  print company data End 
-2022-09-19 03:49:27pm:  print statistical circles data 
-2022-09-19 03:49:27pm: -----------END------------
-2022-09-19 03:51:50pm: --------------------------
-2022-09-19 03:51:50pm: --------NEW REQUEST-------
-2022-09-19 03:51:50pm: Start page loading
-2022-09-19 03:51:50pm: Send access token request
-2022-09-19 03:51:50pm: Recieve access token request
-2022-09-19 03:51:50pm: Start GET data request
-2022-09-19 03:51:55pm: Retrieve GET data request
-2022-09-19 03:51:55pm:  print company data 
-2022-09-19 03:51:55pm:  print company data End 
-2022-09-19 03:51:55pm:  print statistical circles data 
-2022-09-19 03:51:55pm: -----------END------------
-2022-09-19 04:02:42pm: --------------------------
-2022-09-19 04:02:42pm: --------NEW REQUEST-------
-2022-09-19 04:02:42pm: Start page loading
-2022-09-19 04:02:42pm: Send access token request
-2022-09-19 04:02:42pm: Recieve access token request
-2022-09-19 04:02:42pm: Start GET data request
-2022-09-19 04:02:50pm: Retrieve GET data request
-2022-09-19 04:02:50pm:  print company data 
-2022-09-19 04:02:50pm:  print company data End 
-2022-09-19 04:02:50pm:  print statistical circles data 
-2022-09-19 04:02:50pm: -----------END------------
-2022-09-19 04:04:10pm: --------------------------
-2022-09-19 04:04:10pm: --------NEW REQUEST-------
-2022-09-19 04:04:10pm: Start page loading
-2022-09-19 04:04:10pm: Send access token request
-2022-09-19 04:04:10pm: Recieve access token request
-2022-09-19 04:04:10pm: Start GET data request
-2022-09-19 04:04:15pm: Retrieve GET data request
-2022-09-19 04:04:15pm:  print company data 
-2022-09-19 04:04:15pm:  print company data End 
-2022-09-19 04:04:15pm:  print statistical circles data 
-2022-09-19 04:04:15pm: -----------END------------
-2022-09-19 04:05:08pm: --------------------------
-2022-09-19 04:05:08pm: --------NEW REQUEST-------
-2022-09-19 04:05:08pm: Start page loading
-2022-09-19 04:05:08pm: Send access token request
-2022-09-19 04:05:08pm: Recieve access token request
-2022-09-19 04:05:08pm: Start GET data request
-2022-09-19 04:05:12pm: Retrieve GET data request
-2022-09-19 04:05:12pm:  print company data 
-2022-09-19 04:05:12pm:  print company data End 
-2022-09-19 04:05:12pm:  print statistical circles data 
-2022-09-19 04:05:12pm: -----------END------------
-2022-09-19 04:06:14pm: --------------------------
-2022-09-19 04:06:14pm: --------NEW REQUEST-------
-2022-09-19 04:06:14pm: Start page loading
-2022-09-19 04:06:14pm: Send access token request
-2022-09-19 04:06:14pm: Recieve access token request
-2022-09-19 04:06:14pm: Start GET data request
-2022-09-19 04:06:19pm: Retrieve GET data request
-2022-09-19 04:06:19pm:  print company data 
-2022-09-19 04:06:19pm:  print company data End 
-2022-09-19 04:06:19pm:  print statistical circles data 
-2022-09-19 04:06:19pm: -----------END------------
-2022-09-19 04:07:01pm: --------------------------
-2022-09-19 04:07:01pm: --------NEW REQUEST-------
-2022-09-19 04:07:01pm: Start page loading
-2022-09-19 04:07:01pm: Send access token request
-2022-09-19 04:07:01pm: Recieve access token request
-2022-09-19 04:07:01pm: Start GET data request
-2022-09-19 04:07:06pm: Retrieve GET data request
-2022-09-19 04:07:06pm:  print company data 
-2022-09-19 04:07:06pm:  print company data End 
-2022-09-19 04:07:06pm:  print statistical circles data 
-2022-09-19 04:07:06pm: -----------END------------
-2022-09-19 04:10:51pm: --------------------------
-2022-09-19 04:10:51pm: --------NEW REQUEST-------
-2022-09-19 04:10:51pm: Start page loading
-2022-09-19 04:10:51pm: Send access token request
-2022-09-19 04:10:51pm: Recieve access token request
-2022-09-19 04:10:51pm: Start GET data request
-2022-09-19 04:10:56pm: Retrieve GET data request
-2022-09-19 04:10:56pm:  print company data 
-2022-09-19 04:10:56pm:  print company data End 
-2022-09-19 04:10:56pm:  print statistical circles data 
-2022-09-19 04:10:56pm: -----------END------------
-2022-09-19 04:11:36pm: --------------------------
-2022-09-19 04:11:36pm: --------NEW REQUEST-------
-2022-09-19 04:11:36pm: Start page loading
-2022-09-19 04:11:36pm: Send access token request
-2022-09-19 04:11:36pm: Recieve access token request
-2022-09-19 04:11:36pm: Start GET data request
-2022-09-19 04:11:41pm: Retrieve GET data request
-2022-09-19 04:11:41pm:  print company data 
-2022-09-19 04:11:41pm:  print company data End 
-2022-09-19 04:11:41pm:  print statistical circles data 
-2022-09-19 04:11:41pm: -----------END------------
-2022-09-19 04:11:56pm: --------------------------
-2022-09-19 04:11:56pm: --------NEW REQUEST-------
-2022-09-19 04:11:56pm: Start page loading
-2022-09-19 04:11:56pm: Send access token request
-2022-09-19 04:11:56pm: Recieve access token request
-2022-09-19 04:11:56pm: Start GET data request
-2022-09-19 04:12:01pm: Retrieve GET data request
-2022-09-19 04:12:01pm:  print company data 
-2022-09-19 04:12:01pm:  print company data End 
-2022-09-19 04:12:01pm:  print statistical circles data 
-2022-09-19 04:12:01pm: -----------END------------
-2022-09-19 04:14:18pm: --------------------------
-2022-09-19 04:14:18pm: --------NEW REQUEST-------
-2022-09-19 04:14:18pm: Start page loading
-2022-09-19 04:14:18pm: Send access token request
-2022-09-19 04:14:18pm: Recieve access token request
-2022-09-19 04:14:18pm: Start GET data request
-2022-09-19 04:14:24pm: Retrieve GET data request
-2022-09-19 04:14:24pm:  print company data 
-2022-09-19 04:14:24pm:  print company data End 
-2022-09-19 04:14:24pm:  print statistical circles data 
-2022-09-19 04:14:24pm: -----------END------------
-2022-09-19 04:15:25pm: --------------------------
-2022-09-19 04:15:25pm: --------NEW REQUEST-------
-2022-09-19 04:15:25pm: Start page loading
-2022-09-19 04:15:25pm: Send access token request
-2022-09-19 04:15:25pm: Recieve access token request
-2022-09-19 04:15:25pm: Start GET data request
-2022-09-19 04:15:30pm: Retrieve GET data request
-2022-09-19 04:15:30pm:  print company data 
-2022-09-19 04:15:30pm:  print company data End 
-2022-09-19 04:15:30pm:  print statistical circles data 
-2022-09-19 04:15:30pm: -----------END------------
-2022-09-19 04:31:02pm: --------------------------
-2022-09-19 04:31:02pm: --------NEW REQUEST-------
-2022-09-19 04:31:02pm: Start page loading
-2022-09-19 04:31:02pm: Send access token request
-2022-09-19 04:31:02pm: Recieve access token request
-2022-09-19 04:31:02pm: Start GET data request
-2022-09-19 04:31:07pm: Retrieve GET data request
-2022-09-19 04:31:08pm:  print company data 
-2022-09-19 04:31:08pm:  print company data End 
-2022-09-19 04:31:08pm:  print statistical circles data 
-2022-09-19 04:31:08pm: -----------END------------
-2022-09-19 04:35:25pm: --------------------------
-2022-09-19 04:35:25pm: --------NEW REQUEST-------
-2022-09-19 04:35:25pm: Start page loading
-2022-09-19 04:35:25pm: Send access token request
-2022-09-19 04:35:25pm: Recieve access token request
-2022-09-19 04:35:25pm: Start GET data request
-2022-09-19 04:35:30pm: Retrieve GET data request
-2022-09-19 04:35:30pm:  print company data 
-2022-09-19 04:35:30pm:  print company data End 
-2022-09-19 04:35:30pm:  print statistical circles data 
-2022-09-19 04:35:30pm: -----------END------------
-2022-09-19 04:36:09pm: --------------------------
-2022-09-19 04:36:09pm: --------NEW REQUEST-------
-2022-09-19 04:36:09pm: Start page loading
-2022-09-19 04:36:09pm: Send access token request
-2022-09-19 04:36:09pm: Recieve access token request
-2022-09-19 04:36:09pm: Start GET data request
-2022-09-19 04:36:15pm: Retrieve GET data request
-2022-09-19 04:36:15pm:  print company data 
-2022-09-19 04:36:15pm:  print company data End 
-2022-09-19 04:36:15pm:  print statistical circles data 
-2022-09-19 04:36:15pm: -----------END------------
-2022-09-19 04:37:11pm: --------------------------
-2022-09-19 04:37:11pm: --------NEW REQUEST-------
-2022-09-19 04:37:11pm: Start page loading
-2022-09-19 04:37:11pm: Send access token request
-2022-09-19 04:37:11pm: Recieve access token request
-2022-09-19 04:37:11pm: Start GET data request
-2022-09-19 04:37:18pm: Retrieve GET data request
-2022-09-19 04:37:18pm:  print company data 
-2022-09-19 04:37:18pm:  print company data End 
-2022-09-19 04:37:18pm:  print statistical circles data 
-2022-09-19 04:37:18pm: -----------END------------
-2022-09-19 04:41:27pm: --------------------------
-2022-09-19 04:41:27pm: --------NEW REQUEST-------
-2022-09-19 04:41:27pm: Start page loading
-2022-09-19 04:41:27pm: Send access token request
-2022-09-19 04:41:27pm: Recieve access token request
-2022-09-19 04:41:27pm: Start GET data request
-2022-09-19 04:41:33pm: Retrieve GET data request
-2022-09-19 04:41:33pm:  print company data 
-2022-09-19 04:41:33pm:  print company data End 
-2022-09-19 04:41:33pm: Send access token request
-2022-09-19 04:42:44pm: --------------------------
-2022-09-19 04:42:44pm: --------NEW REQUEST-------
-2022-09-19 04:42:44pm: Start page loading
-2022-09-19 04:42:44pm: Send access token request
-2022-09-19 04:42:44pm: Recieve access token request
-2022-09-19 04:42:44pm: Start GET data request
-2022-09-19 04:42:49pm: Retrieve GET data request
-2022-09-19 04:42:49pm:  print company data 
-2022-09-19 04:42:49pm:  print company data End 
-2022-09-19 04:44:33pm: --------------------------
-2022-09-19 04:44:33pm: --------NEW REQUEST-------
-2022-09-19 04:44:33pm: Start page loading
-2022-09-19 04:44:33pm: Send access token request
-2022-09-19 04:44:33pm: Recieve access token request
-2022-09-19 04:44:33pm: Start GET data request
-2022-09-19 04:44:40pm: Retrieve GET data request
-2022-09-19 04:44:40pm:  print company data 
-2022-09-19 04:44:40pm:  print company data End 
-2022-09-19 04:44:40pm:  print statistical circles data 
-2022-09-19 04:44:40pm: -----------END------------
-2022-09-19 04:45:34pm: --------------------------
-2022-09-19 04:45:34pm: --------NEW REQUEST-------
-2022-09-19 04:45:34pm: Start page loading
-2022-09-19 04:45:34pm: Send access token request
-2022-09-19 04:45:34pm: Recieve access token request
-2022-09-19 04:45:34pm: Start GET data request
-2022-09-19 04:45:39pm: Retrieve GET data request
-2022-09-19 04:45:39pm:  print company data 
-2022-09-19 04:45:39pm:  print company data End 
-2022-09-19 04:45:39pm:  print statistical circles data 
-2022-09-19 04:45:39pm: -----------END------------
-2022-09-19 04:46:16pm: --------------------------
-2022-09-19 04:46:16pm: --------NEW REQUEST-------
-2022-09-19 04:46:16pm: Start page loading
-2022-09-19 04:46:16pm: Send access token request
-2022-09-19 04:46:16pm: Recieve access token request
-2022-09-19 04:46:16pm: Start GET data request
-2022-09-19 04:46:21pm: Retrieve GET data request
-2022-09-19 04:46:21pm:  print company data 
-2022-09-19 04:46:21pm:  print company data End 
-2022-09-19 04:46:21pm:  print statistical circles data 
-2022-09-19 04:46:21pm: -----------END------------
-2022-09-19 04:54:48pm: --------------------------
-2022-09-19 04:54:48pm: --------NEW REQUEST-------
-2022-09-19 04:54:48pm: Start page loading
-2022-09-19 04:54:48pm: Send access token request
-2022-09-19 04:54:48pm: Recieve access token request
-2022-09-19 04:54:48pm: Start GET data request
-2022-09-19 04:54:52pm: Retrieve GET data request
-2022-09-19 04:54:52pm:  print company data 
-2022-09-19 04:54:52pm:  print company data End 
-2022-09-19 04:54:52pm:  print statistical circles data 
-2022-09-19 04:54:52pm: -----------END------------
-2022-09-19 04:57:16pm: --------------------------
-2022-09-19 04:57:16pm: --------NEW REQUEST-------
-2022-09-19 04:57:16pm: Start page loading
-2022-09-19 04:57:16pm: Send access token request
-2022-09-19 04:57:16pm: Recieve access token request
-2022-09-19 04:57:16pm: Start GET data request
-2022-09-19 04:57:21pm: Retrieve GET data request
-2022-09-19 04:57:21pm:  print company data 
-2022-09-19 04:57:21pm:  print company data End 
-2022-09-19 04:57:21pm:  print statistical circles data 
-2022-09-19 04:57:21pm: -----------END------------
-2022-09-19 05:00:54pm: --------------------------
-2022-09-19 05:00:54pm: --------NEW REQUEST-------
-2022-09-19 05:00:54pm: Start page loading
-2022-09-19 05:00:54pm: Send access token request
-2022-09-19 05:00:54pm: Recieve access token request
-2022-09-19 05:00:54pm: Start GET data request
-2022-09-19 05:00:58pm: Retrieve GET data request
-2022-09-19 05:00:58pm:  print company data 
-2022-09-19 05:00:58pm:  print company data End 
-2022-09-19 05:00:58pm:  print statistical circles data 
-2022-09-19 05:00:58pm: -----------END------------
-2022-09-19 05:06:59pm: --------------------------
-2022-09-19 05:06:59pm: --------NEW REQUEST-------
-2022-09-19 05:06:59pm: Start page loading
-2022-09-19 05:06:59pm: Send access token request
-2022-09-19 05:06:59pm: Recieve access token request
-2022-09-19 05:06:59pm: Start GET data request
-2022-09-19 05:07:04pm: Retrieve GET data request
-2022-09-19 05:07:04pm:  print company data 
-2022-09-19 05:07:04pm:  print company data End 
-2022-09-19 05:07:04pm:  print statistical circles data 
-2022-09-19 05:07:04pm: -----------END------------
-2022-09-19 05:08:59pm: --------------------------
-2022-09-19 05:08:59pm: --------NEW REQUEST-------
-2022-09-19 05:08:59pm: Start page loading
-2022-09-19 05:08:59pm: Send access token request
-2022-09-19 05:08:59pm: Recieve access token request
-2022-09-19 05:08:59pm: Start GET data request
-2022-09-19 05:09:04pm: Retrieve GET data request
-2022-09-19 05:09:04pm:  print company data 
-2022-09-19 05:09:04pm:  print company data End 
-2022-09-19 05:09:04pm:  print statistical circles data 
-2022-09-19 05:09:04pm: -----------END------------
-2022-09-19 05:12:19pm: --------------------------
-2022-09-19 05:12:19pm: --------NEW REQUEST-------
-2022-09-19 05:12:19pm: Start page loading
-2022-09-19 05:12:19pm: Send access token request
-2022-09-19 05:12:19pm: Recieve access token request
-2022-09-19 05:12:19pm: Start GET data request
-2022-09-19 05:12:25pm: Retrieve GET data request
-2022-09-19 05:12:25pm:  print company data 
-2022-09-19 05:12:25pm:  print company data End 
-2022-09-19 05:12:25pm:  print statistical circles data 
-2022-09-19 05:12:25pm: -----------END------------
-2022-09-19 09:37:09pm: --------------------------
-2022-09-19 09:37:09pm: --------NEW REQUEST-------
-2022-09-19 09:37:09pm: Start page loading
-2022-09-19 09:37:09pm: Send access token request
-2022-09-19 09:37:09pm: Recieve access token request
-2022-09-19 09:37:09pm: Start GET data request
-2022-09-19 09:37:19pm: Retrieve GET data request
-2022-09-19 09:37:19pm:  print company data 
-2022-09-19 09:37:19pm:  print company data End 
-2022-09-19 09:37:19pm:  print statistical circles data 
-2022-09-19 09:37:19pm: -----------END------------
-2022-09-19 09:45:32pm: --------------------------
-2022-09-19 09:45:32pm: --------NEW REQUEST-------
-2022-09-19 09:45:32pm: Start page loading
-2022-09-19 09:45:32pm: Send access token request
-2022-09-19 09:45:32pm: Recieve access token request
-2022-09-19 09:45:32pm: Start GET data request
-2022-09-19 09:45:37pm: Retrieve GET data request
-2022-09-19 09:45:37pm:  print company data 
-2022-09-19 09:45:37pm:  print company data End 
-2022-09-19 09:45:37pm:  print statistical circles data 
-2022-09-19 09:45:37pm: -----------END------------
-2022-09-19 09:48:17pm: --------------------------
-2022-09-19 09:48:17pm: --------NEW REQUEST-------
-2022-09-19 09:48:17pm: Start page loading
-2022-09-19 09:48:17pm: Send access token request
-2022-09-19 09:48:17pm: Recieve access token request
-2022-09-19 09:48:17pm: Start GET data request
-2022-09-19 09:48:23pm: Retrieve GET data request
-2022-09-19 09:48:23pm:  print company data 
-2022-09-19 09:48:23pm:  print company data End 
-2022-09-19 09:48:23pm:  print statistical circles data 
-2022-09-19 09:48:23pm: -----------END------------
-2022-09-19 09:50:37pm: --------------------------
-2022-09-19 09:50:37pm: --------NEW REQUEST-------
-2022-09-19 09:50:37pm: Start page loading
-2022-09-19 09:50:37pm: Send access token request
-2022-09-19 09:50:37pm: Recieve access token request
-2022-09-19 09:50:37pm: Start GET data request
-2022-09-19 09:50:42pm: Retrieve GET data request
-2022-09-19 09:50:42pm:  print company data 
-2022-09-19 09:50:42pm:  print company data End 
-2022-09-19 09:50:42pm:  print statistical circles data 
-2022-09-19 09:50:42pm: -----------END------------
-2022-09-19 09:51:12pm: --------------------------
-2022-09-19 09:51:12pm: --------NEW REQUEST-------
-2022-09-19 09:51:12pm: Start page loading
-2022-09-19 09:51:12pm: Send access token request
-2022-09-19 09:51:12pm: Recieve access token request
-2022-09-19 09:51:12pm: Start GET data request
-2022-09-19 09:51:17pm: Retrieve GET data request
-2022-09-19 09:51:17pm:  print company data 
-2022-09-19 09:51:17pm:  print company data End 
-2022-09-19 09:51:17pm:  print statistical circles data 
-2022-09-19 09:51:17pm: -----------END------------
-2022-09-19 10:00:01pm: --------------------------
-2022-09-19 10:00:01pm: --------NEW REQUEST-------
-2022-09-19 10:00:01pm: Start page loading
-2022-09-19 10:00:01pm: Send access token request
-2022-09-19 10:00:01pm: Recieve access token request
-2022-09-19 10:00:01pm: Start GET data request
-2022-09-19 10:00:07pm: Retrieve GET data request
-2022-09-19 10:00:07pm:  print company data 
-2022-09-19 10:00:07pm:  print company data End 
-2022-09-19 10:00:07pm:  print statistical circles data 
-2022-09-19 10:00:07pm: -----------END------------
-2022-09-19 10:00:33pm: --------------------------
-2022-09-19 10:00:33pm: --------NEW REQUEST-------
-2022-09-19 10:00:33pm: Start page loading
-2022-09-19 10:00:33pm: Send access token request
-2022-09-19 10:00:33pm: Recieve access token request
-2022-09-19 10:00:33pm: Start GET data request
-2022-09-19 10:00:38pm: Retrieve GET data request
-2022-09-19 10:00:38pm:  print company data 
-2022-09-19 10:00:38pm:  print company data End 
-2022-09-19 10:00:38pm:  print statistical circles data 
-2022-09-19 10:00:38pm: -----------END------------
-2022-09-19 10:01:19pm: --------------------------
-2022-09-19 10:01:19pm: --------NEW REQUEST-------
-2022-09-19 10:01:19pm: Start page loading
-2022-09-19 10:01:19pm: Send access token request
-2022-09-19 10:01:19pm: Recieve access token request
-2022-09-19 10:01:19pm: Start GET data request
-2022-09-19 10:01:25pm: Retrieve GET data request
-2022-09-19 10:01:25pm:  print company data 
-2022-09-19 10:01:25pm:  print company data End 
-2022-09-19 10:01:25pm:  print statistical circles data 
-2022-09-19 10:01:25pm: -----------END------------
-2022-09-19 10:04:08pm: --------------------------
-2022-09-19 10:04:08pm: --------NEW REQUEST-------
-2022-09-19 10:04:08pm: Start page loading
-2022-09-19 10:04:08pm: Send access token request
-2022-09-19 10:04:08pm: Recieve access token request
-2022-09-19 10:04:08pm: Start GET data request
-2022-09-19 10:04:12pm: Retrieve GET data request
-2022-09-19 10:04:12pm:  print company data 
-2022-09-19 10:04:12pm:  print company data End 
-2022-09-19 10:04:12pm:  print statistical circles data 
-2022-09-19 10:04:12pm: -----------END------------
-2022-09-19 10:04:36pm: --------------------------
-2022-09-19 10:04:36pm: --------NEW REQUEST-------
-2022-09-19 10:04:36pm: Start page loading
-2022-09-19 10:04:36pm: Send access token request
-2022-09-19 10:04:36pm: Recieve access token request
-2022-09-19 10:04:36pm: Start GET data request
-2022-09-19 10:04:43pm: Retrieve GET data request
-2022-09-19 10:04:43pm:  print company data 
-2022-09-19 10:04:43pm:  print company data End 
-2022-09-19 10:04:43pm:  print statistical circles data 
-2022-09-19 10:04:43pm: -----------END------------
-2022-09-19 10:15:31pm: --------------------------
-2022-09-19 10:15:31pm: --------NEW REQUEST-------
-2022-09-19 10:15:31pm: Start page loading
-2022-09-19 10:15:31pm: Send access token request
-2022-09-19 10:15:31pm: Recieve access token request
-2022-09-19 10:15:31pm: Start GET data request
-2022-09-19 10:15:36pm: Retrieve GET data request
-2022-09-19 10:15:36pm:  print company data 
-2022-09-19 10:15:36pm:  print company data End 
-2022-09-19 10:15:36pm:  print statistical circles data 
-2022-09-19 10:15:36pm: -----------END------------
-2022-09-19 10:21:27pm: --------------------------
-2022-09-19 10:21:27pm: --------NEW REQUEST-------
-2022-09-19 10:21:27pm: Start page loading
-2022-09-19 10:21:27pm: Send access token request
-2022-09-19 10:21:27pm: Recieve access token request
-2022-09-19 10:21:27pm: Start GET data request
-2022-09-19 10:21:32pm: Retrieve GET data request
-2022-09-19 10:21:32pm:  print company data 
-2022-09-19 10:21:32pm:  print company data End 
-2022-09-19 10:21:32pm:  print statistical circles data 
-2022-09-19 10:21:32pm: -----------END------------
-2022-09-19 10:22:48pm: --------------------------
-2022-09-19 10:22:48pm: --------NEW REQUEST-------
-2022-09-19 10:22:48pm: Start page loading
-2022-09-19 10:22:48pm: Send access token request
-2022-09-19 10:22:48pm: Recieve access token request
-2022-09-19 10:22:48pm: Start GET data request
-2022-09-19 10:22:53pm: Retrieve GET data request
-2022-09-19 10:22:53pm:  print company data 
-2022-09-19 10:22:53pm:  print company data End 
-2022-09-19 10:22:53pm:  print statistical circles data 
-2022-09-19 10:22:53pm: -----------END------------
-2022-09-19 10:26:29pm: --------------------------
-2022-09-19 10:26:29pm: --------NEW REQUEST-------
-2022-09-19 10:26:29pm: Start page loading
-2022-09-19 10:26:29pm: Send access token request
-2022-09-19 10:26:29pm: Recieve access token request
-2022-09-19 10:26:29pm: Start GET data request
-2022-09-19 10:26:34pm: Retrieve GET data request
-2022-09-19 10:26:34pm:  print company data 
-2022-09-19 10:26:34pm:  print company data End 
-2022-09-19 10:26:34pm:  print statistical circles data 
-2022-09-19 10:26:34pm: -----------END------------
-2022-09-19 10:29:01pm: --------------------------
-2022-09-19 10:29:01pm: --------NEW REQUEST-------
-2022-09-19 10:29:01pm: Start page loading
-2022-09-19 10:29:01pm: Send access token request
-2022-09-19 10:29:01pm: Recieve access token request
-2022-09-19 10:29:01pm: Start GET data request
-2022-09-19 10:29:07pm: Retrieve GET data request
-2022-09-19 10:29:07pm:  print company data 
-2022-09-19 10:29:07pm:  print company data End 
-2022-09-19 10:29:07pm:  print statistical circles data 
-2022-09-19 10:29:07pm: -----------END------------
-2022-09-19 10:29:28pm: --------------------------
-2022-09-19 10:29:28pm: --------NEW REQUEST-------
-2022-09-19 10:29:28pm: Start page loading
-2022-09-19 10:29:28pm: Send access token request
-2022-09-19 10:29:28pm: Recieve access token request
-2022-09-19 10:29:28pm: Start GET data request
-2022-09-19 10:29:33pm: Retrieve GET data request
-2022-09-19 10:29:33pm:  print company data 
-2022-09-19 10:29:33pm:  print company data End 
-2022-09-19 10:29:33pm:  print statistical circles data 
-2022-09-19 10:29:33pm: -----------END------------
-2022-09-19 10:30:32pm: --------------------------
-2022-09-19 10:30:32pm: --------NEW REQUEST-------
-2022-09-19 10:30:32pm: Start page loading
-2022-09-19 10:30:32pm: Send access token request
-2022-09-19 10:30:32pm: Recieve access token request
-2022-09-19 10:30:32pm: Start GET data request
-2022-09-19 10:30:37pm: Retrieve GET data request
-2022-09-19 10:30:37pm:  print company data 
-2022-09-19 10:30:37pm:  print company data End 
-2022-09-19 10:30:37pm:  print statistical circles data 
-2022-09-19 10:30:37pm: -----------END------------
-2022-09-19 10:31:19pm: --------------------------
-2022-09-19 10:31:19pm: --------NEW REQUEST-------
-2022-09-19 10:31:19pm: Start page loading
-2022-09-19 10:31:19pm: Send access token request
-2022-09-19 10:31:19pm: Recieve access token request
-2022-09-19 10:31:19pm: Start GET data request
-2022-09-19 10:31:26pm: Retrieve GET data request
-2022-09-19 10:31:26pm:  print company data 
-2022-09-19 10:31:26pm:  print company data End 
-2022-09-19 10:31:26pm:  print statistical circles data 
-2022-09-19 10:31:26pm: -----------END------------
-2022-09-19 10:32:00pm: --------------------------
-2022-09-19 10:32:00pm: --------NEW REQUEST-------
-2022-09-19 10:32:00pm: Start page loading
-2022-09-19 10:32:00pm: Send access token request
-2022-09-19 10:32:00pm: Recieve access token request
-2022-09-19 10:32:00pm: Start GET data request
-2022-09-19 10:32:05pm: Retrieve GET data request
-2022-09-19 10:32:05pm:  print company data 
-2022-09-19 10:32:05pm:  print company data End 
-2022-09-19 10:32:05pm:  print statistical circles data 
-2022-09-19 10:32:05pm: -----------END------------
-2022-09-19 10:34:49pm: --------------------------
-2022-09-19 10:34:49pm: --------NEW REQUEST-------
-2022-09-19 10:34:49pm: Start page loading
-2022-09-19 10:34:49pm: Send access token request
-2022-09-19 10:34:49pm: Recieve access token request
-2022-09-19 10:34:49pm: Start GET data request
-2022-09-19 10:34:59pm: Retrieve GET data request
-2022-09-19 10:34:59pm:  print company data 
-2022-09-19 10:34:59pm:  print company data End 
-2022-09-19 10:34:59pm:  print statistical circles data 
-2022-09-19 10:34:59pm: -----------END------------
-2022-09-19 10:35:19pm: --------------------------
-2022-09-19 10:35:19pm: --------NEW REQUEST-------
-2022-09-19 10:35:19pm: Start page loading
-2022-09-19 10:35:19pm: Send access token request
-2022-09-19 10:35:19pm: Recieve access token request
-2022-09-19 10:35:19pm: Start GET data request
-2022-09-19 10:35:25pm: Retrieve GET data request
-2022-09-19 10:35:25pm:  print company data 
-2022-09-19 10:35:25pm:  print company data End 
-2022-09-19 10:35:25pm:  print statistical circles data 
-2022-09-19 10:35:25pm: -----------END------------
-2022-09-19 10:36:59pm: --------------------------
-2022-09-19 10:36:59pm: --------NEW REQUEST-------
-2022-09-19 10:36:59pm: Start page loading
-2022-09-19 10:36:59pm: Send access token request
-2022-09-19 10:36:59pm: Recieve access token request
-2022-09-19 10:36:59pm: Start GET data request
-2022-09-19 10:37:05pm: Retrieve GET data request
-2022-09-19 10:37:05pm:  print company data 
-2022-09-19 10:37:05pm:  print company data End 
-2022-09-19 10:37:05pm:  print statistical circles data 
-2022-09-19 10:37:05pm: -----------END------------
-2022-09-19 10:37:10pm: --------------------------
-2022-09-19 10:37:10pm: --------NEW REQUEST-------
-2022-09-19 10:37:10pm: Start page loading
-2022-09-19 10:37:10pm: Send access token request
-2022-09-19 10:37:10pm: Recieve access token request
-2022-09-19 10:37:10pm: Start GET data request
-2022-09-19 10:37:16pm: Retrieve GET data request
-2022-09-19 10:37:16pm:  print company data 
-2022-09-19 10:37:16pm:  print company data End 
-2022-09-19 10:37:16pm:  print statistical circles data 
-2022-09-19 10:37:16pm: -----------END------------
-2022-09-19 10:38:29pm: --------------------------
-2022-09-19 10:38:29pm: --------NEW REQUEST-------
-2022-09-19 10:38:29pm: Start page loading
-2022-09-19 10:38:29pm: Send access token request
-2022-09-19 10:38:29pm: Recieve access token request
-2022-09-19 10:38:29pm: Start GET data request
-2022-09-19 10:38:34pm: Retrieve GET data request
-2022-09-19 10:38:34pm:  print company data 
-2022-09-19 10:38:34pm:  print company data End 
-2022-09-19 10:38:34pm:  print statistical circles data 
-2022-09-19 10:38:34pm: -----------END------------
-2022-09-20 09:15:24am: --------------------------
-2022-09-20 09:15:24am: --------NEW REQUEST-------
-2022-09-20 09:15:24am: Start page loading
-2022-09-20 09:15:24am: Send access token request
-2022-09-20 09:15:24am: Recieve access token request
-2022-09-20 09:15:24am: Start GET data request
-2022-09-20 09:15:28am: Retrieve GET data request
-2022-09-20 09:15:28am:  print company data 
-2022-09-20 09:15:28am:  print company data End 
-2022-09-20 09:15:28am:  print statistical circles data 
-2022-09-20 09:15:28am: -----------END------------
-2022-09-20 09:37:02am: --------------------------
-2022-09-20 09:37:02am: --------NEW REQUEST-------
-2022-09-20 09:37:02am: Start page loading
-2022-09-20 09:37:02am: Send access token request
-2022-09-20 09:37:02am: Recieve access token request
-2022-09-20 09:37:02am: Start GET data request
-2022-09-20 09:37:07am: Retrieve GET data request
-2022-09-20 09:37:07am:  print company data 
-2022-09-20 09:37:07am:  print company data End 
-2022-09-20 09:37:07am:  print statistical circles data 
-2022-09-20 09:37:07am: -----------END------------
-2022-09-20 09:38:56am: --------------------------
-2022-09-20 09:38:56am: --------NEW REQUEST-------
-2022-09-20 09:38:56am: Start page loading
-2022-09-20 09:38:56am: Send access token request
-2022-09-20 09:38:56am: Recieve access token request
-2022-09-20 09:38:56am: Start GET data request
-2022-09-20 09:39:00am: Retrieve GET data request
-2022-09-20 09:39:00am:  print company data 
-2022-09-20 09:39:00am:  print company data End 
-2022-09-20 09:39:00am:  print statistical circles data 
-2022-09-20 09:39:00am: -----------END------------
-2022-09-20 09:40:52am: --------------------------
-2022-09-20 09:40:52am: --------NEW REQUEST-------
-2022-09-20 09:40:52am: Start page loading
-2022-09-20 09:40:52am: Send access token request
-2022-09-20 09:40:52am: Recieve access token request
-2022-09-20 09:40:52am: Start GET data request
-2022-09-20 09:40:57am: Retrieve GET data request
-2022-09-20 09:40:57am:  print company data 
-2022-09-20 09:40:57am:  print company data End 
-2022-09-20 09:40:57am:  print statistical circles data 
-2022-09-20 09:40:57am: -----------END------------
-2022-09-20 09:43:22am: --------------------------
-2022-09-20 09:43:22am: --------NEW REQUEST-------
-2022-09-20 09:43:22am: Start page loading
-2022-09-20 09:43:22am: Send access token request
-2022-09-20 09:43:22am: Recieve access token request
-2022-09-20 09:43:22am: Start GET data request
-2022-09-20 09:43:26am: Retrieve GET data request
-2022-09-20 09:43:26am:  print company data 
-2022-09-20 09:43:26am:  print company data End 
-2022-09-20 09:43:26am:  print statistical circles data 
-2022-09-20 09:43:26am: -----------END------------
-2022-09-20 09:43:59am: --------------------------
-2022-09-20 09:43:59am: --------NEW REQUEST-------
-2022-09-20 09:43:59am: Start page loading
-2022-09-20 09:43:59am: Send access token request
-2022-09-20 09:43:59am: Recieve access token request
-2022-09-20 09:43:59am: Start GET data request
-2022-09-20 09:44:04am: Retrieve GET data request
-2022-09-20 09:44:04am:  print company data 
-2022-09-20 09:44:04am:  print company data End 
-2022-09-20 09:44:04am:  print statistical circles data 
-2022-09-20 09:44:04am: -----------END------------
-2022-09-20 09:45:40am: --------------------------
-2022-09-20 09:45:40am: --------NEW REQUEST-------
-2022-09-20 09:45:40am: Start page loading
-2022-09-20 09:45:40am: Send access token request
-2022-09-20 09:45:40am: Recieve access token request
-2022-09-20 09:45:40am: Start GET data request
-2022-09-20 09:45:44am: Retrieve GET data request
-2022-09-20 09:45:44am:  print company data 
-2022-09-20 09:45:44am:  print company data End 
-2022-09-20 09:45:44am:  print statistical circles data 
-2022-09-20 09:45:44am: -----------END------------
-2022-09-20 09:48:20am: --------------------------
-2022-09-20 09:48:20am: --------NEW REQUEST-------
-2022-09-20 09:48:20am: Start page loading
-2022-09-20 09:48:20am: Send access token request
-2022-09-20 09:48:20am: Recieve access token request
-2022-09-20 09:48:20am: Start GET data request
-2022-09-20 09:48:25am: Retrieve GET data request
-2022-09-20 09:48:25am:  print company data 
-2022-09-20 09:48:25am:  print company data End 
-2022-09-20 09:48:25am:  print statistical circles data 
-2022-09-20 09:48:25am: -----------END------------
-2022-09-20 09:49:35am: --------------------------
-2022-09-20 09:49:35am: --------NEW REQUEST-------
-2022-09-20 09:49:35am: Start page loading
-2022-09-20 09:49:35am: Send access token request
-2022-09-20 09:49:35am: Recieve access token request
-2022-09-20 09:49:35am: Start GET data request
-2022-09-20 09:49:40am: Retrieve GET data request
-2022-09-20 09:49:40am:  print company data 
-2022-09-20 09:49:40am:  print company data End 
-2022-09-20 09:49:40am:  print statistical circles data 
-2022-09-20 09:49:40am: -----------END------------
-2022-09-20 09:49:55am: --------------------------
-2022-09-20 09:49:55am: --------NEW REQUEST-------
-2022-09-20 09:49:55am: Start page loading
-2022-09-20 09:49:55am: Send access token request
-2022-09-20 09:49:55am: Recieve access token request
-2022-09-20 09:49:55am: Start GET data request
-2022-09-20 09:49:58am: Retrieve GET data request
-2022-09-20 09:49:58am:  print company data 
-2022-09-20 09:49:58am:  print company data End 
-2022-09-20 09:49:58am:  print statistical circles data 
-2022-09-20 09:49:58am: -----------END------------
-2022-09-20 09:51:09am: --------------------------
-2022-09-20 09:51:09am: --------NEW REQUEST-------
-2022-09-20 09:51:09am: Start page loading
-2022-09-20 09:51:09am: Send access token request
-2022-09-20 09:51:09am: Recieve access token request
-2022-09-20 09:51:09am: Start GET data request
-2022-09-20 09:51:14am: Retrieve GET data request
-2022-09-20 09:51:14am:  print company data 
-2022-09-20 09:51:14am:  print company data End 
-2022-09-20 09:51:14am:  print statistical circles data 
-2022-09-20 09:51:14am: -----------END------------
-2022-09-20 09:52:47am: --------------------------
-2022-09-20 09:52:47am: --------NEW REQUEST-------
-2022-09-20 09:52:47am: Start page loading
-2022-09-20 09:52:47am: Send access token request
-2022-09-20 09:52:47am: Recieve access token request
-2022-09-20 09:52:47am: Start GET data request
-2022-09-20 09:52:51am: Retrieve GET data request
-2022-09-20 09:52:51am:  print company data 
-2022-09-20 09:52:51am:  print company data End 
-2022-09-20 09:52:51am:  print statistical circles data 
-2022-09-20 09:52:51am: -----------END------------
-2022-09-20 09:56:07am: --------------------------
-2022-09-20 09:56:07am: --------NEW REQUEST-------
-2022-09-20 09:56:07am: Start page loading
-2022-09-20 09:56:07am: Send access token request
-2022-09-20 09:56:07am: Recieve access token request
-2022-09-20 09:56:07am: Start GET data request
-2022-09-20 09:56:12am: Retrieve GET data request
-2022-09-20 09:56:12am:  print company data 
-2022-09-20 09:56:12am:  print company data End 
-2022-09-20 09:56:12am:  print statistical circles data 
-2022-09-20 09:56:12am: -----------END------------
-2022-09-20 10:00:58am: --------------------------
-2022-09-20 10:00:58am: --------NEW REQUEST-------
-2022-09-20 10:00:58am: Start page loading
-2022-09-20 10:00:58am: Send access token request
-2022-09-20 10:00:58am: Recieve access token request
-2022-09-20 10:00:58am: Start GET data request
-2022-09-20 10:01:02am: Retrieve GET data request
-2022-09-20 10:01:02am:  print company data 
-2022-09-20 10:01:02am:  print company data End 
-2022-09-20 10:06:25am: --------------------------
-2022-09-20 10:06:25am: --------NEW REQUEST-------
-2022-09-20 10:06:25am: Start page loading
-2022-09-20 10:06:25am: Send access token request
-2022-09-20 10:06:25am: Recieve access token request
-2022-09-20 10:06:25am: Start GET data request
-2022-09-20 10:06:29am: Retrieve GET data request
-2022-09-20 10:06:30am:  print company data 
-2022-09-20 10:06:30am:  print company data End 
-2022-09-20 10:06:30am:  print statistical circles data 
-2022-09-20 10:06:30am: -----------END------------
-2022-09-20 10:09:11am: --------------------------
-2022-09-20 10:09:11am: --------NEW REQUEST-------
-2022-09-20 10:09:11am: Start page loading
-2022-09-20 10:09:11am: Send access token request
-2022-09-20 10:09:11am: Recieve access token request
-2022-09-20 10:09:11am: Start GET data request
-2022-09-20 10:09:15am: Retrieve GET data request
-2022-09-20 10:09:15am:  print company data 
-2022-09-20 10:09:15am:  print company data End 
-2022-09-20 10:09:15am:  print statistical circles data 
-2022-09-20 10:09:15am: -----------END------------
-2022-09-20 10:09:49am: --------------------------
-2022-09-20 10:09:49am: --------NEW REQUEST-------
-2022-09-20 10:09:49am: Start page loading
-2022-09-20 10:09:49am: Send access token request
-2022-09-20 10:09:49am: Recieve access token request
-2022-09-20 10:09:49am: Start GET data request
-2022-09-20 10:09:54am: Retrieve GET data request
-2022-09-20 10:09:54am:  print company data 
-2022-09-20 10:09:54am:  print company data End 
-2022-09-20 10:09:54am:  print statistical circles data 
-2022-09-20 10:09:54am: -----------END------------
-2022-09-20 10:15:08am: --------------------------
-2022-09-20 10:15:08am: --------NEW REQUEST-------
-2022-09-20 10:15:08am: Start page loading
-2022-09-20 10:15:08am: Send access token request
-2022-09-20 10:15:08am: Recieve access token request
-2022-09-20 10:15:08am: Start GET data request
-2022-09-20 10:15:12am: Retrieve GET data request
-2022-09-20 10:15:12am:  print company data 
-2022-09-20 10:15:12am:  print company data End 
-2022-09-20 10:15:12am:  print statistical circles data 
-2022-09-20 10:15:12am: -----------END------------
-2022-09-20 10:16:13am: --------------------------
-2022-09-20 10:16:13am: --------NEW REQUEST-------
-2022-09-20 10:16:13am: Start page loading
-2022-09-20 10:16:13am: Send access token request
-2022-09-20 10:16:13am: Recieve access token request
-2022-09-20 10:16:13am: Start GET data request
-2022-09-20 10:16:17am: Retrieve GET data request
-2022-09-20 10:16:17am:  print company data 
-2022-09-20 10:16:17am:  print company data End 
-2022-09-20 10:16:17am:  print statistical circles data 
-2022-09-20 10:16:17am: -----------END------------
-2022-09-20 10:17:52am: --------------------------
-2022-09-20 10:17:52am: --------NEW REQUEST-------
-2022-09-20 10:17:52am: Start page loading
-2022-09-20 10:17:52am: Send access token request
-2022-09-20 10:17:52am: Recieve access token request
-2022-09-20 10:17:52am: Start GET data request
-2022-09-20 10:17:56am: Retrieve GET data request
-2022-09-20 10:17:56am:  print company data 
-2022-09-20 10:17:56am:  print company data End 
-2022-09-20 10:17:56am:  print statistical circles data 
-2022-09-20 10:17:56am: -----------END------------
-2022-09-20 10:50:08am: --------------------------
-2022-09-20 10:50:08am: --------NEW REQUEST-------
-2022-09-20 10:50:08am: Start page loading
-2022-09-20 10:50:08am: Send access token request
-2022-09-20 10:50:08am: Recieve access token request
-2022-09-20 10:50:08am: Start GET data request
-2022-09-20 10:50:13am: Retrieve GET data request
-2022-09-20 10:50:13am:  print company data 
-2022-09-20 10:50:13am:  print company data End 
-2022-09-20 10:50:13am:  print statistical circles data 
-2022-09-20 10:50:13am: -----------END------------
-2022-09-20 10:57:11am: --------------------------
-2022-09-20 10:57:11am: --------NEW REQUEST-------
-2022-09-20 10:57:11am: Start page loading
-2022-09-20 10:57:11am: Send access token request
-2022-09-20 10:57:11am: Recieve access token request
-2022-09-20 10:57:11am: Start GET data request
-2022-09-20 10:57:16am: Retrieve GET data request
-2022-09-20 10:57:16am:  print company data 
-2022-09-20 10:57:16am:  print company data End 
-2022-09-20 10:57:16am:  print statistical circles data 
-2022-09-20 10:57:16am: -----------END------------
-2022-09-20 11:01:56am: --------------------------
-2022-09-20 11:01:56am: --------NEW REQUEST-------
-2022-09-20 11:01:56am: Start page loading
-2022-09-20 11:01:56am: Send access token request
-2022-09-20 11:01:56am: Recieve access token request
-2022-09-20 11:01:56am: Start GET data request
-2022-09-20 11:02:01am: Retrieve GET data request
-2022-09-20 11:02:01am:  print company data 
-2022-09-20 11:02:01am:  print company data End 
-2022-09-20 11:02:01am:  print statistical circles data 
-2022-09-20 11:02:01am: -----------END------------
-2022-09-20 11:02:03am: --------------------------
-2022-09-20 11:02:03am: --------NEW REQUEST-------
-2022-09-20 11:02:03am: Start page loading
-2022-09-20 11:02:03am: Send access token request
-2022-09-20 11:02:03am: Recieve access token request
-2022-09-20 11:02:03am: Start GET data request
-2022-09-20 11:02:07am: --------------------------
-2022-09-20 11:02:07am: --------NEW REQUEST-------
-2022-09-20 11:02:07am: Start page loading
-2022-09-20 11:02:07am: Send access token request
-2022-09-20 11:02:07am: Recieve access token request
-2022-09-20 11:02:07am: Start GET data request
-2022-09-20 11:02:08am: Retrieve GET data request
-2022-09-20 11:02:08am:  print company data 
-2022-09-20 11:02:08am:  print company data End 
-2022-09-20 11:02:08am:  print statistical circles data 
-2022-09-20 11:02:09am: --------------------------
-2022-09-20 11:02:09am: --------NEW REQUEST-------
-2022-09-20 11:02:09am: Start page loading
-2022-09-20 11:02:09am: Send access token request
-2022-09-20 11:02:09am: Recieve access token request
-2022-09-20 11:02:09am: Start GET data request
-2022-09-20 11:02:11am: --------------------------
-2022-09-20 11:02:11am: --------NEW REQUEST-------
-2022-09-20 11:02:11am: Start page loading
-2022-09-20 11:02:11am: Send access token request
-2022-09-20 11:02:11am: Recieve access token request
-2022-09-20 11:02:11am: Start GET data request
-2022-09-20 11:02:11am: Retrieve GET data request
-2022-09-20 11:02:11am:  print company data 
-2022-09-20 11:02:11am:  print company data End 
-2022-09-20 11:02:11am:  print statistical circles data 
-2022-09-20 11:02:11am: --------------------------
-2022-09-20 11:02:11am: --------NEW REQUEST-------
-2022-09-20 11:02:11am: Start page loading
-2022-09-20 11:02:11am: Send access token request
-2022-09-20 11:02:11am: Recieve access token request
-2022-09-20 11:02:11am: Start GET data request
-2022-09-20 11:02:13am: Retrieve GET data request
-2022-09-20 11:02:13am:  print company data 
-2022-09-20 11:02:13am:  print company data End 
-2022-09-20 11:02:13am:  print statistical circles data 
-2022-09-20 11:02:15am: Retrieve GET data request
-2022-09-20 11:02:15am:  print company data 
-2022-09-20 11:02:15am:  print company data End 
-2022-09-20 11:02:15am:  print statistical circles data 
-2022-09-20 11:02:15am: -----------END------------
-2022-09-20 11:02:17am: Retrieve GET data request
-2022-09-20 11:02:17am:  print company data 
-2022-09-20 11:02:17am:  print company data End 
-2022-09-20 11:02:17am:  print statistical circles data 
-2022-09-20 11:02:19am: --------------------------
-2022-09-20 11:02:19am: --------NEW REQUEST-------
-2022-09-20 11:02:19am: Start page loading
-2022-09-20 11:02:19am: Send access token request
-2022-09-20 11:02:19am: Recieve access token request
-2022-09-20 11:02:19am: Start GET data request
-2022-09-20 11:02:23am: Retrieve GET data request
-2022-09-20 11:02:23am:  print company data 
-2022-09-20 11:02:23am:  print company data End 
-2022-09-20 11:02:23am:  print statistical circles data 
-2022-09-20 11:02:23am: -----------END------------
-2022-09-20 11:04:55am: --------------------------
-2022-09-20 11:04:55am: --------NEW REQUEST-------
-2022-09-20 11:04:55am: Start page loading
-2022-09-20 11:04:55am: Send access token request
-2022-09-20 11:04:55am: Recieve access token request
-2022-09-20 11:04:55am: Start GET data request
-2022-09-20 11:05:00am: Retrieve GET data request
-2022-09-20 11:05:00am:  print company data 
-2022-09-20 11:05:00am:  print company data End 
-2022-09-20 11:05:00am:  print statistical circles data 
-2022-09-20 11:05:00am: -----------END------------
-2022-09-20 11:09:21am: --------------------------
-2022-09-20 11:09:21am: --------NEW REQUEST-------
-2022-09-20 11:09:21am: Start page loading
-2022-09-20 11:09:21am: Send access token request
-2022-09-20 11:09:21am: Recieve access token request
-2022-09-20 11:09:21am: Start GET data request
-2022-09-20 11:09:25am: Retrieve GET data request
-2022-09-20 11:09:25am:  print company data 
-2022-09-20 11:09:25am:  print company data End 
-2022-09-20 11:09:25am:  print statistical circles data 
-2022-09-20 11:09:25am: -----------END------------
-2022-09-20 11:16:54am: --------------------------
-2022-09-20 11:16:54am: --------NEW REQUEST-------
-2022-09-20 11:16:54am: Start page loading
-2022-09-20 11:16:54am: Send access token request
-2022-09-20 11:16:54am: Recieve access token request
-2022-09-20 11:16:54am: Start GET data request
-2022-09-20 11:16:58am: Retrieve GET data request
-2022-09-20 11:16:58am:  print company data 
-2022-09-20 11:16:58am:  print company data End 
-2022-09-20 11:16:58am:  print statistical circles data 
-2022-09-20 11:16:58am: -----------END------------
-2022-09-20 11:17:54am: --------------------------
-2022-09-20 11:17:54am: --------NEW REQUEST-------
-2022-09-20 11:17:54am: Start page loading
-2022-09-20 11:17:54am: Send access token request
-2022-09-20 11:17:54am: Recieve access token request
-2022-09-20 11:17:54am: Start GET data request
-2022-09-20 11:17:58am: Retrieve GET data request
-2022-09-20 11:17:58am:  print company data 
-2022-09-20 11:17:58am:  print company data End 
-2022-09-20 11:17:58am:  print statistical circles data 
-2022-09-20 11:17:58am: -----------END------------
-2022-09-20 11:18:53am: --------------------------
-2022-09-20 11:18:53am: --------NEW REQUEST-------
-2022-09-20 11:18:53am: Start page loading
-2022-09-20 11:18:53am: Send access token request
-2022-09-20 11:18:53am: Recieve access token request
-2022-09-20 11:18:53am: Start GET data request
-2022-09-20 11:18:58am: Retrieve GET data request
-2022-09-20 11:18:58am:  print company data 
-2022-09-20 11:18:58am:  print company data End 
-2022-09-20 11:18:58am:  print statistical circles data 
-2022-09-20 11:18:58am: -----------END------------
-2022-09-20 11:20:52am: --------------------------
-2022-09-20 11:20:52am: --------NEW REQUEST-------
-2022-09-20 11:20:52am: Start page loading
-2022-09-20 11:20:52am: Send access token request
-2022-09-20 11:20:52am: Recieve access token request
-2022-09-20 11:20:52am: Start GET data request
-2022-09-20 11:20:56am: Retrieve GET data request
-2022-09-20 11:20:56am:  print company data 
-2022-09-20 11:20:56am:  print company data End 
-2022-09-20 11:20:56am:  print statistical circles data 
-2022-09-20 11:20:56am: -----------END------------
-2022-09-20 11:27:56am: --------------------------
-2022-09-20 11:27:56am: --------NEW REQUEST-------
-2022-09-20 11:27:56am: Start page loading
-2022-09-20 11:27:56am: Send access token request
-2022-09-20 11:27:56am: Recieve access token request
-2022-09-20 11:27:56am: Start GET data request
-2022-09-20 11:28:00am: Retrieve GET data request
-2022-09-20 11:28:00am:  print company data 
-2022-09-20 11:28:00am:  print company data End 
-2022-09-20 11:28:00am:  print statistical circles data 
-2022-09-20 11:28:00am: -----------END------------
-2022-09-20 11:30:03am: --------------------------
-2022-09-20 11:30:03am: --------NEW REQUEST-------
-2022-09-20 11:30:03am: Start page loading
-2022-09-20 11:30:03am: Send access token request
-2022-09-20 11:30:03am: Recieve access token request
-2022-09-20 11:30:03am: Start GET data request
-2022-09-20 11:30:07am: Retrieve GET data request
-2022-09-20 11:30:07am:  print company data 
-2022-09-20 11:30:07am:  print company data End 
-2022-09-20 11:30:08am:  print statistical circles data 
-2022-09-20 11:30:08am: -----------END------------
-2022-09-20 11:31:11am: --------------------------
-2022-09-20 11:31:11am: --------NEW REQUEST-------
-2022-09-20 11:31:11am: Start page loading
-2022-09-20 11:31:11am: Send access token request
-2022-09-20 11:31:11am: Recieve access token request
-2022-09-20 11:31:11am: Start GET data request
-2022-09-20 11:31:16am: Retrieve GET data request
-2022-09-20 11:31:16am:  print company data 
-2022-09-20 11:31:16am:  print company data End 
-2022-09-20 11:31:16am:  print statistical circles data 
-2022-09-20 11:31:16am: -----------END------------
-2022-09-20 11:34:23am: --------------------------
-2022-09-20 11:34:23am: --------NEW REQUEST-------
-2022-09-20 11:34:23am: Start page loading
-2022-09-20 11:34:23am: Send access token request
-2022-09-20 11:34:23am: Recieve access token request
-2022-09-20 11:34:23am: Start GET data request
-2022-09-20 11:34:28am: Retrieve GET data request
-2022-09-20 11:34:28am:  print company data 
-2022-09-20 11:34:28am:  print company data End 
-2022-09-20 11:34:28am:  print statistical circles data 
-2022-09-20 11:34:28am: -----------END------------
-2022-09-20 11:37:36am: --------------------------
-2022-09-20 11:37:36am: --------NEW REQUEST-------
-2022-09-20 11:37:36am: Start page loading
-2022-09-20 11:37:36am: Send access token request
-2022-09-20 11:37:36am: Recieve access token request
-2022-09-20 11:37:36am: Start GET data request
-2022-09-20 11:37:41am: Retrieve GET data request
-2022-09-20 11:37:41am:  print company data 
-2022-09-20 11:37:41am:  print company data End 
-2022-09-20 11:37:41am:  print statistical circles data 
-2022-09-20 11:37:41am: -----------END------------
-2022-09-20 11:38:16am: --------------------------
-2022-09-20 11:38:16am: --------NEW REQUEST-------
-2022-09-20 11:38:16am: Start page loading
-2022-09-20 11:38:16am: Send access token request
-2022-09-20 11:38:16am: Recieve access token request
-2022-09-20 11:38:16am: Start GET data request
-2022-09-20 11:38:20am: Retrieve GET data request
-2022-09-20 11:38:20am:  print company data 
-2022-09-20 11:38:20am:  print company data End 
-2022-09-20 11:38:20am:  print statistical circles data 
-2022-09-20 11:38:20am: -----------END------------
-2022-09-20 11:39:19am: --------------------------
-2022-09-20 11:39:19am: --------NEW REQUEST-------
-2022-09-20 11:39:19am: Start page loading
-2022-09-20 11:39:19am: Send access token request
-2022-09-20 11:39:19am: Recieve access token request
-2022-09-20 11:39:19am: Start GET data request
-2022-09-20 11:39:24am: Retrieve GET data request
-2022-09-20 11:39:24am:  print company data 
-2022-09-20 11:39:24am:  print company data End 
-2022-09-20 11:39:24am:  print statistical circles data 
-2022-09-20 11:39:24am: -----------END------------
-2022-09-20 11:40:25am: --------------------------
-2022-09-20 11:40:25am: --------NEW REQUEST-------
-2022-09-20 11:40:25am: Start page loading
-2022-09-20 11:40:25am: Send access token request
-2022-09-20 11:40:25am: Recieve access token request
-2022-09-20 11:40:25am: Start GET data request
-2022-09-20 11:40:29am: Retrieve GET data request
-2022-09-20 11:40:29am:  print company data 
-2022-09-20 11:40:29am:  print company data End 
-2022-09-20 11:40:29am:  print statistical circles data 
-2022-09-20 11:40:29am: -----------END------------
-2022-09-20 11:41:29am: --------------------------
-2022-09-20 11:41:29am: --------NEW REQUEST-------
-2022-09-20 11:41:29am: Start page loading
-2022-09-20 11:41:29am: Send access token request
-2022-09-20 11:41:29am: Recieve access token request
-2022-09-20 11:41:29am: Start GET data request
-2022-09-20 11:41:34am: Retrieve GET data request
-2022-09-20 11:41:34am:  print company data 
-2022-09-20 11:41:34am:  print company data End 
-2022-09-20 11:41:34am:  print statistical circles data 
-2022-09-20 11:41:34am: -----------END------------
-2022-09-20 11:43:11am: --------------------------
-2022-09-20 11:43:11am: --------NEW REQUEST-------
-2022-09-20 11:43:11am: Start page loading
-2022-09-20 11:43:11am: Send access token request
-2022-09-20 11:43:11am: Recieve access token request
-2022-09-20 11:43:11am: Start GET data request
-2022-09-20 11:43:15am: Retrieve GET data request
-2022-09-20 11:43:15am:  print company data 
-2022-09-20 11:43:15am:  print company data End 
-2022-09-20 11:43:15am:  print statistical circles data 
-2022-09-20 11:43:15am: -----------END------------
-2022-09-20 11:45:06am: --------------------------
-2022-09-20 11:45:06am: --------NEW REQUEST-------
-2022-09-20 11:45:06am: Start page loading
-2022-09-20 11:45:06am: Send access token request
-2022-09-20 11:45:06am: Recieve access token request
-2022-09-20 11:45:06am: Start GET data request
-2022-09-20 11:45:11am: Retrieve GET data request
-2022-09-20 11:45:11am:  print company data 
-2022-09-20 11:45:11am:  print company data End 
-2022-09-20 11:45:11am:  print statistical circles data 
-2022-09-20 11:45:11am: -----------END------------
-2022-09-20 11:46:17am: --------------------------
-2022-09-20 11:46:17am: --------NEW REQUEST-------
-2022-09-20 11:46:17am: Start page loading
-2022-09-20 11:46:17am: Send access token request
-2022-09-20 11:46:17am: Recieve access token request
-2022-09-20 11:46:17am: Start GET data request
-2022-09-20 11:46:21am: Retrieve GET data request
-2022-09-20 11:46:21am:  print company data 
-2022-09-20 11:46:21am:  print company data End 
-2022-09-20 11:46:21am:  print statistical circles data 
-2022-09-20 11:46:21am: -----------END------------
-2022-09-20 11:50:00am: --------------------------
-2022-09-20 11:50:00am: --------NEW REQUEST-------
-2022-09-20 11:50:00am: Start page loading
-2022-09-20 11:50:00am: Send access token request
-2022-09-20 11:50:00am: Recieve access token request
-2022-09-20 11:50:00am: Start GET data request
-2022-09-20 11:50:05am: Retrieve GET data request
-2022-09-20 11:50:05am:  print company data 
-2022-09-20 11:50:05am:  print company data End 
-2022-09-20 11:50:05am:  print statistical circles data 
-2022-09-20 11:50:05am: -----------END------------
-2022-09-20 11:52:09am: --------------------------
-2022-09-20 11:52:09am: --------NEW REQUEST-------
-2022-09-20 11:52:09am: Start page loading
-2022-09-20 11:52:09am: Send access token request
-2022-09-20 11:52:09am: Recieve access token request
-2022-09-20 11:52:09am: Start GET data request
-2022-09-20 11:52:14am: Retrieve GET data request
-2022-09-20 11:52:14am:  print company data 
-2022-09-20 11:52:14am:  print company data End 
-2022-09-20 11:52:14am:  print statistical circles data 
-2022-09-20 11:52:14am: -----------END------------
-2022-09-20 11:55:44am: --------------------------
-2022-09-20 11:55:44am: --------NEW REQUEST-------
-2022-09-20 11:55:44am: Start page loading
-2022-09-20 11:55:44am: Send access token request
-2022-09-20 11:55:44am: Recieve access token request
-2022-09-20 11:55:44am: Start GET data request
-2022-09-20 11:55:49am: Retrieve GET data request
-2022-09-20 11:55:49am:  print company data 
-2022-09-20 11:55:49am:  print company data End 
-2022-09-20 11:55:49am:  print statistical circles data 
-2022-09-20 11:55:49am: -----------END------------
-2022-09-20 12:09:04pm: --------------------------
-2022-09-20 12:09:04pm: --------NEW REQUEST-------
-2022-09-20 12:09:04pm: Start page loading
-2022-09-20 12:09:04pm: Send access token request
-2022-09-20 12:09:04pm: Recieve access token request
-2022-09-20 12:09:04pm: Start GET data request
-2022-09-20 12:09:09pm: Retrieve GET data request
-2022-09-20 12:09:09pm:  print company data 
-2022-09-20 12:09:09pm:  print company data End 
-2022-09-20 12:09:09pm:  print statistical circles data 
-2022-09-20 12:09:09pm: -----------END------------
-2022-09-20 12:10:09pm: --------------------------
-2022-09-20 12:10:09pm: --------NEW REQUEST-------
-2022-09-20 12:10:09pm: Start page loading
-2022-09-20 12:10:09pm: Send access token request
-2022-09-20 12:10:09pm: Recieve access token request
-2022-09-20 12:10:09pm: Start GET data request
-2022-09-20 12:10:15pm: Retrieve GET data request
-2022-09-20 12:10:15pm:  print company data 
-2022-09-20 12:10:15pm:  print company data End 
-2022-09-20 12:10:15pm:  print statistical circles data 
-2022-09-20 12:10:15pm: -----------END------------
-2022-09-20 12:12:38pm: --------------------------
-2022-09-20 12:12:38pm: --------NEW REQUEST-------
-2022-09-20 12:12:38pm: Start page loading
-2022-09-20 12:12:38pm: Send access token request
-2022-09-20 12:12:38pm: Recieve access token request
-2022-09-20 12:12:38pm: Start GET data request
-2022-09-20 12:12:45pm: Retrieve GET data request
-2022-09-20 12:12:45pm:  print company data 
-2022-09-20 12:12:45pm:  print company data End 
-2022-09-20 12:12:45pm:  print statistical circles data 
-2022-09-20 12:12:45pm: -----------END------------
-2022-09-20 12:14:50pm: --------------------------
-2022-09-20 12:14:50pm: --------NEW REQUEST-------
-2022-09-20 12:14:50pm: Start page loading
-2022-09-20 12:14:50pm: Send access token request
-2022-09-20 12:14:50pm: Recieve access token request
-2022-09-20 12:14:50pm: Start GET data request
-2022-09-20 12:14:55pm: Retrieve GET data request
-2022-09-20 12:14:55pm:  print company data 
-2022-09-20 12:14:55pm:  print company data End 
-2022-09-20 12:14:55pm:  print statistical circles data 
-2022-09-20 12:14:55pm: -----------END------------
-2022-09-20 12:16:10pm: --------------------------
-2022-09-20 12:16:10pm: --------NEW REQUEST-------
-2022-09-20 12:16:10pm: Start page loading
-2022-09-20 12:16:10pm: Send access token request
-2022-09-20 12:16:10pm: Recieve access token request
-2022-09-20 12:16:10pm: Start GET data request
-2022-09-20 12:16:14pm: Retrieve GET data request
-2022-09-20 12:16:14pm:  print company data 
-2022-09-20 12:16:14pm:  print company data End 
-2022-09-20 12:16:14pm:  print statistical circles data 
-2022-09-20 12:16:14pm: -----------END------------
-2022-09-20 12:18:43pm: --------------------------
-2022-09-20 12:18:43pm: --------NEW REQUEST-------
-2022-09-20 12:18:43pm: Start page loading
-2022-09-20 12:18:43pm: Send access token request
-2022-09-20 12:18:43pm: Recieve access token request
-2022-09-20 12:18:43pm: Start GET data request
-2022-09-20 12:18:48pm: Retrieve GET data request
-2022-09-20 12:18:48pm:  print company data 
-2022-09-20 12:18:48pm:  print company data End 
-2022-09-20 12:18:48pm:  print statistical circles data 
-2022-09-20 12:18:48pm: -----------END------------
-2022-09-20 12:19:37pm: --------------------------
-2022-09-20 12:19:37pm: --------NEW REQUEST-------
-2022-09-20 12:19:37pm: Start page loading
-2022-09-20 12:19:37pm: Send access token request
-2022-09-20 12:19:37pm: Recieve access token request
-2022-09-20 12:19:37pm: Start GET data request
-2022-09-20 12:19:42pm: Retrieve GET data request
-2022-09-20 12:19:42pm:  print company data 
-2022-09-20 12:19:42pm:  print company data End 
-2022-09-20 12:19:42pm:  print statistical circles data 
-2022-09-20 12:19:42pm: -----------END------------
-2022-09-20 12:20:13pm: --------------------------
-2022-09-20 12:20:13pm: --------NEW REQUEST-------
-2022-09-20 12:20:13pm: Start page loading
-2022-09-20 12:20:13pm: Send access token request
-2022-09-20 12:20:13pm: Recieve access token request
-2022-09-20 12:20:13pm: Start GET data request
-2022-09-20 12:20:17pm: Retrieve GET data request
-2022-09-20 12:20:17pm:  print company data 
-2022-09-20 12:20:17pm:  print company data End 
-2022-09-20 12:20:17pm:  print statistical circles data 
-2022-09-20 12:20:17pm: -----------END------------
-2022-09-20 12:29:34pm: --------------------------
-2022-09-20 12:29:34pm: --------NEW REQUEST-------
-2022-09-20 12:29:34pm: Start page loading
-2022-09-20 12:29:34pm: Send access token request
-2022-09-20 12:29:34pm: Recieve access token request
-2022-09-20 12:29:34pm: Start GET data request
-2022-09-20 12:29:42pm: Retrieve GET data request
-2022-09-20 12:29:42pm:  print company data 
-2022-09-20 12:29:42pm:  print company data End 
-2022-09-20 12:29:42pm:  print statistical circles data 
-2022-09-20 12:29:42pm: -----------END------------
-2022-09-20 12:33:35pm: --------------------------
-2022-09-20 12:33:35pm: --------NEW REQUEST-------
-2022-09-20 12:33:35pm: Start page loading
-2022-09-20 12:33:35pm: Send access token request
-2022-09-20 12:33:35pm: Recieve access token request
-2022-09-20 12:33:35pm: Start GET data request
-2022-09-20 12:33:40pm: Retrieve GET data request
-2022-09-20 12:33:40pm:  print company data 
-2022-09-20 12:33:40pm:  print company data End 
-2022-09-20 12:33:40pm:  print statistical circles data 
-2022-09-20 12:33:40pm: -----------END------------
-2022-09-20 12:36:16pm: --------------------------
-2022-09-20 12:36:16pm: --------NEW REQUEST-------
-2022-09-20 12:36:16pm: Start page loading
-2022-09-20 12:36:16pm: Send access token request
-2022-09-20 12:36:16pm: Recieve access token request
-2022-09-20 12:36:16pm: Start GET data request
-2022-09-20 12:36:45pm: Retrieve GET data request
-2022-09-20 12:36:45pm:  print company data 
-2022-09-20 12:36:45pm:  print company data End 
-2022-09-20 12:36:45pm:  print statistical circles data 
-2022-09-20 12:36:45pm: -----------END------------
-2022-09-20 12:57:05pm: --------------------------
-2022-09-20 12:57:05pm: --------NEW REQUEST-------
-2022-09-20 12:57:05pm: Start page loading
-2022-09-20 12:57:05pm: Send access token request
-2022-09-20 12:57:05pm: Recieve access token request
-2022-09-20 12:57:05pm: Start GET data request
-2022-09-20 12:57:10pm: Retrieve GET data request
-2022-09-20 12:57:10pm:  print company data 
-2022-09-20 12:57:10pm:  print company data End 
-2022-09-20 12:57:10pm:  print statistical circles data 
-2022-09-20 12:57:10pm: -----------END------------
-2022-09-20 01:21:05pm: --------------------------
-2022-09-20 01:21:05pm: --------NEW REQUEST-------
-2022-09-20 01:21:05pm: Start page loading
-2022-09-20 01:21:05pm: Send access token request
-2022-09-20 01:21:05pm: Recieve access token request
-2022-09-20 01:21:05pm: Start GET data request
-2022-09-20 01:21:11pm: Retrieve GET data request
-2022-09-20 01:21:11pm:  print company data 
-2022-09-20 01:21:11pm:  print company data End 
-2022-09-20 01:21:11pm:  print statistical circles data 
-2022-09-20 01:21:11pm: -----------END------------
-2022-09-20 01:21:38pm: --------------------------
-2022-09-20 01:21:38pm: --------NEW REQUEST-------
-2022-09-20 01:21:38pm: Start page loading
-2022-09-20 01:21:38pm: Send access token request
-2022-09-20 01:21:38pm: Recieve access token request
-2022-09-20 01:21:38pm: Start GET data request
-2022-09-20 01:21:43pm: Retrieve GET data request
-2022-09-20 01:21:43pm:  print company data 
-2022-09-20 01:21:43pm:  print company data End 
-2022-09-20 01:21:43pm:  print statistical circles data 
-2022-09-20 01:21:43pm: -----------END------------
-2022-09-20 01:23:59pm: --------------------------
-2022-09-20 01:23:59pm: --------NEW REQUEST-------
-2022-09-20 01:23:59pm: Start page loading
-2022-09-20 01:23:59pm: Send access token request
-2022-09-20 01:23:59pm: Recieve access token request
-2022-09-20 01:23:59pm: Start GET data request
-2022-09-20 01:24:05pm: Retrieve GET data request
-2022-09-20 01:24:05pm:  print company data 
-2022-09-20 01:24:05pm:  print company data End 
-2022-09-20 01:24:05pm:  print statistical circles data 
-2022-09-20 01:24:06pm: -----------END------------
-2022-09-20 01:26:03pm: --------------------------
-2022-09-20 01:26:03pm: --------NEW REQUEST-------
-2022-09-20 01:26:03pm: Start page loading
-2022-09-20 01:26:03pm: Send access token request
-2022-09-20 01:26:03pm: Recieve access token request
-2022-09-20 01:26:03pm: Start GET data request
-2022-09-20 01:26:28pm: Retrieve GET data request
-2022-09-20 01:26:28pm:  print company data 
-2022-09-20 01:26:28pm:  print company data End 
-2022-09-20 01:26:28pm:  print statistical circles data 
-2022-09-20 01:26:28pm: -----------END------------
-2022-09-20 01:31:09pm: --------------------------
-2022-09-20 01:31:09pm: --------NEW REQUEST-------
-2022-09-20 01:31:09pm: Start page loading
-2022-09-20 01:31:09pm: Send access token request
-2022-09-20 01:31:09pm: Recieve access token request
-2022-09-20 01:31:09pm: Start GET data request
-2022-09-20 01:31:15pm: Retrieve GET data request
-2022-09-20 01:31:15pm:  print company data 
-2022-09-20 01:31:15pm:  print company data End 
-2022-09-20 01:31:15pm:  print statistical circles data 
-2022-09-20 01:31:15pm: -----------END------------
-2022-09-20 01:38:59pm: --------------------------
-2022-09-20 01:38:59pm: --------NEW REQUEST-------
-2022-09-20 01:38:59pm: Start page loading
-2022-09-20 01:38:59pm: Send access token request
-2022-09-20 01:38:59pm: Recieve access token request
-2022-09-20 01:38:59pm: Start GET data request
-2022-09-20 01:39:04pm: Retrieve GET data request
-2022-09-20 01:39:04pm:  print company data 
-2022-09-20 01:39:04pm:  print company data End 
-2022-09-20 01:39:04pm:  print statistical circles data 
-2022-09-20 01:39:04pm: -----------END------------
-2022-09-20 01:39:51pm: --------------------------
-2022-09-20 01:39:51pm: --------NEW REQUEST-------
-2022-09-20 01:39:51pm: Start page loading
-2022-09-20 01:39:51pm: Send access token request
-2022-09-20 01:39:51pm: Recieve access token request
-2022-09-20 01:39:51pm: Start GET data request
-2022-09-20 01:40:00pm: Retrieve GET data request
-2022-09-20 01:40:00pm:  print company data 
-2022-09-20 01:40:00pm:  print company data End 
-2022-09-20 01:40:00pm:  print statistical circles data 
-2022-09-20 01:40:00pm: -----------END------------
-2022-09-20 01:40:10pm: --------------------------
-2022-09-20 01:40:10pm: --------NEW REQUEST-------
-2022-09-20 01:40:10pm: Start page loading
-2022-09-20 01:40:10pm: Send access token request
-2022-09-20 01:40:10pm: Recieve access token request
-2022-09-20 01:40:10pm: Start GET data request
-2022-09-20 01:40:15pm: Retrieve GET data request
-2022-09-20 01:40:15pm:  print company data 
-2022-09-20 01:40:15pm:  print company data End 
-2022-09-20 01:40:15pm:  print statistical circles data 
-2022-09-20 01:40:15pm: -----------END------------
-2022-09-20 01:40:24pm: --------------------------
-2022-09-20 01:40:24pm: --------NEW REQUEST-------
-2022-09-20 01:40:24pm: Start page loading
-2022-09-20 01:40:24pm: Send access token request
-2022-09-20 01:40:24pm: Recieve access token request
-2022-09-20 01:40:24pm: Start GET data request
-2022-09-20 01:40:36pm: Retrieve GET data request
-2022-09-20 01:40:36pm:  print company data 
-2022-09-20 01:40:36pm:  print company data End 
-2022-09-20 01:40:36pm:  print statistical circles data 
-2022-09-20 01:40:36pm: -----------END------------
-2022-09-20 01:42:43pm: --------------------------
-2022-09-20 01:42:43pm: --------NEW REQUEST-------
-2022-09-20 01:42:43pm: Start page loading
-2022-09-20 01:42:43pm: Send access token request
-2022-09-20 01:42:43pm: Recieve access token request
-2022-09-20 01:42:43pm: Start GET data request
-2022-09-20 01:42:48pm: Retrieve GET data request
-2022-09-20 01:42:48pm:  print company data 
-2022-09-20 01:42:48pm:  print company data End 
-2022-09-20 01:42:48pm:  print statistical circles data 
-2022-09-20 01:42:48pm: -----------END------------
-2022-09-20 01:43:11pm: --------------------------
-2022-09-20 01:43:11pm: --------NEW REQUEST-------
-2022-09-20 01:43:11pm: Start page loading
-2022-09-20 01:43:11pm: Send access token request
-2022-09-20 01:43:11pm: Recieve access token request
-2022-09-20 01:43:11pm: Start GET data request
-2022-09-20 01:43:16pm: Retrieve GET data request
-2022-09-20 01:43:16pm:  print company data 
-2022-09-20 01:43:16pm:  print company data End 
-2022-09-20 01:43:16pm:  print statistical circles data 
-2022-09-20 01:43:16pm: -----------END------------
-2022-09-20 01:46:09pm: --------------------------
-2022-09-20 01:46:09pm: --------NEW REQUEST-------
-2022-09-20 01:46:09pm: Start page loading
-2022-09-20 01:46:09pm: Send access token request
-2022-09-20 01:46:09pm: Recieve access token request
-2022-09-20 01:46:09pm: Start GET data request
-2022-09-20 01:46:21pm: Retrieve GET data request
-2022-09-20 01:46:21pm:  print company data 
-2022-09-20 01:46:21pm:  print company data End 
-2022-09-20 01:46:21pm:  print statistical circles data 
-2022-09-20 01:46:21pm: -----------END------------
-2022-09-20 01:47:19pm: --------------------------
-2022-09-20 01:47:19pm: --------NEW REQUEST-------
-2022-09-20 01:47:19pm: Start page loading
-2022-09-20 01:47:19pm: Send access token request
-2022-09-20 01:47:19pm: Recieve access token request
-2022-09-20 01:47:19pm: Start GET data request
-2022-09-20 01:47:34pm: Retrieve GET data request
-2022-09-20 01:47:34pm:  print company data 
-2022-09-20 01:47:34pm:  print company data End 
-2022-09-20 01:47:34pm:  print statistical circles data 
-2022-09-20 01:47:34pm: -----------END------------
-2022-09-20 01:49:48pm: --------------------------
-2022-09-20 01:49:48pm: --------NEW REQUEST-------
-2022-09-20 01:49:48pm: Start page loading
-2022-09-20 01:49:48pm: Send access token request
-2022-09-20 01:49:48pm: Recieve access token request
-2022-09-20 01:49:48pm: Start GET data request
-2022-09-20 01:49:55pm: Retrieve GET data request
-2022-09-20 01:49:55pm:  print company data 
-2022-09-20 01:49:55pm:  print company data End 
-2022-09-20 01:49:55pm:  print statistical circles data 
-2022-09-20 01:49:55pm: -----------END------------
-2022-09-20 01:52:35pm: --------------------------
-2022-09-20 01:52:35pm: --------NEW REQUEST-------
-2022-09-20 01:52:35pm: Start page loading
-2022-09-20 01:52:35pm: Send access token request
-2022-09-20 01:52:35pm: Recieve access token request
-2022-09-20 01:52:35pm: Start GET data request
-2022-09-20 01:52:45pm: Retrieve GET data request
-2022-09-20 01:52:45pm:  print company data 
-2022-09-20 01:52:45pm:  print company data End 
-2022-09-20 01:52:45pm:  print statistical circles data 
-2022-09-20 01:52:45pm: -----------END------------
-2022-09-20 01:53:13pm: --------------------------
-2022-09-20 01:53:13pm: --------NEW REQUEST-------
-2022-09-20 01:53:13pm: Start page loading
-2022-09-20 01:53:13pm: Send access token request
-2022-09-20 01:53:13pm: Recieve access token request
-2022-09-20 01:53:13pm: Start GET data request
-2022-09-20 01:53:18pm: Retrieve GET data request
-2022-09-20 01:53:18pm:  print company data 
-2022-09-20 01:53:18pm:  print company data End 
-2022-09-20 01:53:18pm:  print statistical circles data 
-2022-09-20 01:53:18pm: -----------END------------
-2022-09-20 01:53:53pm: --------------------------
-2022-09-20 01:53:53pm: --------NEW REQUEST-------
-2022-09-20 01:53:53pm: Start page loading
-2022-09-20 01:53:53pm: Send access token request
-2022-09-20 01:53:53pm: Recieve access token request
-2022-09-20 01:53:53pm: Start GET data request
-2022-09-20 01:54:02pm: Retrieve GET data request
-2022-09-20 01:54:02pm:  print company data 
-2022-09-20 01:54:02pm:  print company data End 
-2022-09-20 01:54:02pm:  print statistical circles data 
-2022-09-20 01:54:02pm: -----------END------------
-2022-09-20 01:58:55pm: --------------------------
-2022-09-20 01:58:55pm: --------NEW REQUEST-------
-2022-09-20 01:58:55pm: Start page loading
-2022-09-20 01:58:55pm: Send access token request
-2022-09-20 01:58:55pm: Recieve access token request
-2022-09-20 01:58:55pm: Start GET data request
-2022-09-20 02:00:01pm: Retrieve GET data request
-2022-09-20 02:00:01pm:  print company data 
-2022-09-20 02:00:01pm:  print company data End 
-2022-09-20 02:00:01pm:  print statistical circles data 
-2022-09-20 02:01:29pm: --------------------------
-2022-09-20 02:01:29pm: --------NEW REQUEST-------
-2022-09-20 02:01:29pm: Start page loading
-2022-09-20 02:01:29pm: Send access token request
-2022-09-20 02:01:29pm: Recieve access token request
-2022-09-20 02:01:29pm: Start GET data request
-2022-09-20 02:01:33pm: Retrieve GET data request
-2022-09-20 02:01:33pm:  print company data 
-2022-09-20 02:01:33pm:  print company data End 
-2022-09-20 02:01:33pm:  print statistical circles data 
-2022-09-20 02:01:33pm: -----------END------------
-2022-09-20 02:03:00pm: --------------------------
-2022-09-20 02:03:00pm: --------NEW REQUEST-------
-2022-09-20 02:03:00pm: Start page loading
-2022-09-20 02:03:00pm: Send access token request
-2022-09-20 02:03:00pm: Recieve access token request
-2022-09-20 02:03:00pm: Start GET data request
-2022-09-20 02:03:05pm: Retrieve GET data request
-2022-09-20 02:03:05pm:  print company data 
-2022-09-20 02:03:05pm:  print company data End 
-2022-09-20 02:03:05pm:  print statistical circles data 
-2022-09-20 02:03:05pm: -----------END------------
-2022-09-20 02:17:29pm: --------------------------
-2022-09-20 02:17:29pm: --------NEW REQUEST-------
-2022-09-20 02:17:29pm: Start page loading
-2022-09-20 02:17:29pm: Send access token request
-2022-09-20 02:17:29pm: Recieve access token request
-2022-09-20 02:17:29pm: Start GET data request
-2022-09-20 02:17:33pm: Retrieve GET data request
-2022-09-20 02:17:33pm:  print company data 
-2022-09-20 02:17:33pm:  print company data End 
-2022-09-20 02:17:33pm:  print statistical circles data 
-2022-09-20 02:17:33pm: -----------END------------
-2022-09-20 02:18:48pm: --------------------------
-2022-09-20 02:18:48pm: --------NEW REQUEST-------
-2022-09-20 02:18:48pm: Start page loading
-2022-09-20 02:18:48pm: Send access token request
-2022-09-20 02:18:48pm: Recieve access token request
-2022-09-20 02:18:48pm: Start GET data request
-2022-09-20 02:18:53pm: Retrieve GET data request
-2022-09-20 02:18:53pm:  print company data 
-2022-09-20 02:18:53pm:  print company data End 
-2022-09-20 02:18:53pm:  print statistical circles data 
-2022-09-20 02:18:53pm: -----------END------------
-2022-09-20 02:20:11pm: --------------------------
-2022-09-20 02:20:11pm: --------NEW REQUEST-------
-2022-09-20 02:20:11pm: Start page loading
-2022-09-20 02:20:11pm: Send access token request
-2022-09-20 02:20:11pm: Recieve access token request
-2022-09-20 02:20:11pm: Start GET data request
-2022-09-20 02:20:16pm: Retrieve GET data request
-2022-09-20 02:20:16pm:  print company data 
-2022-09-20 02:20:16pm:  print company data End 
-2022-09-20 02:20:16pm:  print statistical circles data 
-2022-09-20 02:20:16pm: -----------END------------
-2022-09-20 02:20:32pm: --------------------------
-2022-09-20 02:20:32pm: --------NEW REQUEST-------
-2022-09-20 02:20:32pm: Start page loading
-2022-09-20 02:20:32pm: Send access token request
-2022-09-20 02:20:32pm: Recieve access token request
-2022-09-20 02:20:32pm: Start GET data request
-2022-09-20 02:20:46pm: Retrieve GET data request
-2022-09-20 02:20:46pm:  print company data 
-2022-09-20 02:20:46pm:  print company data End 
-2022-09-20 02:20:46pm:  print statistical circles data 
-2022-09-20 02:20:46pm: -----------END------------
-2022-09-20 02:24:27pm: --------------------------
-2022-09-20 02:24:27pm: --------NEW REQUEST-------
-2022-09-20 02:24:27pm: Start page loading
-2022-09-20 02:24:27pm: Send access token request
-2022-09-20 02:24:27pm: Recieve access token request
-2022-09-20 02:24:27pm: Start GET data request
-2022-09-20 02:24:31pm: Retrieve GET data request
-2022-09-20 02:24:31pm:  print company data 
-2022-09-20 02:24:31pm:  print company data End 
-2022-09-20 02:24:31pm:  print statistical circles data 
-2022-09-20 02:24:31pm: -----------END------------
-2022-09-20 02:26:17pm: --------------------------
-2022-09-20 02:26:17pm: --------NEW REQUEST-------
-2022-09-20 02:26:17pm: Start page loading
-2022-09-20 02:26:17pm: Send access token request
-2022-09-20 02:26:17pm: Recieve access token request
-2022-09-20 02:26:17pm: Start GET data request
-2022-09-20 02:26:22pm: Retrieve GET data request
-2022-09-20 02:26:22pm:  print company data 
-2022-09-20 02:26:22pm:  print company data End 
-2022-09-20 02:26:22pm:  print statistical circles data 
-2022-09-20 02:26:22pm: -----------END------------
-2022-09-20 03:04:36pm: --------------------------
-2022-09-20 03:04:36pm: --------NEW REQUEST-------
-2022-09-20 03:04:36pm: Start page loading
-2022-09-20 03:04:36pm: Send access token request
-2022-09-20 03:04:36pm: Recieve access token request
-2022-09-20 03:04:36pm: Start GET data request
-2022-09-20 03:04:43pm: Retrieve GET data request
-2022-09-20 03:04:43pm:  print company data 
-2022-09-20 03:04:43pm:  print company data End 
-2022-09-20 03:04:43pm:  print statistical circles data 
-2022-09-20 03:04:43pm: -----------END------------
-2022-09-20 03:07:27pm: --------------------------
-2022-09-20 03:07:27pm: --------NEW REQUEST-------
-2022-09-20 03:07:27pm: Start page loading
-2022-09-20 03:07:27pm: Send access token request
-2022-09-20 03:07:27pm: Recieve access token request
-2022-09-20 03:07:27pm: Start GET data request
-2022-09-20 03:07:33pm: Retrieve GET data request
-2022-09-20 03:07:33pm:  print company data 
-2022-09-20 03:07:33pm:  print company data End 
-2022-09-20 03:07:33pm:  print statistical circles data 
-2022-09-20 03:07:33pm: -----------END------------
-2022-09-20 03:13:23pm: --------------------------
-2022-09-20 03:13:23pm: --------NEW REQUEST-------
-2022-09-20 03:13:23pm: Start page loading
-2022-09-20 03:13:23pm: Send access token request
-2022-09-20 03:13:23pm: Recieve access token request
-2022-09-20 03:13:23pm: Start GET data request
-2022-09-20 03:13:27pm: Retrieve GET data request
-2022-09-20 03:13:27pm:  print company data 
-2022-09-20 03:13:27pm:  print company data End 
-2022-09-20 03:13:27pm:  print statistical circles data 
-2022-09-20 03:13:27pm: -----------END------------
-2022-09-20 03:14:49pm: --------------------------
-2022-09-20 03:14:49pm: --------NEW REQUEST-------
-2022-09-20 03:14:49pm: Start page loading
-2022-09-20 03:14:49pm: Send access token request
-2022-09-20 03:14:49pm: Recieve access token request
-2022-09-20 03:14:49pm: Start GET data request
-2022-09-20 03:14:53pm: Retrieve GET data request
-2022-09-20 03:14:53pm:  print company data 
-2022-09-20 03:14:53pm:  print company data End 
-2022-09-20 03:14:53pm:  print statistical circles data 
-2022-09-20 03:14:53pm: -----------END------------
-2022-09-20 03:16:57pm: --------------------------
-2022-09-20 03:16:57pm: --------NEW REQUEST-------
-2022-09-20 03:16:57pm: Start page loading
-2022-09-20 03:16:57pm: Send access token request
-2022-09-20 03:16:57pm: Recieve access token request
-2022-09-20 03:16:57pm: Start GET data request
-2022-09-20 03:17:02pm: Retrieve GET data request
-2022-09-20 03:17:02pm:  print company data 
-2022-09-20 03:17:02pm:  print company data End 
-2022-09-20 03:17:02pm:  print statistical circles data 
-2022-09-20 03:17:02pm: -----------END------------
-2022-09-20 03:18:15pm: --------------------------
-2022-09-20 03:18:15pm: --------NEW REQUEST-------
-2022-09-20 03:18:15pm: Start page loading
-2022-09-20 03:18:15pm: Send access token request
-2022-09-20 03:18:15pm: Recieve access token request
-2022-09-20 03:18:15pm: Start GET data request
-2022-09-20 03:18:20pm: Retrieve GET data request
-2022-09-20 03:18:20pm:  print company data 
-2022-09-20 03:18:20pm:  print company data End 
-2022-09-20 03:18:20pm:  print statistical circles data 
-2022-09-20 03:18:20pm: -----------END------------
-2022-09-20 03:24:20pm: --------------------------
-2022-09-20 03:24:20pm: --------NEW REQUEST-------
-2022-09-20 03:24:20pm: Start page loading
-2022-09-20 03:24:20pm: Send access token request
-2022-09-20 03:24:20pm: Recieve access token request
-2022-09-20 03:24:20pm: Start GET data request
-2022-09-20 03:24:25pm: Retrieve GET data request
-2022-09-20 03:24:25pm:  print company data 
-2022-09-20 03:24:25pm:  print company data End 
-2022-09-20 03:24:25pm:  print statistical circles data 
-2022-09-20 03:24:25pm: -----------END------------
-2022-09-20 03:25:05pm: --------------------------
-2022-09-20 03:25:05pm: --------NEW REQUEST-------
-2022-09-20 03:25:05pm: Start page loading
-2022-09-20 03:25:05pm: Send access token request
-2022-09-20 03:25:05pm: Recieve access token request
-2022-09-20 03:25:05pm: Start GET data request
-2022-09-20 03:25:09pm: Retrieve GET data request
-2022-09-20 03:25:09pm:  print company data 
-2022-09-20 03:25:09pm:  print company data End 
-2022-09-20 03:25:09pm:  print statistical circles data 
-2022-09-20 03:25:09pm: -----------END------------
-2022-09-20 03:25:23pm: --------------------------
-2022-09-20 03:25:23pm: --------NEW REQUEST-------
-2022-09-20 03:25:23pm: Start page loading
-2022-09-20 03:25:23pm: Send access token request
-2022-09-20 03:25:23pm: Recieve access token request
-2022-09-20 03:25:23pm: Start GET data request
-2022-09-20 03:25:29pm: Retrieve GET data request
-2022-09-20 03:25:29pm:  print company data 
-2022-09-20 03:25:29pm:  print company data End 
-2022-09-20 03:25:29pm:  print statistical circles data 
-2022-09-20 03:25:29pm: -----------END------------
-2022-09-20 03:28:23pm: --------------------------
-2022-09-20 03:28:23pm: --------NEW REQUEST-------
-2022-09-20 03:28:23pm: Start page loading
-2022-09-20 03:28:23pm: Send access token request
-2022-09-20 03:28:23pm: Recieve access token request
-2022-09-20 03:28:23pm: Start GET data request
-2022-09-20 03:28:28pm: Retrieve GET data request
-2022-09-20 03:28:28pm:  print company data 
-2022-09-20 03:28:28pm:  print company data End 
-2022-09-20 03:28:28pm:  print statistical circles data 
-2022-09-20 03:28:28pm: -----------END------------
-2022-09-20 03:44:56pm: --------------------------
-2022-09-20 03:44:56pm: --------NEW REQUEST-------
-2022-09-20 03:44:56pm: Start page loading
-2022-09-20 03:44:56pm: Send access token request
-2022-09-20 03:44:56pm: Recieve access token request
-2022-09-20 03:44:56pm: Start GET data request
-2022-09-20 03:45:02pm: Retrieve GET data request
-2022-09-20 03:45:02pm:  print company data 
-2022-09-20 03:45:02pm:  print company data End 
-2022-09-20 03:45:02pm:  print statistical circles data 
-2022-09-20 03:45:02pm: -----------END------------
-2022-09-20 03:45:42pm: --------------------------
-2022-09-20 03:45:42pm: --------NEW REQUEST-------
-2022-09-20 03:45:42pm: Start page loading
-2022-09-20 03:45:42pm: Send access token request
-2022-09-20 03:45:42pm: Recieve access token request
-2022-09-20 03:45:42pm: Start GET data request
-2022-09-20 03:45:47pm: Retrieve GET data request
-2022-09-20 03:45:47pm:  print company data 
-2022-09-20 03:45:47pm:  print company data End 
-2022-09-20 03:45:47pm:  print statistical circles data 
-2022-09-20 03:45:47pm: -----------END------------
-2022-09-20 03:46:02pm: --------------------------
-2022-09-20 03:46:02pm: --------NEW REQUEST-------
-2022-09-20 03:46:02pm: Start page loading
-2022-09-20 03:46:02pm: Send access token request
-2022-09-20 03:46:02pm: Recieve access token request
-2022-09-20 03:46:02pm: Start GET data request
-2022-09-20 03:46:07pm: Retrieve GET data request
-2022-09-20 03:46:07pm:  print company data 
-2022-09-20 03:46:07pm:  print company data End 
-2022-09-20 03:46:07pm:  print statistical circles data 
-2022-09-20 03:46:07pm: -----------END------------
-2022-09-20 04:05:48pm: --------------------------
-2022-09-20 04:05:48pm: --------NEW REQUEST-------
-2022-09-20 04:05:48pm: Start page loading
-2022-09-20 04:05:48pm: Send access token request
-2022-09-20 04:05:48pm: Recieve access token request
-2022-09-20 04:05:48pm: Start GET data request
-2022-09-20 04:05:53pm: Retrieve GET data request
-2022-09-20 04:05:53pm:  print company data 
-2022-09-20 04:05:53pm:  print company data End 
-2022-09-20 04:05:53pm:  print statistical circles data 
-2022-09-20 04:05:53pm: -----------END------------
-2022-09-20 04:28:14pm: --------------------------
-2022-09-20 04:28:14pm: --------NEW REQUEST-------
-2022-09-20 04:28:14pm: Start page loading
-2022-09-20 04:28:14pm: Send access token request
-2022-09-20 04:28:14pm: Recieve access token request
-2022-09-20 04:28:14pm: Start GET data request
-2022-09-20 04:28:23pm: Retrieve GET data request
-2022-09-20 04:28:23pm:  print company data 
-2022-09-20 04:28:23pm:  print company data End 
-2022-09-20 04:28:23pm:  print statistical circles data 
-2022-09-20 04:28:23pm: -----------END------------
-2022-09-20 04:44:08pm: --------------------------
-2022-09-20 04:44:08pm: --------NEW REQUEST-------
-2022-09-20 04:44:08pm: Start page loading
-2022-09-20 04:44:08pm: Send access token request
-2022-09-20 04:44:08pm: Recieve access token request
-2022-09-20 04:44:08pm: Start GET data request
-2022-09-20 04:44:13pm: Retrieve GET data request
-2022-09-20 04:44:13pm:  print company data 
-2022-09-20 04:44:13pm:  print company data End 
-2022-09-20 04:44:13pm:  print statistical circles data 
-2022-09-20 04:44:13pm: -----------END------------
-2022-09-20 04:48:26pm: --------------------------
-2022-09-20 04:48:26pm: --------NEW REQUEST-------
-2022-09-20 04:48:26pm: Start page loading
-2022-09-20 04:48:26pm: Send access token request
-2022-09-20 04:48:26pm: Recieve access token request
-2022-09-20 04:48:26pm: Start GET data request
-2022-09-20 04:48:31pm: Retrieve GET data request
-2022-09-20 04:48:31pm:  print company data 
-2022-09-20 04:48:31pm:  print company data End 
-2022-09-20 04:48:31pm:  print statistical circles data 
-2022-09-20 04:48:31pm: -----------END------------
-2022-09-20 04:57:31pm: --------------------------
-2022-09-20 04:57:31pm: --------NEW REQUEST-------
-2022-09-20 04:57:31pm: Start page loading
-2022-09-20 04:57:31pm: Send access token request
-2022-09-20 04:57:31pm: Recieve access token request
-2022-09-20 04:57:31pm: Start GET data request
-2022-09-20 04:57:36pm: Retrieve GET data request
-2022-09-20 04:57:36pm:  print company data 
-2022-09-20 04:57:36pm:  print company data End 
-2022-09-20 04:57:36pm:  print statistical circles data 
-2022-09-20 04:57:36pm: -----------END------------
-2022-09-20 04:58:56pm: --------------------------
-2022-09-20 04:58:56pm: --------NEW REQUEST-------
-2022-09-20 04:58:56pm: Start page loading
-2022-09-20 04:58:56pm: Send access token request
-2022-09-20 04:58:56pm: Recieve access token request
-2022-09-20 04:58:56pm: Start GET data request
-2022-09-20 04:59:01pm: Retrieve GET data request
-2022-09-20 04:59:01pm:  print company data 
-2022-09-20 04:59:01pm:  print company data End 
-2022-09-20 04:59:01pm:  print statistical circles data 
-2022-09-20 04:59:01pm: -----------END------------
-2022-09-20 05:03:47pm: --------------------------
-2022-09-20 05:03:47pm: --------NEW REQUEST-------
-2022-09-20 05:03:47pm: Start page loading
-2022-09-20 05:03:47pm: Send access token request
-2022-09-20 05:03:47pm: Recieve access token request
-2022-09-20 05:03:47pm: Start GET data request
-2022-09-20 05:03:58pm: Retrieve GET data request
-2022-09-20 05:03:58pm:  print company data 
-2022-09-20 05:03:58pm:  print company data End 
-2022-09-20 05:03:58pm:  print statistical circles data 
-2022-09-20 05:03:58pm: -----------END------------
-2022-09-20 05:04:48pm: --------------------------
-2022-09-20 05:04:48pm: --------NEW REQUEST-------
-2022-09-20 05:04:48pm: Start page loading
-2022-09-20 05:04:48pm: Send access token request
-2022-09-20 05:04:48pm: Recieve access token request
-2022-09-20 05:04:48pm: Start GET data request
-2022-09-20 05:04:53pm: Retrieve GET data request
-2022-09-20 05:04:53pm:  print company data 
-2022-09-20 05:04:53pm:  print company data End 
-2022-09-20 05:04:53pm:  print statistical circles data 
-2022-09-20 05:04:53pm: -----------END------------
-2022-09-20 05:07:33pm: --------------------------
-2022-09-20 05:07:33pm: --------NEW REQUEST-------
-2022-09-20 05:07:33pm: Start page loading
-2022-09-20 05:07:33pm: Send access token request
-2022-09-20 05:07:33pm: Recieve access token request
-2022-09-20 05:07:33pm: Start GET data request
-2022-09-20 05:07:38pm: Retrieve GET data request
-2022-09-20 05:07:38pm:  print company data 
-2022-09-20 05:07:38pm:  print company data End 
-2022-09-20 05:07:38pm:  print statistical circles data 
-2022-09-20 05:07:38pm: -----------END------------
-2022-09-20 05:35:12pm: --------------------------
-2022-09-20 05:35:12pm: --------NEW REQUEST-------
-2022-09-20 05:35:12pm: Start page loading
-2022-09-20 05:35:12pm: Send access token request
-2022-09-20 05:35:12pm: Recieve access token request
-2022-09-20 05:35:12pm: Start GET data request
-2022-09-20 05:35:19pm: Retrieve GET data request
-2022-09-20 05:35:19pm:  print company data 
-2022-09-20 05:35:19pm:  print company data End 
-2022-09-20 05:35:19pm:  print statistical circles data 
-2022-09-20 05:35:19pm: -----------END------------
-2022-09-20 05:41:49pm: --------------------------
-2022-09-20 05:41:49pm: --------NEW REQUEST-------
-2022-09-20 05:41:49pm: Start page loading
-2022-09-20 05:41:49pm: Send access token request
-2022-09-20 05:41:49pm: Recieve access token request
-2022-09-20 05:41:49pm: Start GET data request
-2022-09-20 05:41:54pm: Retrieve GET data request
-2022-09-20 05:41:54pm:  print company data 
-2022-09-20 05:41:54pm:  print company data End 
-2022-09-20 05:41:54pm:  print statistical circles data 
-2022-09-20 05:41:54pm: -----------END------------
-2022-09-20 05:45:12pm: --------------------------
-2022-09-20 05:45:12pm: --------NEW REQUEST-------
-2022-09-20 05:45:12pm: Start page loading
-2022-09-20 05:45:12pm: Send access token request
-2022-09-20 05:45:12pm: Recieve access token request
-2022-09-20 05:45:12pm: Start GET data request
-2022-09-20 05:45:17pm: Retrieve GET data request
-2022-09-20 05:45:17pm:  print company data 
-2022-09-20 05:45:17pm:  print company data End 
-2022-09-20 05:45:17pm:  print statistical circles data 
-2022-09-20 05:45:17pm: -----------END------------
-2022-09-20 05:46:49pm: --------------------------
-2022-09-20 05:46:49pm: --------NEW REQUEST-------
-2022-09-20 05:46:49pm: Start page loading
-2022-09-20 05:46:49pm: Send access token request
-2022-09-20 05:46:49pm: Recieve access token request
-2022-09-20 05:46:49pm: Start GET data request
-2022-09-20 05:46:54pm: Retrieve GET data request
-2022-09-20 05:46:54pm:  print company data 
-2022-09-20 05:46:54pm:  print company data End 
-2022-09-20 05:46:54pm:  print statistical circles data 
-2022-09-20 05:46:54pm: -----------END------------
-2022-09-20 05:53:03pm: --------------------------
-2022-09-20 05:53:03pm: --------NEW REQUEST-------
-2022-09-20 05:53:03pm: Start page loading
-2022-09-20 05:53:03pm: Send access token request
-2022-09-20 05:53:03pm: Recieve access token request
-2022-09-20 05:53:03pm: Start GET data request
-2022-09-20 05:53:08pm: Retrieve GET data request
-2022-09-20 05:53:08pm:  print company data 
-2022-09-20 05:53:08pm:  print company data End 
-2022-09-20 05:53:08pm:  print statistical circles data 
-2022-09-20 05:53:08pm: -----------END------------
-2022-09-20 05:57:18pm: --------------------------
-2022-09-20 05:57:18pm: --------NEW REQUEST-------
-2022-09-20 05:57:18pm: Start page loading
-2022-09-20 05:57:18pm: Send access token request
-2022-09-20 05:57:18pm: Recieve access token request
-2022-09-20 05:57:18pm: Start GET data request
-2022-09-20 05:57:23pm: Retrieve GET data request
-2022-09-20 05:57:23pm:  print company data 
-2022-09-20 05:57:23pm:  print company data End 
-2022-09-20 05:57:23pm:  print statistical circles data 
-2022-09-20 05:57:23pm: -----------END------------
-2022-09-20 05:58:57pm: --------------------------
-2022-09-20 05:58:57pm: --------NEW REQUEST-------
-2022-09-20 05:58:57pm: Start page loading
-2022-09-20 05:58:57pm: Send access token request
-2022-09-20 05:58:57pm: Recieve access token request
-2022-09-20 05:58:57pm: Start GET data request
-2022-09-20 05:59:03pm: Retrieve GET data request
-2022-09-20 05:59:03pm:  print company data 
-2022-09-20 05:59:03pm:  print company data End 
-2022-09-20 05:59:03pm:  print statistical circles data 
-2022-09-20 05:59:03pm: -----------END------------
-2022-09-21 10:39:01am: --------------------------
-2022-09-21 10:39:01am: --------NEW REQUEST-------
-2022-09-21 10:39:01am: Start page loading
-2022-09-21 10:39:01am: Send access token request
-2022-09-21 10:39:01am: Recieve access token request
-2022-09-21 10:39:01am: Start GET data request
-2022-09-21 10:39:06am: Retrieve GET data request
-2022-09-21 10:39:06am:  print company data 
-2022-09-21 10:39:06am:  print company data End 
-2022-09-21 10:39:06am:  print statistical circles data 
-2022-09-21 10:39:06am: -----------END------------
+2022-09-18 09:59:55am: --------------------------
+2022-09-18 09:59:55am: --------NEW REQUEST-------
+2022-09-18 09:59:55am: Start page loading
+2022-09-18 09:59:55am: Send access token request
+2022-09-18 09:59:55am: Recieve access token request
+2022-09-18 09:59:55am: Start GET data request
+2022-09-18 09:59:59am: Retrieve GET data request
+2022-09-18 09:59:59am:  print statistical circles data
+2022-09-18 10:00:00am: -----------END------------
+2022-09-18 10:00:00am:  print company data
+2022-09-18 10:00:00am:  print company data End
+2022-09-18 10:01:22am: --------------------------
+2022-09-18 10:01:22am: --------NEW REQUEST-------
+2022-09-18 10:01:22am: Start page loading
+2022-09-18 10:01:22am: Send access token request
+2022-09-18 10:01:22am: Recieve access token request
+2022-09-18 10:01:22am: Start GET data request
+2022-09-18 10:01:27am: Retrieve GET data request
+2022-09-18 10:01:27am:  print statistical circles data
+2022-09-18 10:01:27am: -----------END------------
+2022-09-18 10:01:27am:  print company data
+2022-09-18 10:01:27am:  print company data End
+2022-09-18 10:02:57am: --------------------------
+2022-09-18 10:02:57am: --------NEW REQUEST-------
+2022-09-18 10:02:57am: Start page loading
+2022-09-18 10:02:57am: Send access token request
+2022-09-18 10:02:57am: Recieve access token request
+2022-09-18 10:02:57am: Start GET data request
+2022-09-18 10:03:02am: Retrieve GET data request
+2022-09-18 10:03:02am:  print statistical circles data
+2022-09-18 10:03:02am: -----------END------------
+2022-09-18 10:03:02am:  print company data
+2022-09-18 10:03:02am:  print company data End
+2022-09-18 10:04:37am: --------------------------
+2022-09-18 10:04:37am: --------NEW REQUEST-------
+2022-09-18 10:04:37am: Start page loading
+2022-09-18 10:04:37am: Send access token request
+2022-09-18 10:04:37am: Recieve access token request
+2022-09-18 10:04:37am: Start GET data request
+2022-09-18 10:04:42am: Retrieve GET data request
+2022-09-18 10:04:42am:  print statistical circles data
+2022-09-18 10:04:42am: -----------END------------
+2022-09-18 10:04:42am:  print company data
+2022-09-18 10:04:42am:  print company data End
+2022-09-18 10:04:53am: --------------------------
+2022-09-18 10:04:53am: --------NEW REQUEST-------
+2022-09-18 10:04:53am: Start page loading
+2022-09-18 10:04:53am: Send access token request
+2022-09-18 10:04:53am: Recieve access token request
+2022-09-18 10:04:53am: Start GET data request
+2022-09-18 10:04:58am: Retrieve GET data request
+2022-09-18 10:04:58am:  print statistical circles data
+2022-09-18 10:04:58am: -----------END------------
+2022-09-18 10:04:58am:  print company data
+2022-09-18 10:04:58am:  print company data End
+2022-09-18 10:05:25am: --------------------------
+2022-09-18 10:05:25am: --------NEW REQUEST-------
+2022-09-18 10:05:25am: Start page loading
+2022-09-18 10:05:25am: Send access token request
+2022-09-18 10:05:25am: Recieve access token request
+2022-09-18 10:05:25am: Start GET data request
+2022-09-18 10:05:31am: Retrieve GET data request
+2022-09-18 10:05:49am: --------------------------
+2022-09-18 10:05:49am: --------NEW REQUEST-------
+2022-09-18 10:05:49am: Start page loading
+2022-09-18 10:05:49am: Send access token request
+2022-09-18 10:05:49am: Recieve access token request
+2022-09-18 10:05:49am: Start GET data request
+2022-09-18 10:05:53am: Retrieve GET data request
+2022-09-18 10:06:13am: --------------------------
+2022-09-18 10:06:13am: --------NEW REQUEST-------
+2022-09-18 10:06:13am: Start page loading
+2022-09-18 10:06:13am: Send access token request
+2022-09-18 10:06:13am: Recieve access token request
+2022-09-18 10:06:13am: Start GET data request
+2022-09-18 10:06:18am: Retrieve GET data request
+2022-09-18 10:07:45am: --------------------------
+2022-09-18 10:07:45am: --------NEW REQUEST-------
+2022-09-18 10:07:45am: Start page loading
+2022-09-18 10:07:45am: Send access token request
+2022-09-18 10:07:45am: Recieve access token request
+2022-09-18 10:07:45am: Start GET data request
+2022-09-18 10:07:50am: Retrieve GET data request
+2022-09-18 10:07:50am:  print statistical circles data
+2022-09-18 10:07:50am: -----------END------------
+2022-09-18 10:07:50am:  print company data
+2022-09-18 10:07:50am:  print company data End
+2022-09-18 10:10:58am: --------------------------
+2022-09-18 10:10:58am: --------NEW REQUEST-------
+2022-09-18 10:10:58am: Start page loading
+2022-09-18 10:10:58am: Send access token request
+2022-09-18 10:10:58am: Recieve access token request
+2022-09-18 10:10:58am: Start GET data request
+2022-09-18 10:11:03am: Retrieve GET data request
+2022-09-18 10:11:03am:  print statistical circles data
+2022-09-18 10:11:03am: -----------END------------
+2022-09-18 10:11:03am:  print company data
+2022-09-18 10:11:03am:  print company data End
+2022-09-18 10:17:19am: --------------------------
+2022-09-18 10:17:19am: --------NEW REQUEST-------
+2022-09-18 10:17:19am: Start page loading
+2022-09-18 10:17:19am: Send access token request
+2022-09-18 10:17:19am: Recieve access token request
+2022-09-18 10:17:19am: Start GET data request
+2022-09-18 10:17:24am: Retrieve GET data request
+2022-09-18 10:17:24am:  print statistical circles data
+2022-09-18 10:17:24am: -----------END------------
+2022-09-18 10:17:24am:  print company data
+2022-09-18 10:17:24am:  print company data End
+2022-09-18 10:17:49am: --------------------------
+2022-09-18 10:17:49am: --------NEW REQUEST-------
+2022-09-18 10:17:49am: Start page loading
+2022-09-18 10:17:49am: Send access token request
+2022-09-18 10:17:49am: Recieve access token request
+2022-09-18 10:17:49am: Start GET data request
+2022-09-18 10:17:49am: Retrieve GET data request
+2022-09-18 10:17:49am:  print statistical circles data
+2022-09-18 10:18:08am: --------------------------
+2022-09-18 10:18:08am: --------NEW REQUEST-------
+2022-09-18 10:18:08am: Start page loading
+2022-09-18 10:18:08am: Send access token request
+2022-09-18 10:18:08am: Recieve access token request
+2022-09-18 10:18:08am: Start GET data request
+2022-09-18 10:18:16am: Retrieve GET data request
+2022-09-18 10:18:16am:  print statistical circles data
+2022-09-18 10:18:16am: -----------END------------
+2022-09-18 10:18:16am:  print company data
+2022-09-18 10:18:16am:  print company data End
+2022-09-18 10:22:10am: --------------------------
+2022-09-18 10:22:10am: --------NEW REQUEST-------
+2022-09-18 10:22:10am: Start page loading
+2022-09-18 10:22:10am: Send access token request
+2022-09-18 10:22:10am: Recieve access token request
+2022-09-18 10:22:10am: Start GET data request
+2022-09-18 10:22:15am: Retrieve GET data request
+2022-09-18 10:22:15am:  print statistical circles data
+2022-09-18 10:22:15am: -----------END------------
+2022-09-18 10:22:15am:  print company data
+2022-09-18 10:22:15am:  print company data End
+2022-09-18 10:22:39am: --------------------------
+2022-09-18 10:22:39am: --------NEW REQUEST-------
+2022-09-18 10:22:39am: Start page loading
+2022-09-18 10:22:39am: Send access token request
+2022-09-18 10:22:39am: Recieve access token request
+2022-09-18 10:22:39am: Start GET data request
+2022-09-18 10:22:44am: Retrieve GET data request
+2022-09-18 10:22:44am:  print statistical circles data
+2022-09-18 10:22:44am: -----------END------------
+2022-09-18 10:22:44am:  print company data
+2022-09-18 10:22:44am:  print company data End
+2022-09-18 10:23:38am: --------------------------
+2022-09-18 10:23:38am: --------NEW REQUEST-------
+2022-09-18 10:23:38am: Start page loading
+2022-09-18 10:23:38am: Send access token request
+2022-09-18 10:23:38am: Recieve access token request
+2022-09-18 10:23:38am: Start GET data request
+2022-09-18 10:23:42am: Retrieve GET data request
+2022-09-18 10:23:42am:  print statistical circles data
+2022-09-18 10:23:42am: -----------END------------
+2022-09-18 10:23:42am:  print company data
+2022-09-18 10:23:42am:  print company data End
+2022-09-18 10:25:09am: --------------------------
+2022-09-18 10:25:09am: --------NEW REQUEST-------
+2022-09-18 10:25:09am: Start page loading
+2022-09-18 10:25:09am: Send access token request
+2022-09-18 10:25:09am: Recieve access token request
+2022-09-18 10:25:09am: Start GET data request
+2022-09-18 10:25:15am: Retrieve GET data request
+2022-09-18 10:25:15am:  print statistical circles data
+2022-09-18 10:25:15am: -----------END------------
+2022-09-18 10:25:15am:  print company data
+2022-09-18 10:25:15am:  print company data End
+2022-09-18 10:27:37am: --------------------------
+2022-09-18 10:27:37am: --------NEW REQUEST-------
+2022-09-18 10:27:37am: Start page loading
+2022-09-18 10:27:37am: Send access token request
+2022-09-18 10:27:37am: Recieve access token request
+2022-09-18 10:27:37am: Start GET data request
+2022-09-18 10:27:41am: Retrieve GET data request
+2022-09-18 10:27:41am:  print statistical circles data
+2022-09-18 10:27:41am: -----------END------------
+2022-09-18 10:27:41am:  print company data
+2022-09-18 10:27:41am:  print company data End
+2022-09-18 10:28:43am: --------------------------
+2022-09-18 10:28:43am: --------NEW REQUEST-------
+2022-09-18 10:28:43am: Start page loading
+2022-09-18 10:28:43am: Send access token request
+2022-09-18 10:28:43am: Recieve access token request
+2022-09-18 10:28:43am: Start GET data request
+2022-09-18 10:28:49am: Retrieve GET data request
+2022-09-18 10:28:49am:  print statistical circles data
+2022-09-18 10:28:49am: -----------END------------
+2022-09-18 10:28:49am:  print company data
+2022-09-18 10:28:49am:  print company data End
+2022-09-18 10:30:47am: --------------------------
+2022-09-18 10:30:47am: --------NEW REQUEST-------
+2022-09-18 10:30:47am: Start page loading
+2022-09-18 10:30:47am: Send access token request
+2022-09-18 10:30:47am: Recieve access token request
+2022-09-18 10:30:47am: Start GET data request
+2022-09-18 10:30:54am: Retrieve GET data request
+2022-09-18 10:30:54am:  print statistical circles data
+2022-09-18 10:30:54am: -----------END------------
+2022-09-18 10:30:54am:  print company data
+2022-09-18 10:30:54am:  print company data End
+2022-09-18 11:51:55am: --------------------------
+2022-09-18 11:51:55am: --------NEW REQUEST-------
+2022-09-18 11:51:55am: Start page loading
+2022-09-18 11:51:55am: Send access token request
+2022-09-18 11:51:55am: Recieve access token request
+2022-09-18 11:51:55am: Start GET data request
+2022-09-18 11:52:01am: Retrieve GET data request
+2022-09-18 11:52:01am:  print statistical circles data
+2022-09-18 11:52:01am: -----------END------------
+2022-09-18 11:52:01am:  print company data
+2022-09-18 11:52:01am:  print company data End
+2022-09-18 11:53:49am: --------------------------
+2022-09-18 11:53:49am: --------NEW REQUEST-------
+2022-09-18 11:53:49am: Start page loading
+2022-09-18 11:53:49am: Send access token request
+2022-09-18 11:53:49am: Recieve access token request
+2022-09-18 11:53:49am: Start GET data request
+2022-09-18 11:53:54am: Retrieve GET data request
+2022-09-18 11:53:54am:  print statistical circles data
+2022-09-18 11:53:54am: -----------END------------
+2022-09-18 11:53:54am:  print company data
+2022-09-18 11:53:54am:  print company data End
+2022-09-18 11:53:58am: --------------------------
+2022-09-18 11:53:58am: --------NEW REQUEST-------
+2022-09-18 11:53:58am: Start page loading
+2022-09-18 11:53:58am: Send access token request
+2022-09-18 11:53:58am: Recieve access token request
+2022-09-18 11:53:58am: Start GET data request
+2022-09-18 11:53:59am: --------------------------
+2022-09-18 11:53:59am: --------NEW REQUEST-------
+2022-09-18 11:53:59am: Start page loading
+2022-09-18 11:53:59am: Send access token request
+2022-09-18 11:53:59am: Recieve access token request
+2022-09-18 11:53:59am: Start GET data request
+2022-09-18 11:54:05am: Retrieve GET data request
+2022-09-18 11:54:05am:  print statistical circles data
+2022-09-18 11:54:05am: -----------END------------
+2022-09-18 11:54:05am:  print company data
+2022-09-18 11:54:05am: Retrieve GET data request
+2022-09-18 11:54:05am:  print company data End
+2022-09-18 11:54:05am:  print statistical circles data
+2022-09-18 11:54:10am: --------------------------
+2022-09-18 11:54:10am: --------NEW REQUEST-------
+2022-09-18 11:54:10am: Start page loading
+2022-09-18 11:54:10am: Send access token request
+2022-09-18 11:54:10am: Recieve access token request
+2022-09-18 11:54:10am: Start GET data request
+2022-09-18 11:54:15am: Retrieve GET data request
+2022-09-18 11:54:15am:  print statistical circles data
+2022-09-18 11:54:15am: -----------END------------
+2022-09-18 11:54:15am:  print company data
+2022-09-18 11:54:15am:  print company data End
+2022-09-18 11:55:05am: --------------------------
+2022-09-18 11:55:05am: --------NEW REQUEST-------
+2022-09-18 11:55:05am: Start page loading
+2022-09-18 11:55:05am: Send access token request
+2022-09-18 11:55:05am: Recieve access token request
+2022-09-18 11:55:05am: Start GET data request
+2022-09-18 11:55:10am: Retrieve GET data request
+2022-09-18 11:55:10am:  print statistical circles data
+2022-09-18 11:55:10am: -----------END------------
+2022-09-18 11:55:10am:  print company data
+2022-09-18 11:55:10am:  print company data End
+2022-09-18 12:01:06pm: --------------------------
+2022-09-18 12:01:06pm: --------NEW REQUEST-------
+2022-09-18 12:01:06pm: Start page loading
+2022-09-18 12:01:06pm: Send access token request
+2022-09-18 12:01:06pm: Recieve access token request
+2022-09-18 12:01:06pm: Start GET data request
+2022-09-18 12:01:12pm: Retrieve GET data request
+2022-09-18 12:01:12pm:  print statistical circles data
+2022-09-18 12:01:12pm: -----------END------------
+2022-09-18 12:01:12pm:  print company data
+2022-09-18 12:01:12pm:  print company data End
+2022-09-18 12:02:07pm: --------------------------
+2022-09-18 12:02:07pm: --------NEW REQUEST-------
+2022-09-18 12:02:07pm: Start page loading
+2022-09-18 12:02:07pm: Send access token request
+2022-09-18 12:02:07pm: Recieve access token request
+2022-09-18 12:02:07pm: Start GET data request
+2022-09-18 12:02:12pm: Retrieve GET data request
+2022-09-18 12:02:12pm:  print statistical circles data
+2022-09-18 12:02:12pm: -----------END------------
+2022-09-18 12:02:12pm:  print company data
+2022-09-18 12:02:12pm:  print company data End
+2022-09-18 12:03:56pm: --------------------------
+2022-09-18 12:03:56pm: --------NEW REQUEST-------
+2022-09-18 12:03:56pm: Start page loading
+2022-09-18 12:03:56pm: Send access token request
+2022-09-18 12:03:56pm: Recieve access token request
+2022-09-18 12:03:56pm: Start GET data request
+2022-09-18 12:04:05pm: Retrieve GET data request
+2022-09-18 12:04:05pm:  print statistical circles data
+2022-09-18 12:04:05pm: -----------END------------
+2022-09-18 12:04:05pm:  print company data
+2022-09-18 12:04:05pm:  print company data End
+2022-09-18 12:10:12pm: --------------------------
+2022-09-18 12:10:12pm: --------NEW REQUEST-------
+2022-09-18 12:10:12pm: Start page loading
+2022-09-18 12:10:12pm: Send access token request
+2022-09-18 12:10:12pm: Recieve access token request
+2022-09-18 12:10:12pm: Start GET data request
+2022-09-18 12:10:18pm: Retrieve GET data request
+2022-09-18 12:10:18pm:  print statistical circles data
+2022-09-18 12:10:18pm: -----------END------------
+2022-09-18 12:10:18pm:  print company data
+2022-09-18 12:10:18pm:  print company data End
+2022-09-18 12:11:15pm: --------------------------
+2022-09-18 12:11:15pm: --------NEW REQUEST-------
+2022-09-18 12:11:15pm: Start page loading
+2022-09-18 12:11:15pm: Send access token request
+2022-09-18 12:11:15pm: Recieve access token request
+2022-09-18 12:11:15pm: Start GET data request
+2022-09-18 12:11:21pm: Retrieve GET data request
+2022-09-18 12:11:21pm:  print statistical circles data
+2022-09-18 12:11:21pm: -----------END------------
+2022-09-18 12:11:21pm:  print company data
+2022-09-18 12:11:21pm:  print company data End
+2022-09-18 12:11:25pm: --------------------------
+2022-09-18 12:11:25pm: --------NEW REQUEST-------
+2022-09-18 12:11:25pm: Start page loading
+2022-09-18 12:11:25pm: Send access token request
+2022-09-18 12:11:25pm: Recieve access token request
+2022-09-18 12:11:25pm: Start GET data request
+2022-09-18 12:11:27pm: --------------------------
+2022-09-18 12:11:27pm: --------NEW REQUEST-------
+2022-09-18 12:11:27pm: Start page loading
+2022-09-18 12:11:27pm: Send access token request
+2022-09-18 12:11:27pm: Recieve access token request
+2022-09-18 12:11:27pm: Start GET data request
+2022-09-18 12:11:31pm: --------------------------
+2022-09-18 12:11:31pm: --------NEW REQUEST-------
+2022-09-18 12:11:31pm: Start page loading
+2022-09-18 12:11:31pm: Send access token request
+2022-09-18 12:11:31pm: Recieve access token request
+2022-09-18 12:11:31pm: Start GET data request
+2022-09-18 12:11:32pm: Retrieve GET data request
+2022-09-18 12:11:32pm:  print statistical circles data
+2022-09-18 12:11:32pm: Retrieve GET data request
+2022-09-18 12:11:32pm:  print statistical circles data
+2022-09-18 12:11:33pm: --------------------------
+2022-09-18 12:11:33pm: --------NEW REQUEST-------
+2022-09-18 12:11:33pm: Start page loading
+2022-09-18 12:11:33pm: Send access token request
+2022-09-18 12:11:33pm: Recieve access token request
+2022-09-18 12:11:33pm: Start GET data request
+2022-09-18 12:11:34pm: --------------------------
+2022-09-18 12:11:34pm: --------NEW REQUEST-------
+2022-09-18 12:11:34pm: Start page loading
+2022-09-18 12:11:34pm: Send access token request
+2022-09-18 12:11:34pm: Recieve access token request
+2022-09-18 12:11:34pm: Start GET data request
+2022-09-18 12:11:36pm: Retrieve GET data request
+2022-09-18 12:11:36pm:  print statistical circles data
+2022-09-18 12:11:39pm: Retrieve GET data request
+2022-09-18 12:11:39pm:  print statistical circles data
+2022-09-18 12:11:39pm: -----------END------------
+2022-09-18 12:11:39pm:  print company data
+2022-09-18 12:11:39pm:  print company data End
+2022-09-18 12:11:41pm: Retrieve GET data request
+2022-09-18 12:11:41pm:  print statistical circles data
+2022-09-18 12:11:41pm: -----------END------------
+2022-09-18 12:11:47pm: --------------------------
+2022-09-18 12:11:47pm: --------NEW REQUEST-------
+2022-09-18 12:11:47pm: Start page loading
+2022-09-18 12:11:47pm: Send access token request
+2022-09-18 12:11:47pm: Recieve access token request
+2022-09-18 12:11:47pm: Start GET data request
+2022-09-18 12:11:52pm: Retrieve GET data request
+2022-09-18 12:11:52pm:  print statistical circles data
+2022-09-18 12:11:52pm: -----------END------------
+2022-09-18 12:11:52pm:  print company data
+2022-09-18 12:11:52pm:  print company data End
+2022-09-18 12:13:57pm: --------------------------
+2022-09-18 12:13:57pm: --------NEW REQUEST-------
+2022-09-18 12:13:57pm: Start page loading
+2022-09-18 12:13:57pm: Send access token request
+2022-09-18 12:13:57pm: Recieve access token request
+2022-09-18 12:13:57pm: Start GET data request
+2022-09-18 12:14:03pm: Retrieve GET data request
+2022-09-18 12:14:04pm:  print statistical circles data
+2022-09-18 12:14:04pm: -----------END------------
+2022-09-18 12:14:04pm:  print company data
+2022-09-18 12:14:04pm:  print company data End
+2022-09-18 12:22:29pm: --------------------------
+2022-09-18 12:22:29pm: --------NEW REQUEST-------
+2022-09-18 12:22:29pm: Start page loading
+2022-09-18 12:22:29pm: Send access token request
+2022-09-18 12:22:29pm: Recieve access token request
+2022-09-18 12:22:29pm: Start GET data request
+2022-09-18 12:22:43pm: Retrieve GET data request
+2022-09-18 12:22:43pm:  print statistical circles data
+2022-09-18 12:22:43pm: -----------END------------
+2022-09-18 12:22:44pm:  print company data
+2022-09-18 12:22:44pm:  print company data End
+2022-09-18 12:25:35pm: --------------------------
+2022-09-18 12:25:35pm: --------NEW REQUEST-------
+2022-09-18 12:25:35pm: Start page loading
+2022-09-18 12:25:35pm: Send access token request
+2022-09-18 12:25:35pm: Recieve access token request
+2022-09-18 12:25:35pm: Start GET data request
+2022-09-18 12:25:42pm: Retrieve GET data request
+2022-09-18 12:25:42pm:  print statistical circles data
+2022-09-18 12:25:42pm: -----------END------------
+2022-09-18 12:25:42pm:  print company data
+2022-09-18 12:25:42pm:  print company data End
+2022-09-18 12:26:15pm: --------------------------
+2022-09-18 12:26:15pm: --------NEW REQUEST-------
+2022-09-18 12:26:15pm: Start page loading
+2022-09-18 12:26:15pm: Send access token request
+2022-09-18 12:26:15pm: Recieve access token request
+2022-09-18 12:26:15pm: Start GET data request
+2022-09-18 12:26:20pm: Retrieve GET data request
+2022-09-18 12:26:20pm:  print statistical circles data
+2022-09-18 12:26:20pm: -----------END------------
+2022-09-18 12:26:20pm:  print company data
+2022-09-18 12:26:20pm:  print company data End
+2022-09-18 12:30:01pm: --------------------------
+2022-09-18 12:30:01pm: --------NEW REQUEST-------
+2022-09-18 12:30:01pm: Start page loading
+2022-09-18 12:30:01pm: Send access token request
+2022-09-18 12:30:01pm: Recieve access token request
+2022-09-18 12:30:01pm: Start GET data request
+2022-09-18 12:30:10pm: Retrieve GET data request
+2022-09-18 12:30:10pm:  print statistical circles data
+2022-09-18 12:30:10pm: -----------END------------
+2022-09-18 12:30:10pm:  print company data
+2022-09-18 12:30:10pm:  print company data End
+2022-09-18 12:34:01pm: --------------------------
+2022-09-18 12:34:01pm: --------NEW REQUEST-------
+2022-09-18 12:34:01pm: Start page loading
+2022-09-18 12:34:01pm: Send access token request
+2022-09-18 12:34:01pm: Recieve access token request
+2022-09-18 12:34:01pm: Start GET data request
+2022-09-18 12:34:07pm: Retrieve GET data request
+2022-09-18 12:34:48pm: --------------------------
+2022-09-18 12:34:48pm: --------NEW REQUEST-------
+2022-09-18 12:34:48pm: Start page loading
+2022-09-18 12:34:48pm: Send access token request
+2022-09-18 12:34:48pm: Recieve access token request
+2022-09-18 12:34:48pm: Start GET data request
+2022-09-18 12:34:54pm: Retrieve GET data request
+2022-09-18 12:35:11pm: --------------------------
+2022-09-18 12:35:11pm: --------NEW REQUEST-------
+2022-09-18 12:35:11pm: Start page loading
+2022-09-18 12:35:11pm: Send access token request
+2022-09-18 12:35:11pm: Recieve access token request
+2022-09-18 12:35:11pm: Start GET data request
+2022-09-18 12:35:18pm: Retrieve GET data request
+2022-09-18 12:35:23pm: --------------------------
+2022-09-18 12:35:23pm: --------NEW REQUEST-------
+2022-09-18 12:35:23pm: Start page loading
+2022-09-18 12:35:23pm: Send access token request
+2022-09-18 12:35:23pm: Recieve access token request
+2022-09-18 12:35:23pm: Start GET data request
+2022-09-18 12:35:31pm: Retrieve GET data request
+2022-09-18 12:35:31pm:  print statistical circles data
+2022-09-18 12:35:31pm: -----------END------------
+2022-09-18 12:35:31pm:  print company data
+2022-09-18 12:35:31pm:  print company data End
+2022-09-18 12:45:03pm: --------------------------
+2022-09-18 12:45:03pm: --------NEW REQUEST-------
+2022-09-18 12:45:03pm: Start page loading
+2022-09-18 12:45:03pm: Send access token request
+2022-09-18 12:45:03pm: Recieve access token request
+2022-09-18 12:45:03pm: Start GET data request
+2022-09-18 12:45:09pm: Retrieve GET data request
+2022-09-18 12:45:50pm: --------------------------
+2022-09-18 12:45:50pm: --------NEW REQUEST-------
+2022-09-18 12:45:50pm: Start page loading
+2022-09-18 12:45:50pm: Send access token request
+2022-09-18 12:45:50pm: Recieve access token request
+2022-09-18 12:45:50pm: Start GET data request
+2022-09-18 12:45:56pm: Retrieve GET data request
+2022-09-18 12:46:39pm: --------------------------
+2022-09-18 12:46:39pm: --------NEW REQUEST-------
+2022-09-18 12:46:39pm: Start page loading
+2022-09-18 12:46:39pm: Send access token request
+2022-09-18 12:46:39pm: Recieve access token request
+2022-09-18 12:46:39pm: Start GET data request
+2022-09-18 12:46:45pm: Retrieve GET data request
+2022-09-18 12:46:58pm: --------------------------
+2022-09-18 12:46:58pm: --------NEW REQUEST-------
+2022-09-18 12:46:58pm: Start page loading
+2022-09-18 12:46:58pm: Send access token request
+2022-09-18 12:46:58pm: Recieve access token request
+2022-09-18 12:46:58pm: Start GET data request
+2022-09-18 12:47:03pm: Retrieve GET data request
+2022-09-18 12:47:15pm: --------------------------
+2022-09-18 12:47:15pm: --------NEW REQUEST-------
+2022-09-18 12:47:15pm: Start page loading
+2022-09-18 12:47:15pm: Send access token request
+2022-09-18 12:47:15pm: Recieve access token request
+2022-09-18 12:47:15pm: Start GET data request
+2022-09-18 12:47:21pm: Retrieve GET data request
+2022-09-18 12:49:47pm: --------------------------
+2022-09-18 12:49:47pm: --------NEW REQUEST-------
+2022-09-18 12:49:47pm: Start page loading
+2022-09-18 12:49:47pm: Send access token request
+2022-09-18 12:49:47pm: Recieve access token request
+2022-09-18 12:49:47pm: Start GET data request
+2022-09-18 12:49:52pm: Retrieve GET data request
+2022-09-18 12:50:05pm: --------------------------
+2022-09-18 12:50:05pm: --------NEW REQUEST-------
+2022-09-18 12:50:05pm: Start page loading
+2022-09-18 12:50:05pm: Send access token request
+2022-09-18 12:50:05pm: Recieve access token request
+2022-09-18 12:50:05pm: Start GET data request
+2022-09-18 12:50:10pm: Retrieve GET data request
+2022-09-18 12:52:30pm: --------------------------
+2022-09-18 12:52:30pm: --------NEW REQUEST-------
+2022-09-18 12:52:30pm: Start page loading
+2022-09-18 12:52:30pm: Send access token request
+2022-09-18 12:52:30pm: Recieve access token request
+2022-09-18 12:52:30pm: Start GET data request
+2022-09-18 12:52:36pm: Retrieve GET data request
+2022-09-18 12:54:03pm: --------------------------
+2022-09-18 12:54:03pm: --------NEW REQUEST-------
+2022-09-18 12:54:03pm: Start page loading
+2022-09-18 12:54:03pm: Send access token request
+2022-09-18 12:54:03pm: Recieve access token request
+2022-09-18 12:54:03pm: Start GET data request
+2022-09-18 12:54:08pm: Retrieve GET data request
+2022-09-18 12:54:16pm: --------------------------
+2022-09-18 12:54:16pm: --------NEW REQUEST-------
+2022-09-18 12:54:16pm: Start page loading
+2022-09-18 12:54:16pm: Send access token request
+2022-09-18 12:54:16pm: Recieve access token request
+2022-09-18 12:54:16pm: Start GET data request
+2022-09-18 12:54:21pm: Retrieve GET data request
+2022-09-18 12:54:38pm: --------------------------
+2022-09-18 12:54:38pm: --------NEW REQUEST-------
+2022-09-18 12:54:38pm: Start page loading
+2022-09-18 12:54:38pm: Send access token request
+2022-09-18 12:54:38pm: Recieve access token request
+2022-09-18 12:54:38pm: Start GET data request
+2022-09-18 12:54:43pm: Retrieve GET data request
+2022-09-18 12:56:05pm: --------------------------
+2022-09-18 12:56:05pm: --------NEW REQUEST-------
+2022-09-18 12:56:05pm: Start page loading
+2022-09-18 12:56:05pm: Send access token request
+2022-09-18 12:56:05pm: Recieve access token request
+2022-09-18 12:56:05pm: Start GET data request
+2022-09-18 12:56:11pm: Retrieve GET data request
+2022-09-18 12:56:16pm: --------------------------
+2022-09-18 12:56:16pm: --------NEW REQUEST-------
+2022-09-18 12:56:16pm: Start page loading
+2022-09-18 12:56:16pm: Send access token request
+2022-09-18 12:56:16pm: Recieve access token request
+2022-09-18 12:56:16pm: Start GET data request
+2022-09-18 12:56:21pm: Retrieve GET data request
+2022-09-18 12:56:50pm: --------------------------
+2022-09-18 12:56:50pm: --------NEW REQUEST-------
+2022-09-18 12:56:50pm: Start page loading
+2022-09-18 12:56:50pm: Send access token request
+2022-09-18 12:56:50pm: Recieve access token request
+2022-09-18 12:56:50pm: Start GET data request
+2022-09-18 12:56:55pm: Retrieve GET data request
+2022-09-18 12:56:55pm:  print statistical circles data
+2022-09-18 12:56:55pm: -----------END------------
+2022-09-18 12:56:56pm:  print company data
+2022-09-18 12:56:56pm:  print company data End
+2022-09-18 12:58:03pm: --------------------------
+2022-09-18 12:58:03pm: --------NEW REQUEST-------
+2022-09-18 12:58:03pm: Start page loading
+2022-09-18 12:58:03pm: Send access token request
+2022-09-18 12:58:03pm: Recieve access token request
+2022-09-18 12:58:03pm: Start GET data request
+2022-09-18 12:58:09pm: Retrieve GET data request
+2022-09-18 12:58:09pm:  print statistical circles data
+2022-09-18 12:58:09pm: -----------END------------
+2022-09-18 12:58:09pm:  print company data
+2022-09-18 12:58:09pm:  print company data End
+2022-09-18 12:58:17pm: --------------------------
+2022-09-18 12:58:17pm: --------NEW REQUEST-------
+2022-09-18 12:58:17pm: Start page loading
+2022-09-18 12:58:17pm: Send access token request
+2022-09-18 12:58:17pm: Recieve access token request
+2022-09-18 12:58:17pm: Start GET data request
+2022-09-18 12:58:22pm: Retrieve GET data request
+2022-09-18 01:04:03pm: --------------------------
+2022-09-18 01:04:03pm: --------NEW REQUEST-------
+2022-09-18 01:04:03pm: Start page loading
+2022-09-18 01:04:03pm: Send access token request
+2022-09-18 01:04:03pm: Recieve access token request
+2022-09-18 01:04:03pm: Start GET data request
+2022-09-18 01:04:08pm: Retrieve GET data request
+2022-09-18 01:04:09pm:  print statistical circles data
+2022-09-18 01:04:09pm: -----------END------------
+2022-09-18 01:04:09pm:  print company data
+2022-09-18 01:04:09pm:  print company data End
+2022-09-18 01:10:55pm: --------------------------
+2022-09-18 01:10:55pm: --------NEW REQUEST-------
+2022-09-18 01:10:55pm: Start page loading
+2022-09-18 01:10:55pm: Send access token request
+2022-09-18 01:10:55pm: Recieve access token request
+2022-09-18 01:10:55pm: Start GET data request
+2022-09-18 01:11:01pm: Retrieve GET data request
+2022-09-18 01:11:01pm:  print statistical circles data
+2022-09-18 01:11:01pm: -----------END------------
+2022-09-18 01:11:01pm:  print company data
+2022-09-18 01:11:01pm:  print company data End
+2022-09-18 01:12:33pm: --------------------------
+2022-09-18 01:12:33pm: --------NEW REQUEST-------
+2022-09-18 01:12:33pm: Start page loading
+2022-09-18 01:12:33pm: Send access token request
+2022-09-18 01:12:33pm: Recieve access token request
+2022-09-18 01:12:33pm: Start GET data request
+2022-09-18 01:12:38pm: Retrieve GET data request
+2022-09-18 01:12:38pm:  print statistical circles data
+2022-09-18 01:12:38pm: -----------END------------
+2022-09-18 01:12:38pm:  print company data
+2022-09-18 01:12:38pm:  print company data End
+2022-09-18 01:13:27pm: --------------------------
+2022-09-18 01:13:27pm: --------NEW REQUEST-------
+2022-09-18 01:13:27pm: Start page loading
+2022-09-18 01:13:27pm: Send access token request
+2022-09-18 01:13:27pm: Recieve access token request
+2022-09-18 01:13:27pm: Start GET data request
+2022-09-18 01:13:33pm: Retrieve GET data request
+2022-09-18 01:13:33pm:  print statistical circles data
+2022-09-18 01:13:33pm: -----------END------------
+2022-09-18 01:13:33pm:  print company data
+2022-09-18 01:13:33pm:  print company data End
+2022-09-18 01:20:34pm: --------------------------
+2022-09-18 01:20:34pm: --------NEW REQUEST-------
+2022-09-18 01:20:34pm: Start page loading
+2022-09-18 01:20:34pm: Send access token request
+2022-09-18 01:20:34pm: Recieve access token request
+2022-09-18 01:20:34pm: Start GET data request
+2022-09-18 01:20:42pm: Retrieve GET data request
+2022-09-18 01:20:42pm:  print statistical circles data
+2022-09-18 01:20:42pm: -----------END------------
+2022-09-18 01:20:43pm:  print company data
+2022-09-18 01:20:43pm:  print company data End
+2022-09-18 01:22:34pm: --------------------------
+2022-09-18 01:22:34pm: --------NEW REQUEST-------
+2022-09-18 01:22:34pm: Start page loading
+2022-09-18 01:22:34pm: Send access token request
+2022-09-18 01:22:34pm: Recieve access token request
+2022-09-18 01:22:34pm: Start GET data request
+2022-09-18 01:22:39pm: Retrieve GET data request
+2022-09-18 01:22:39pm:  print statistical circles data
+2022-09-18 01:22:39pm: -----------END------------
+2022-09-18 01:22:39pm:  print company data
+2022-09-18 01:22:39pm:  print company data End
+2022-09-18 01:23:11pm: --------------------------
+2022-09-18 01:23:11pm: --------NEW REQUEST-------
+2022-09-18 01:23:11pm: Start page loading
+2022-09-18 01:23:11pm: Send access token request
+2022-09-18 01:23:11pm: Recieve access token request
+2022-09-18 01:23:11pm: Start GET data request
+2022-09-18 01:23:17pm: Retrieve GET data request
+2022-09-18 01:23:17pm:  print statistical circles data
+2022-09-18 01:23:17pm: -----------END------------
+2022-09-18 01:23:17pm:  print company data
+2022-09-18 01:23:17pm:  print company data End
+2022-09-18 01:26:46pm: --------------------------
+2022-09-18 01:26:46pm: --------NEW REQUEST-------
+2022-09-18 01:26:46pm: Start page loading
+2022-09-18 01:26:46pm: Send access token request
+2022-09-18 01:26:46pm: Recieve access token request
+2022-09-18 01:26:46pm: Start GET data request
+2022-09-18 01:26:52pm: Retrieve GET data request
+2022-09-18 01:26:52pm:  print statistical circles data
+2022-09-18 01:26:52pm: -----------END------------
+2022-09-18 01:26:52pm:  print company data
+2022-09-18 01:26:53pm:  print company data End
+2022-09-18 01:29:09pm: --------------------------
+2022-09-18 01:29:09pm: --------NEW REQUEST-------
+2022-09-18 01:29:09pm: Start page loading
+2022-09-18 01:29:09pm: Send access token request
+2022-09-18 01:29:09pm: Recieve access token request
+2022-09-18 01:29:09pm: Start GET data request
+2022-09-18 01:29:14pm: Retrieve GET data request
+2022-09-18 01:29:14pm:  print statistical circles data
+2022-09-18 01:29:14pm: -----------END------------
+2022-09-18 01:29:14pm:  print company data
+2022-09-18 01:29:14pm:  print company data End
+2022-09-18 01:34:53pm: --------------------------
+2022-09-18 01:34:53pm: --------NEW REQUEST-------
+2022-09-18 01:34:53pm: Start page loading
+2022-09-18 01:34:53pm: Send access token request
+2022-09-18 01:34:53pm: Recieve access token request
+2022-09-18 01:34:53pm: Start GET data request
+2022-09-18 01:34:59pm: Retrieve GET data request
+2022-09-18 01:36:21pm: --------------------------
+2022-09-18 01:36:21pm: --------NEW REQUEST-------
+2022-09-18 01:36:21pm: Start page loading
+2022-09-18 01:36:21pm: Send access token request
+2022-09-18 01:36:21pm: Recieve access token request
+2022-09-18 01:36:21pm: Start GET data request
+2022-09-18 01:36:27pm: Retrieve GET data request
+2022-09-18 02:05:24pm: --------------------------
+2022-09-18 02:05:24pm: --------NEW REQUEST-------
+2022-09-18 02:05:24pm: Start page loading
+2022-09-18 02:05:24pm: Send access token request
+2022-09-18 02:05:24pm: Recieve access token request
+2022-09-18 02:05:24pm: Start GET data request
+2022-09-18 02:05:30pm: Retrieve GET data request
+2022-09-18 02:05:30pm:  print statistical circles data
+2022-09-18 02:05:30pm: -----------END------------
+2022-09-18 02:05:30pm:  print company data
+2022-09-18 02:05:30pm:  print company data End
+2022-09-18 02:05:43pm: --------------------------
+2022-09-18 02:05:43pm: --------NEW REQUEST-------
+2022-09-18 02:05:43pm: Start page loading
+2022-09-18 02:05:43pm: Send access token request
+2022-09-18 02:05:43pm: Recieve access token request
+2022-09-18 02:05:43pm: Start GET data request
+2022-09-18 02:05:53pm: Retrieve GET data request
+2022-09-18 02:05:53pm:  print statistical circles data
+2022-09-18 02:05:53pm: -----------END------------
+2022-09-18 02:05:53pm:  print company data
+2022-09-18 02:05:53pm:  print company data End
+2022-09-18 02:08:41pm: --------------------------
+2022-09-18 02:08:41pm: --------NEW REQUEST-------
+2022-09-18 02:08:41pm: Start page loading
+2022-09-18 02:08:41pm: Send access token request
+2022-09-18 02:08:41pm: Recieve access token request
+2022-09-18 02:08:41pm: Start GET data request
+2022-09-18 02:08:47pm: Retrieve GET data request
+2022-09-18 02:08:47pm:  print statistical circles data
+2022-09-18 02:08:47pm: -----------END------------
+2022-09-18 02:08:47pm:  print company data
+2022-09-18 02:08:47pm:  print company data End
+2022-09-18 02:09:30pm: --------------------------
+2022-09-18 02:09:30pm: --------NEW REQUEST-------
+2022-09-18 02:09:30pm: Start page loading
+2022-09-18 02:09:30pm: Send access token request
+2022-09-18 02:09:30pm: Recieve access token request
+2022-09-18 02:09:30pm: Start GET data request
+2022-09-18 02:09:36pm: Retrieve GET data request
+2022-09-18 02:09:36pm:  print statistical circles data
+2022-09-18 02:09:36pm: -----------END------------
+2022-09-18 02:09:36pm:  print company data
+2022-09-18 02:09:36pm:  print company data End
+2022-09-18 02:11:43pm: --------------------------
+2022-09-18 02:11:43pm: --------NEW REQUEST-------
+2022-09-18 02:11:43pm: Start page loading
+2022-09-18 02:11:43pm: Send access token request
+2022-09-18 02:11:43pm: Recieve access token request
+2022-09-18 02:11:43pm: Start GET data request
+2022-09-18 02:11:50pm: Retrieve GET data request
+2022-09-18 02:11:50pm:  print statistical circles data
+2022-09-18 02:11:50pm: -----------END------------
+2022-09-18 02:11:50pm:  print company data
+2022-09-18 02:11:50pm:  print company data End
+2022-09-18 02:34:44pm: --------------------------
+2022-09-18 02:34:44pm: --------NEW REQUEST-------
+2022-09-18 02:34:44pm: Start page loading
+2022-09-18 02:34:44pm: Send access token request
+2022-09-18 02:34:44pm: Recieve access token request
+2022-09-18 02:34:44pm: Start GET data request
+2022-09-18 02:34:59pm: Retrieve GET data request
+2022-09-18 02:34:59pm:  print statistical circles data
+2022-09-18 02:34:59pm: -----------END------------
+2022-09-18 02:34:59pm:  print company data
+2022-09-18 02:34:59pm:  print company data End
+2022-09-18 02:37:01pm: --------------------------
+2022-09-18 02:37:01pm: --------NEW REQUEST-------
+2022-09-18 02:37:01pm: Start page loading
+2022-09-18 02:37:01pm: Send access token request
+2022-09-18 02:37:01pm: Recieve access token request
+2022-09-18 02:37:01pm: Start GET data request
+2022-09-18 02:37:08pm: Retrieve GET data request
+2022-09-18 02:37:08pm:  print statistical circles data
+2022-09-18 02:37:08pm: -----------END------------
+2022-09-18 02:37:08pm:  print company data
+2022-09-18 02:37:08pm:  print company data End
+2022-09-18 02:38:42pm: --------------------------
+2022-09-18 02:38:42pm: --------NEW REQUEST-------
+2022-09-18 02:38:42pm: Start page loading
+2022-09-18 02:38:42pm: Send access token request
+2022-09-18 02:38:42pm: Recieve access token request
+2022-09-18 02:38:42pm: Start GET data request
+2022-09-18 02:38:49pm: Retrieve GET data request
+2022-09-18 02:38:49pm:  print statistical circles data
+2022-09-18 02:38:49pm: -----------END------------
+2022-09-18 02:38:49pm:  print company data
+2022-09-18 02:38:49pm:  print company data End
+2022-09-18 02:48:06pm: --------------------------
+2022-09-18 02:48:06pm: --------NEW REQUEST-------
+2022-09-18 02:48:06pm: Start page loading
+2022-09-18 02:48:06pm: Send access token request
+2022-09-18 02:48:06pm: Recieve access token request
+2022-09-18 02:48:06pm: Start GET data request
+2022-09-18 02:48:11pm: Retrieve GET data request
+2022-09-18 02:48:11pm:  print statistical circles data
+2022-09-18 02:48:11pm: -----------END------------
+2022-09-18 02:48:11pm:  print company data
+2022-09-18 02:48:11pm:  print company data End
+2022-09-18 02:54:03pm: --------------------------
+2022-09-18 02:54:03pm: --------NEW REQUEST-------
+2022-09-18 02:54:03pm: Start page loading
+2022-09-18 02:54:03pm: Send access token request
+2022-09-18 02:54:03pm: Recieve access token request
+2022-09-18 02:54:03pm: Start GET data request
+2022-09-18 02:54:09pm: Retrieve GET data request
+2022-09-18 02:54:09pm:  print statistical circles data
+2022-09-18 02:54:09pm: -----------END------------
+2022-09-18 02:54:09pm:  print company data
+2022-09-18 02:54:09pm:  print company data End
+2022-09-18 03:00:03pm: --------------------------
+2022-09-18 03:00:03pm: --------NEW REQUEST-------
+2022-09-18 03:00:03pm: Start page loading
+2022-09-18 03:00:03pm: Send access token request
+2022-09-18 03:00:03pm: Recieve access token request
+2022-09-18 03:00:03pm: Start GET data request
+2022-09-18 03:00:09pm: Retrieve GET data request
+2022-09-18 03:00:09pm:  print statistical circles data
+2022-09-18 03:00:09pm: -----------END------------
+2022-09-18 03:00:09pm:  print company data
+2022-09-18 03:00:09pm:  print company data End
+2022-09-18 03:12:19pm: --------------------------
+2022-09-18 03:12:19pm: --------NEW REQUEST-------
+2022-09-18 03:12:19pm: Start page loading
+2022-09-18 03:12:19pm: Send access token request
+2022-09-18 03:12:19pm: Recieve access token request
+2022-09-18 03:12:19pm: Start GET data request
+2022-09-18 03:12:19pm: Retrieve GET data request
+2022-09-18 03:12:19pm:  print statistical circles data
+2022-09-18 03:12:26pm: --------------------------
+2022-09-18 03:12:26pm: --------NEW REQUEST-------
+2022-09-18 03:12:26pm: Start page loading
+2022-09-18 03:12:26pm: Send access token request
+2022-09-18 03:12:26pm: Recieve access token request
+2022-09-18 03:12:26pm: Start GET data request
+2022-09-18 03:12:33pm: Retrieve GET data request
+2022-09-18 03:12:33pm:  print statistical circles data
+2022-09-18 03:12:33pm: -----------END------------
+2022-09-18 03:12:33pm:  print company data
+2022-09-18 03:12:33pm:  print company data End
+2022-09-18 03:13:37pm: --------------------------
+2022-09-18 03:13:37pm: --------NEW REQUEST-------
+2022-09-18 03:13:37pm: Start page loading
+2022-09-18 03:13:37pm: Send access token request
+2022-09-18 03:13:37pm: Recieve access token request
+2022-09-18 03:13:37pm: Start GET data request
+2022-09-18 03:13:42pm: Retrieve GET data request
+2022-09-18 03:13:42pm:  print statistical circles data
+2022-09-18 03:13:42pm: -----------END------------
+2022-09-18 03:13:42pm:  print company data
+2022-09-18 03:13:42pm:  print company data End
+2022-09-18 03:17:19pm: --------------------------
+2022-09-18 03:17:19pm: --------NEW REQUEST-------
+2022-09-18 03:17:19pm: Start page loading
+2022-09-18 03:17:19pm: Send access token request
+2022-09-18 03:17:19pm: Recieve access token request
+2022-09-18 03:17:19pm: Start GET data request
+2022-09-18 03:17:25pm: Retrieve GET data request
+2022-09-18 03:17:25pm:  print statistical circles data
+2022-09-18 03:17:25pm: -----------END------------
+2022-09-18 03:17:25pm:  print company data
+2022-09-18 03:17:25pm:  print company data End
+2022-09-18 03:19:26pm: --------------------------
+2022-09-18 03:19:26pm: --------NEW REQUEST-------
+2022-09-18 03:19:26pm: Start page loading
+2022-09-18 03:19:26pm: Send access token request
+2022-09-18 03:19:26pm: Recieve access token request
+2022-09-18 03:19:26pm: Start GET data request
+2022-09-18 03:19:32pm: Retrieve GET data request
+2022-09-18 03:19:32pm:  print statistical circles data
+2022-09-18 03:19:32pm: -----------END------------
+2022-09-18 03:19:32pm:  print company data
+2022-09-18 03:19:32pm:  print company data End
+2022-09-18 03:37:59pm: --------------------------
+2022-09-18 03:37:59pm: --------NEW REQUEST-------
+2022-09-18 03:37:59pm: Start page loading
+2022-09-18 03:37:59pm: Send access token request
+2022-09-18 03:37:59pm: Recieve access token request
+2022-09-18 03:37:59pm: Start GET data request
+2022-09-18 03:37:59pm: Retrieve GET data request
+2022-09-18 03:37:59pm:  print statistical circles data
+2022-09-18 03:38:44pm: --------------------------
+2022-09-18 03:38:44pm: --------NEW REQUEST-------
+2022-09-18 03:38:44pm: Start page loading
+2022-09-18 03:38:44pm: Send access token request
+2022-09-18 03:38:44pm: Recieve access token request
+2022-09-18 03:38:44pm: Start GET data request
+2022-09-18 03:38:50pm: Retrieve GET data request
+2022-09-18 03:38:50pm:  print statistical circles data
+2022-09-18 03:38:50pm: -----------END------------
+2022-09-18 03:38:50pm:  print company data
+2022-09-18 03:38:50pm:  print company data End
+2022-09-18 04:06:49pm: --------------------------
+2022-09-18 04:06:49pm: --------NEW REQUEST-------
+2022-09-18 04:06:49pm: Start page loading
+2022-09-18 04:06:49pm: Send access token request
+2022-09-18 04:06:49pm: Recieve access token request
+2022-09-18 04:06:49pm: Start GET data request
+2022-09-18 04:06:49pm: Retrieve GET data request
+2022-09-18 04:06:49pm:  print statistical circles data
+2022-09-18 04:07:35pm: --------------------------
+2022-09-18 04:07:35pm: --------NEW REQUEST-------
+2022-09-18 04:07:35pm: Start page loading
+2022-09-18 04:07:35pm: Send access token request
+2022-09-18 04:07:35pm: Recieve access token request
+2022-09-18 04:07:35pm: Start GET data request
+2022-09-18 04:07:52pm: Retrieve GET data request
+2022-09-18 04:07:54pm:  print statistical circles data
+2022-09-18 04:07:54pm: -----------END------------
+2022-09-18 04:07:54pm:  print company data
+2022-09-18 04:07:54pm:  print company data End
+2022-09-18 04:10:29pm: --------------------------
+2022-09-18 04:10:30pm: --------NEW REQUEST-------
+2022-09-18 04:10:30pm: Start page loading
+2022-09-18 04:10:30pm: Send access token request
+2022-09-18 04:10:30pm: Recieve access token request
+2022-09-18 04:10:30pm: Start GET data request
+2022-09-18 04:10:35pm: Retrieve GET data request
+2022-09-18 04:10:35pm:  print statistical circles data
+2022-09-18 04:10:35pm: -----------END------------
+2022-09-18 04:10:35pm:  print company data
+2022-09-18 04:10:35pm:  print company data End
+2022-09-18 04:11:09pm: --------------------------
+2022-09-18 04:11:09pm: --------NEW REQUEST-------
+2022-09-18 04:11:09pm: Start page loading
+2022-09-18 04:11:09pm: Send access token request
+2022-09-18 04:11:09pm: Recieve access token request
+2022-09-18 04:11:09pm: Start GET data request
+2022-09-18 04:11:15pm: Retrieve GET data request
+2022-09-18 04:11:15pm:  print statistical circles data
+2022-09-18 04:11:15pm: -----------END------------
+2022-09-18 04:11:15pm:  print company data
+2022-09-18 04:11:15pm:  print company data End
+2022-09-18 04:11:56pm: --------------------------
+2022-09-18 04:11:56pm: --------NEW REQUEST-------
+2022-09-18 04:11:56pm: Start page loading
+2022-09-18 04:11:56pm: Send access token request
+2022-09-18 04:11:56pm: Recieve access token request
+2022-09-18 04:11:56pm: Start GET data request
+2022-09-18 04:12:01pm: Retrieve GET data request
+2022-09-18 04:12:01pm:  print statistical circles data
+2022-09-18 04:12:01pm: -----------END------------
+2022-09-18 04:12:01pm:  print company data
+2022-09-18 04:12:01pm:  print company data End
+2022-09-18 04:13:24pm: --------------------------
+2022-09-18 04:13:24pm: --------NEW REQUEST-------
+2022-09-18 04:13:24pm: Start page loading
+2022-09-18 04:13:24pm: Send access token request
+2022-09-18 04:13:24pm: Recieve access token request
+2022-09-18 04:13:24pm: Start GET data request
+2022-09-18 04:13:36pm: Retrieve GET data request
+2022-09-18 04:13:36pm:  print statistical circles data
+2022-09-18 04:13:36pm: -----------END------------
+2022-09-18 04:13:36pm:  print company data
+2022-09-18 04:13:36pm:  print company data End
+2022-09-18 04:15:11pm: --------------------------
+2022-09-18 04:15:11pm: --------NEW REQUEST-------
+2022-09-18 04:15:11pm: Start page loading
+2022-09-18 04:15:11pm: Send access token request
+2022-09-18 04:15:11pm: Recieve access token request
+2022-09-18 04:15:11pm: Start GET data request
+2022-09-18 04:15:17pm: Retrieve GET data request
+2022-09-18 04:15:17pm:  print statistical circles data
+2022-09-18 04:15:17pm: -----------END------------
+2022-09-18 04:15:17pm:  print company data
+2022-09-18 04:15:17pm:  print company data End
+2022-09-18 04:38:02pm: --------------------------
+2022-09-18 04:38:02pm: --------NEW REQUEST-------
+2022-09-18 04:38:02pm: Start page loading
+2022-09-18 04:38:02pm: Send access token request
+2022-09-18 04:38:02pm: Recieve access token request
+2022-09-18 04:38:02pm: Start GET data request
+2022-09-18 04:38:10pm: Retrieve GET data request
+2022-09-18 04:38:10pm:  print statistical circles data
+2022-09-18 04:38:10pm: -----------END------------
+2022-09-18 04:38:10pm:  print company data
+2022-09-18 04:38:10pm:  print company data End
+2022-09-18 04:41:15pm: --------------------------
+2022-09-18 04:41:15pm: --------NEW REQUEST-------
+2022-09-18 04:41:15pm: Start page loading
+2022-09-18 04:41:15pm: Send access token request
+2022-09-18 04:41:15pm: Recieve access token request
+2022-09-18 04:41:15pm: Start GET data request
+2022-09-18 04:41:16pm: --------------------------
+2022-09-18 04:41:16pm: --------NEW REQUEST-------
+2022-09-18 04:41:16pm: Start page loading
+2022-09-18 04:41:16pm: Send access token request
+2022-09-18 04:41:16pm: Recieve access token request
+2022-09-18 04:41:16pm: Start GET data request
+2022-09-18 04:41:18pm: --------------------------
+2022-09-18 04:41:18pm: --------NEW REQUEST-------
+2022-09-18 04:41:18pm: Start page loading
+2022-09-18 04:41:18pm: Send access token request
+2022-09-18 04:41:18pm: Recieve access token request
+2022-09-18 04:41:18pm: Start GET data request
+2022-09-18 04:41:23pm: Retrieve GET data request
+2022-09-18 04:41:23pm:  print statistical circles data
+2022-09-18 04:41:23pm: -----------END------------
+2022-09-18 04:41:23pm:  print company data
+2022-09-18 04:41:23pm:  print company data End
+2022-09-18 04:41:24pm: Retrieve GET data request
+2022-09-18 04:41:24pm:  print statistical circles data
+2022-09-18 04:41:24pm: -----------END------------
+2022-09-18 04:41:24pm: Retrieve GET data request
+2022-09-18 04:41:24pm:  print statistical circles data
+2022-09-18 04:41:24pm: -----------END------------
+2022-09-18 04:41:24pm:  print company data
+2022-09-18 04:41:24pm:  print company data End
+2022-09-18 04:42:40pm: --------------------------
+2022-09-18 04:42:40pm: --------NEW REQUEST-------
+2022-09-18 04:42:40pm: Start page loading
+2022-09-18 04:42:40pm: Send access token request
+2022-09-18 04:42:40pm: Recieve access token request
+2022-09-18 04:42:40pm: Start GET data request
+2022-09-18 04:42:49pm: Retrieve GET data request
+2022-09-18 04:42:49pm:  print statistical circles data
+2022-09-18 04:42:49pm: -----------END------------
+2022-09-18 04:42:49pm:  print company data
+2022-09-18 04:42:49pm:  print company data End
+2022-09-18 04:51:17pm: --------------------------
+2022-09-18 04:51:17pm: --------NEW REQUEST-------
+2022-09-18 04:51:17pm: Start page loading
+2022-09-18 04:51:17pm: Send access token request
+2022-09-18 04:51:17pm: Recieve access token request
+2022-09-18 04:51:17pm: Start GET data request
+2022-09-18 04:51:23pm: Retrieve GET data request
+2022-09-18 04:51:23pm:  print statistical circles data
+2022-09-18 04:51:23pm: -----------END------------
+2022-09-18 04:51:23pm:  print company data
+2022-09-18 04:51:23pm:  print company data End
+2022-09-18 04:53:29pm: --------------------------
+2022-09-18 04:53:29pm: --------NEW REQUEST-------
+2022-09-18 04:53:29pm: Start page loading
+2022-09-18 04:53:29pm: Send access token request
+2022-09-18 04:53:29pm: Recieve access token request
+2022-09-18 04:53:29pm: Start GET data request
+2022-09-18 04:53:35pm: Retrieve GET data request
+2022-09-18 04:53:35pm:  print statistical circles data
+2022-09-18 04:53:35pm: -----------END------------
+2022-09-18 04:53:35pm:  print company data
+2022-09-18 04:53:35pm:  print company data End
+2022-09-18 04:53:40pm: --------------------------
+2022-09-18 04:53:40pm: --------NEW REQUEST-------
+2022-09-18 04:53:40pm: Start page loading
+2022-09-18 04:53:40pm: Send access token request
+2022-09-18 04:53:40pm: Recieve access token request
+2022-09-18 04:53:40pm: Start GET data request
+2022-09-18 04:53:43pm: --------------------------
+2022-09-18 04:53:43pm: --------NEW REQUEST-------
+2022-09-18 04:53:43pm: Start page loading
+2022-09-18 04:53:43pm: Send access token request
+2022-09-18 04:53:43pm: Recieve access token request
+2022-09-18 04:53:43pm: Start GET data request
+2022-09-18 04:53:46pm: Retrieve GET data request
+2022-09-18 04:53:46pm:  print statistical circles data
+2022-09-18 04:53:46pm: -----------END------------
+2022-09-18 04:53:49pm: Retrieve GET data request
+2022-09-18 04:53:49pm:  print statistical circles data
+2022-09-18 04:53:49pm: -----------END------------
+2022-09-18 04:53:49pm:  print company data
+2022-09-18 04:53:49pm:  print company data End
+2022-09-18 04:56:32pm: --------------------------
+2022-09-18 04:56:32pm: --------NEW REQUEST-------
+2022-09-18 04:56:32pm: Start page loading
+2022-09-18 04:56:32pm: Send access token request
+2022-09-18 04:56:32pm: Recieve access token request
+2022-09-18 04:56:32pm: Start GET data request
+2022-09-18 04:56:39pm: Retrieve GET data request
+2022-09-18 04:56:39pm:  print statistical circles data
+2022-09-18 04:56:39pm: -----------END------------
+2022-09-18 04:56:39pm:  print company data
+2022-09-18 04:56:39pm:  print company data End
+2022-09-18 04:58:38pm: --------------------------
+2022-09-18 04:58:38pm: --------NEW REQUEST-------
+2022-09-18 04:58:38pm: Start page loading
+2022-09-18 04:58:38pm: Send access token request
+2022-09-18 04:58:38pm: Recieve access token request
+2022-09-18 04:58:38pm: Start GET data request
+2022-09-18 04:58:43pm: Retrieve GET data request
+2022-09-18 04:58:43pm:  print statistical circles data
+2022-09-18 04:58:43pm: -----------END------------
+2022-09-18 04:58:43pm:  print company data
+2022-09-18 04:58:43pm:  print company data End
+2022-09-18 05:00:17pm: --------------------------
+2022-09-18 05:00:17pm: --------NEW REQUEST-------
+2022-09-18 05:00:17pm: Start page loading
+2022-09-18 05:00:17pm: Send access token request
+2022-09-18 05:00:17pm: Recieve access token request
+2022-09-18 05:00:17pm: Start GET data request
+2022-09-18 05:00:23pm: Retrieve GET data request
+2022-09-18 05:00:23pm:  print statistical circles data
+2022-09-18 05:00:23pm: -----------END------------
+2022-09-18 05:00:23pm:  print company data
+2022-09-18 05:00:23pm:  print company data End
+2022-09-18 05:02:05pm: --------------------------
+2022-09-18 05:02:05pm: --------NEW REQUEST-------
+2022-09-18 05:02:05pm: Start page loading
+2022-09-18 05:02:05pm: Send access token request
+2022-09-18 05:02:05pm: Recieve access token request
+2022-09-18 05:02:05pm: Start GET data request
+2022-09-18 05:02:10pm: Retrieve GET data request
+2022-09-18 05:02:10pm:  print statistical circles data
+2022-09-18 05:02:10pm: -----------END------------
+2022-09-18 05:02:10pm:  print company data
+2022-09-18 05:02:10pm:  print company data End
+2022-09-18 05:02:23pm: --------------------------
+2022-09-18 05:02:23pm: --------NEW REQUEST-------
+2022-09-18 05:02:23pm: Start page loading
+2022-09-18 05:02:23pm: Send access token request
+2022-09-18 05:02:23pm: Recieve access token request
+2022-09-18 05:02:23pm: Start GET data request
+2022-09-18 05:02:29pm: Retrieve GET data request
+2022-09-18 05:02:29pm:  print statistical circles data
+2022-09-18 05:02:29pm: -----------END------------
+2022-09-18 05:02:29pm:  print company data
+2022-09-18 05:02:29pm:  print company data End
+2022-09-18 05:02:44pm: --------------------------
+2022-09-18 05:02:44pm: --------NEW REQUEST-------
+2022-09-18 05:02:44pm: Start page loading
+2022-09-18 05:02:44pm: Send access token request
+2022-09-18 05:02:44pm: Recieve access token request
+2022-09-18 05:02:44pm: Start GET data request
+2022-09-18 05:02:49pm: Retrieve GET data request
+2022-09-18 05:02:49pm:  print statistical circles data
+2022-09-18 05:02:49pm: -----------END------------
+2022-09-18 05:02:49pm:  print company data
+2022-09-18 05:02:49pm:  print company data End
+2022-09-18 05:03:29pm: --------------------------
+2022-09-18 05:03:29pm: --------NEW REQUEST-------
+2022-09-18 05:03:29pm: Start page loading
+2022-09-18 05:03:29pm: Send access token request
+2022-09-18 05:03:29pm: Recieve access token request
+2022-09-18 05:03:29pm: Start GET data request
+2022-09-18 05:03:36pm: Retrieve GET data request
+2022-09-18 05:03:36pm:  print statistical circles data
+2022-09-18 05:03:36pm: -----------END------------
+2022-09-18 05:03:36pm:  print company data
+2022-09-18 05:03:36pm:  print company data End
+2022-09-18 05:03:45pm: --------------------------
+2022-09-18 05:03:45pm: --------NEW REQUEST-------
+2022-09-18 05:03:45pm: Start page loading
+2022-09-18 05:03:45pm: Send access token request
+2022-09-18 05:03:45pm: Recieve access token request
+2022-09-18 05:03:45pm: Start GET data request
+2022-09-18 05:03:51pm: Retrieve GET data request
+2022-09-18 05:03:51pm:  print statistical circles data
+2022-09-18 05:03:51pm: -----------END------------
+2022-09-18 05:03:51pm:  print company data
+2022-09-18 05:03:51pm:  print company data End
+2022-09-18 05:04:51pm: --------------------------
+2022-09-18 05:04:51pm: --------NEW REQUEST-------
+2022-09-18 05:04:51pm: Start page loading
+2022-09-18 05:04:51pm: Send access token request
+2022-09-18 05:04:51pm: Recieve access token request
+2022-09-18 05:04:51pm: Start GET data request
+2022-09-18 05:04:56pm: Retrieve GET data request
+2022-09-18 05:04:56pm:  print statistical circles data
+2022-09-18 05:04:56pm: -----------END------------
+2022-09-18 05:04:56pm:  print company data
+2022-09-18 05:04:56pm:  print company data End
+2022-09-18 05:05:01pm: --------------------------
+2022-09-18 05:05:01pm: --------NEW REQUEST-------
+2022-09-18 05:05:01pm: Start page loading
+2022-09-18 05:05:01pm: Send access token request
+2022-09-18 05:05:01pm: Recieve access token request
+2022-09-18 05:05:01pm: Start GET data request
+2022-09-18 05:05:06pm: Retrieve GET data request
+2022-09-18 05:05:06pm:  print statistical circles data
+2022-09-18 05:05:06pm: -----------END------------
+2022-09-18 05:05:06pm:  print company data
+2022-09-18 05:05:06pm:  print company data End
+2022-09-18 05:05:11pm: --------------------------
+2022-09-18 05:05:11pm: --------NEW REQUEST-------
+2022-09-18 05:05:11pm: Start page loading
+2022-09-18 05:05:11pm: Send access token request
+2022-09-18 05:05:11pm: Recieve access token request
+2022-09-18 05:05:11pm: Start GET data request
+2022-09-18 05:05:16pm: Retrieve GET data request
+2022-09-18 05:05:16pm:  print statistical circles data
+2022-09-18 05:05:16pm: -----------END------------
+2022-09-18 05:05:16pm:  print company data
+2022-09-18 05:05:16pm:  print company data End
+2022-09-18 05:07:54pm: --------------------------
+2022-09-18 05:07:54pm: --------NEW REQUEST-------
+2022-09-18 05:07:54pm: Start page loading
+2022-09-18 05:07:54pm: Send access token request
+2022-09-18 05:07:54pm: Recieve access token request
+2022-09-18 05:07:54pm: Start GET data request
+2022-09-18 05:08:00pm: Retrieve GET data request
+2022-09-18 05:08:00pm:  print statistical circles data
+2022-09-18 05:08:00pm: -----------END------------
+2022-09-18 05:08:00pm:  print company data
+2022-09-18 05:08:00pm:  print company data End
+2022-09-18 05:08:05pm: --------------------------
+2022-09-18 05:08:05pm: --------NEW REQUEST-------
+2022-09-18 05:08:05pm: Start page loading
+2022-09-18 05:08:05pm: Send access token request
+2022-09-18 05:08:05pm: Recieve access token request
+2022-09-18 05:08:05pm: Start GET data request
+2022-09-18 05:08:10pm: Retrieve GET data request
+2022-09-18 05:08:10pm:  print statistical circles data
+2022-09-18 05:08:10pm: -----------END------------
+2022-09-18 05:08:10pm:  print company data
+2022-09-18 05:08:10pm:  print company data End
+2022-09-18 05:10:56pm: --------------------------
+2022-09-18 05:10:56pm: --------NEW REQUEST-------
+2022-09-18 05:10:56pm: Start page loading
+2022-09-18 05:10:56pm: Send access token request
+2022-09-18 05:10:56pm: Recieve access token request
+2022-09-18 05:10:56pm: Start GET data request
+2022-09-18 05:11:55pm: Retrieve GET data request
+2022-09-18 05:11:55pm:  print statistical circles data
+2022-09-18 05:12:06pm: --------------------------
+2022-09-18 05:12:06pm: --------NEW REQUEST-------
+2022-09-18 05:12:06pm: Start page loading
+2022-09-18 05:12:06pm: Send access token request
+2022-09-18 05:12:06pm: Recieve access token request
+2022-09-18 05:12:06pm: Start GET data request
+2022-09-18 05:12:15pm: Retrieve GET data request
+2022-09-18 05:12:15pm:  print statistical circles data
+2022-09-18 05:13:59pm: --------------------------
+2022-09-18 05:13:59pm: --------NEW REQUEST-------
+2022-09-18 05:13:59pm: Start page loading
+2022-09-18 05:13:59pm: Send access token request
+2022-09-18 05:13:59pm: Recieve access token request
+2022-09-18 05:13:59pm: Start GET data request
+2022-09-18 05:14:46pm: --------------------------
+2022-09-18 05:14:46pm: --------NEW REQUEST-------
+2022-09-18 05:14:46pm: Start page loading
+2022-09-18 05:14:46pm: Send access token request
+2022-09-18 05:14:46pm: Recieve access token request
+2022-09-18 05:14:46pm: Start GET data request
+2022-09-18 05:14:48pm: Retrieve GET data request
+2022-09-18 05:14:48pm:  print statistical circles data
+2022-09-18 05:14:54pm: Retrieve GET data request
+2022-09-18 05:14:54pm:  print statistical circles data
+2022-09-18 05:15:59pm: --------------------------
+2022-09-18 05:15:59pm: --------NEW REQUEST-------
+2022-09-18 05:15:59pm: Start page loading
+2022-09-18 05:15:59pm: Send access token request
+2022-09-18 05:15:59pm: Recieve access token request
+2022-09-18 05:15:59pm: Start GET data request
+2022-09-18 05:16:06pm: Retrieve GET data request
+2022-09-18 05:16:07pm:  print statistical circles data
+2022-09-18 05:16:07pm: -----------END------------
+2022-09-18 05:16:08pm:  print company data
+2022-09-18 05:16:08pm:  print company data End
+2022-09-18 05:17:27pm: --------------------------
+2022-09-18 05:17:27pm: --------NEW REQUEST-------
+2022-09-18 05:17:27pm: Start page loading
+2022-09-18 05:17:27pm: Send access token request
+2022-09-18 05:17:27pm: Recieve access token request
+2022-09-18 05:17:27pm: Start GET data request
+2022-09-18 05:17:34pm: Retrieve GET data request
+2022-09-18 05:17:34pm:  print statistical circles data
+2022-09-18 05:17:34pm: -----------END------------
+2022-09-18 05:17:35pm:  print company data
+2022-09-18 05:17:35pm:  print company data End
+2022-09-18 05:20:26pm: --------------------------
+2022-09-18 05:20:26pm: --------NEW REQUEST-------
+2022-09-18 05:20:26pm: Start page loading
+2022-09-18 05:20:26pm: Send access token request
+2022-09-18 05:20:26pm: Recieve access token request
+2022-09-18 05:20:26pm: Start GET data request
+2022-09-18 05:20:35pm: Retrieve GET data request
+2022-09-18 05:20:35pm:  print statistical circles data
+2022-09-18 05:20:35pm: -----------END------------
+2022-09-18 05:20:35pm:  print company data
+2022-09-18 05:20:35pm:  print company data End
+2022-09-18 05:22:14pm: --------------------------
+2022-09-18 05:22:14pm: --------NEW REQUEST-------
+2022-09-18 05:22:14pm: Start page loading
+2022-09-18 05:22:14pm: Send access token request
+2022-09-18 05:22:14pm: Recieve access token request
+2022-09-18 05:22:14pm: Start GET data request
+2022-09-18 05:22:20pm: Retrieve GET data request
+2022-09-18 05:22:20pm:  print statistical circles data
+2022-09-18 05:22:20pm: -----------END------------
+2022-09-18 05:22:20pm:  print company data
+2022-09-18 05:22:20pm:  print company data End
+2022-09-18 05:23:22pm: --------------------------
+2022-09-18 05:23:22pm: --------NEW REQUEST-------
+2022-09-18 05:23:22pm: Start page loading
+2022-09-18 05:23:22pm: Send access token request
+2022-09-18 05:23:22pm: Recieve access token request
+2022-09-18 05:23:22pm: Start GET data request
+2022-09-18 05:23:27pm: Retrieve GET data request
+2022-09-18 05:23:27pm:  print statistical circles data
+2022-09-18 05:23:27pm: -----------END------------
+2022-09-18 05:23:28pm:  print company data
+2022-09-18 05:23:28pm:  print company data End
+2022-09-18 05:23:57pm: --------------------------
+2022-09-18 05:23:57pm: --------NEW REQUEST-------
+2022-09-18 05:23:57pm: Start page loading
+2022-09-18 05:23:57pm: Send access token request
+2022-09-18 05:23:57pm: Recieve access token request
+2022-09-18 05:23:57pm: Start GET data request
+2022-09-18 05:24:02pm: Retrieve GET data request
+2022-09-18 05:24:02pm:  print statistical circles data
+2022-09-18 05:24:02pm: -----------END------------
+2022-09-18 05:24:02pm:  print company data
+2022-09-18 05:24:02pm:  print company data End
+2022-09-18 05:24:10pm: --------------------------
+2022-09-18 05:24:10pm: --------NEW REQUEST-------
+2022-09-18 05:24:10pm: Start page loading
+2022-09-18 05:24:10pm: Send access token request
+2022-09-18 05:24:10pm: Recieve access token request
+2022-09-18 05:24:10pm: Start GET data request
+2022-09-18 05:24:15pm: Retrieve GET data request
+2022-09-18 05:24:15pm:  print statistical circles data
+2022-09-18 05:24:15pm: -----------END------------
+2022-09-18 05:24:15pm:  print company data
+2022-09-18 05:24:15pm:  print company data End
+2022-09-18 05:25:08pm: --------------------------
+2022-09-18 05:25:08pm: --------NEW REQUEST-------
+2022-09-18 05:25:08pm: Start page loading
+2022-09-18 05:25:08pm: Send access token request
+2022-09-18 05:25:08pm: Recieve access token request
+2022-09-18 05:25:08pm: Start GET data request
+2022-09-18 05:25:13pm: Retrieve GET data request
+2022-09-18 05:25:13pm:  print statistical circles data
+2022-09-18 05:25:14pm: -----------END------------
+2022-09-18 05:25:14pm:  print company data
+2022-09-18 05:25:14pm:  print company data End
+2022-09-18 05:25:27pm: --------------------------
+2022-09-18 05:25:27pm: --------NEW REQUEST-------
+2022-09-18 05:25:27pm: Start page loading
+2022-09-18 05:25:27pm: Send access token request
+2022-09-18 05:25:27pm: Recieve access token request
+2022-09-18 05:25:27pm: Start GET data request
+2022-09-18 05:25:33pm: Retrieve GET data request
+2022-09-18 05:25:33pm:  print statistical circles data
+2022-09-18 05:25:33pm: -----------END------------
+2022-09-18 05:25:33pm:  print company data
+2022-09-18 05:25:33pm:  print company data End
+2022-09-18 05:27:07pm: --------------------------
+2022-09-18 05:27:07pm: --------NEW REQUEST-------
+2022-09-18 05:27:07pm: Start page loading
+2022-09-18 05:27:07pm: Send access token request
+2022-09-18 05:27:07pm: Recieve access token request
+2022-09-18 05:27:07pm: Start GET data request
+2022-09-18 05:27:12pm: Retrieve GET data request
+2022-09-18 05:27:12pm:  print statistical circles data
+2022-09-18 05:27:12pm: -----------END------------
+2022-09-18 05:27:12pm:  print company data
+2022-09-18 05:27:12pm:  print company data End
+2022-09-18 05:29:55pm: --------------------------
+2022-09-18 05:29:55pm: --------NEW REQUEST-------
+2022-09-18 05:29:55pm: Start page loading
+2022-09-18 05:29:55pm: Send access token request
+2022-09-18 05:29:55pm: Recieve access token request
+2022-09-18 05:29:55pm: Start GET data request
+2022-09-18 05:30:02pm: Retrieve GET data request
+2022-09-18 05:30:02pm:  print statistical circles data
+2022-09-18 05:30:02pm: -----------END------------
+2022-09-18 05:30:02pm:  print company data
+2022-09-18 05:30:02pm:  print company data End
+2022-09-18 05:33:12pm: --------------------------
+2022-09-18 05:33:12pm: --------NEW REQUEST-------
+2022-09-18 05:33:12pm: Start page loading
+2022-09-18 05:33:12pm: Send access token request
+2022-09-18 05:33:12pm: Recieve access token request
+2022-09-18 05:33:12pm: Start GET data request
+2022-09-18 05:33:19pm: Retrieve GET data request
+2022-09-18 05:33:19pm:  print statistical circles data
+2022-09-18 05:33:19pm: -----------END------------
+2022-09-18 05:33:19pm:  print company data
+2022-09-18 05:33:19pm:  print company data End
+2022-09-18 05:34:46pm: --------------------------
+2022-09-18 05:34:46pm: --------NEW REQUEST-------
+2022-09-18 05:34:46pm: Start page loading
+2022-09-18 05:34:46pm: Send access token request
+2022-09-18 05:34:46pm: Recieve access token request
+2022-09-18 05:34:46pm: Start GET data request
+2022-09-18 05:34:52pm: Retrieve GET data request
+2022-09-18 05:34:52pm:  print statistical circles data
+2022-09-18 05:34:52pm: -----------END------------
+2022-09-18 05:34:52pm:  print company data
+2022-09-18 05:34:52pm:  print company data End
+2022-09-18 05:42:15pm: --------------------------
+2022-09-18 05:42:15pm: --------NEW REQUEST-------
+2022-09-18 05:42:15pm: Start page loading
+2022-09-18 05:42:15pm: Send access token request
+2022-09-18 05:42:15pm: Recieve access token request
+2022-09-18 05:42:15pm: Start GET data request
+2022-09-18 05:42:15pm: Retrieve GET data request
+2022-09-18 05:42:15pm:  print statistical circles data
+2022-09-18 05:42:16pm: --------------------------
+2022-09-18 05:42:16pm: --------NEW REQUEST-------
+2022-09-18 05:42:16pm: Start page loading
+2022-09-18 05:42:16pm: Send access token request
+2022-09-18 05:42:16pm: Recieve access token request
+2022-09-18 05:42:16pm: Start GET data request
+2022-09-18 05:42:16pm: Retrieve GET data request
+2022-09-18 05:42:16pm:  print statistical circles data
+2022-09-18 05:42:23pm: --------------------------
+2022-09-18 05:42:23pm: --------NEW REQUEST-------
+2022-09-18 05:42:23pm: Start page loading
+2022-09-18 05:42:23pm: Send access token request
+2022-09-18 05:42:23pm: Recieve access token request
+2022-09-18 05:42:23pm: Start GET data request
+2022-09-18 05:42:30pm: Retrieve GET data request
+2022-09-18 05:42:30pm:  print statistical circles data
+2022-09-18 05:42:30pm: -----------END------------
+2022-09-18 05:42:30pm:  print company data
+2022-09-18 05:42:30pm:  print company data End
+2022-09-18 05:43:20pm: --------------------------
+2022-09-18 05:43:20pm: --------NEW REQUEST-------
+2022-09-18 05:43:20pm: Start page loading
+2022-09-18 05:43:20pm: Send access token request
+2022-09-18 05:43:20pm: Recieve access token request
+2022-09-18 05:43:20pm: Start GET data request
+2022-09-18 05:43:29pm: Retrieve GET data request
+2022-09-18 05:43:29pm:  print statistical circles data
+2022-09-18 05:43:29pm: -----------END------------
+2022-09-18 05:43:29pm:  print company data
+2022-09-18 05:43:29pm:  print company data End
+2022-09-18 05:44:40pm: --------------------------
+2022-09-18 05:44:40pm: --------NEW REQUEST-------
+2022-09-18 05:44:40pm: Start page loading
+2022-09-18 05:44:40pm: Send access token request
+2022-09-18 05:44:40pm: Recieve access token request
+2022-09-18 05:44:40pm: Start GET data request
+2022-09-18 05:44:45pm: Retrieve GET data request
+2022-09-18 05:44:45pm:  print statistical circles data
+2022-09-18 05:44:45pm: -----------END------------
+2022-09-18 05:44:45pm:  print company data
+2022-09-18 05:44:45pm:  print company data End
+2022-09-18 05:46:04pm: --------------------------
+2022-09-18 05:46:04pm: --------NEW REQUEST-------
+2022-09-18 05:46:04pm: Start page loading
+2022-09-18 05:46:04pm: Send access token request
+2022-09-18 05:46:04pm: Recieve access token request
+2022-09-18 05:46:04pm: Start GET data request
+2022-09-18 05:46:04pm: Retrieve GET data request
+2022-09-18 05:46:04pm:  print statistical circles data
+2022-09-18 05:46:18pm: --------------------------
+2022-09-18 05:46:18pm: --------NEW REQUEST-------
+2022-09-18 05:46:18pm: Start page loading
+2022-09-18 05:46:18pm: Send access token request
+2022-09-18 05:46:18pm: Recieve access token request
+2022-09-18 05:46:18pm: Start GET data request
+2022-09-18 05:46:23pm: Retrieve GET data request
+2022-09-18 05:46:23pm:  print statistical circles data
+2022-09-18 05:46:23pm: -----------END------------
+2022-09-18 05:46:23pm:  print company data
+2022-09-18 05:46:23pm:  print company data End
+2022-09-18 05:46:48pm: --------------------------
+2022-09-18 05:46:48pm: --------NEW REQUEST-------
+2022-09-18 05:46:48pm: Start page loading
+2022-09-18 05:46:48pm: Send access token request
+2022-09-18 05:46:48pm: Recieve access token request
+2022-09-18 05:46:48pm: Start GET data request
+2022-09-18 05:46:53pm: Retrieve GET data request
+2022-09-18 05:46:53pm:  print statistical circles data
+2022-09-18 05:46:53pm: -----------END------------
+2022-09-18 05:46:53pm:  print company data
+2022-09-18 05:46:53pm:  print company data End
+2022-09-19 12:50:33am: --------------------------
+2022-09-19 12:50:33am: --------NEW REQUEST-------
+2022-09-19 12:50:33am: Start page loading
+2022-09-19 12:50:33am: Send access token request
+2022-09-19 12:50:33am: Recieve access token request
+2022-09-19 12:50:33am: Start GET data request
+2022-09-19 12:52:29am: Retrieve GET data request
+2022-09-19 12:52:29am:  print statistical circles data
+2022-09-19 12:52:29am: -----------END------------
+2022-09-19 12:52:29am:  print company data
+2022-09-19 12:52:29am:  print company data End
+2022-09-19 12:53:14am: --------------------------
+2022-09-19 12:53:14am: --------NEW REQUEST-------
+2022-09-19 12:53:14am: Start page loading
+2022-09-19 12:53:14am: Send access token request
+2022-09-19 12:53:14am: Recieve access token request
+2022-09-19 12:53:14am: Start GET data request
+2022-09-19 12:54:12am: Retrieve GET data request
+2022-09-19 12:54:12am:  print statistical circles data
+2022-09-19 12:54:12am: -----------END------------
+2022-09-19 12:54:12am:  print company data
+2022-09-19 12:54:12am:  print company data End
+2022-09-19 12:59:06am: --------------------------
+2022-09-19 12:59:06am: --------NEW REQUEST-------
+2022-09-19 12:59:06am: Start page loading
+2022-09-19 12:59:06am: Send access token request
+2022-09-19 12:59:06am: Recieve access token request
+2022-09-19 12:59:06am: Start GET data request
+2022-09-19 12:59:39am: Retrieve GET data request
+2022-09-19 12:59:39am:  print statistical circles data
+2022-09-19 12:59:39am: -----------END------------
+2022-09-19 12:59:39am:  print company data
+2022-09-19 12:59:39am:  print company data End
+2022-09-19 12:59:57am: --------------------------
+2022-09-19 12:59:57am: --------NEW REQUEST-------
+2022-09-19 12:59:57am: Start page loading
+2022-09-19 12:59:57am: Send access token request
+2022-09-19 12:59:57am: Recieve access token request
+2022-09-19 12:59:57am: Start GET data request
+2022-09-19 01:01:05am: Retrieve GET data request
+2022-09-19 01:01:05am:  print statistical circles data
+2022-09-19 01:01:05am: -----------END------------
+2022-09-19 01:01:05am:  print company data
+2022-09-19 01:01:05am:  print company data End
+2022-09-19 10:10:24am: --------------------------
+2022-09-19 10:10:24am: --------NEW REQUEST-------
+2022-09-19 10:10:24am: Start page loading
+2022-09-19 10:10:24am: Send access token request
+2022-09-19 10:10:24am: Recieve access token request
+2022-09-19 10:10:24am: Start GET data request
+2022-09-19 10:10:30am: Retrieve GET data request
+2022-09-19 10:10:31am:  print statistical circles data
+2022-09-19 10:10:31am: -----------END------------
+2022-09-19 10:10:31am:  print company data
+2022-09-19 10:10:31am:  print company data End
+2022-09-19 10:12:19am: --------------------------
+2022-09-19 10:12:19am: --------NEW REQUEST-------
+2022-09-19 10:12:19am: Start page loading
+2022-09-19 10:12:19am: Send access token request
+2022-09-19 10:12:19am: Recieve access token request
+2022-09-19 10:12:19am: Start GET data request
+2022-09-19 10:12:25am: Retrieve GET data request
+2022-09-19 10:12:25am:  print statistical circles data
+2022-09-19 10:12:25am: -----------END------------
+2022-09-19 10:12:25am:  print company data
+2022-09-19 10:12:25am:  print company data End
+2022-09-19 10:12:44am: --------------------------
+2022-09-19 10:12:44am: --------NEW REQUEST-------
+2022-09-19 10:12:44am: Start page loading
+2022-09-19 10:12:44am: Send access token request
+2022-09-19 10:12:44am: Recieve access token request
+2022-09-19 10:12:44am: Start GET data request
+2022-09-19 10:12:49am: Retrieve GET data request
+2022-09-19 10:12:49am:  print statistical circles data
+2022-09-19 10:12:49am: -----------END------------
+2022-09-19 10:12:49am:  print company data
+2022-09-19 10:12:49am:  print company data End
+2022-09-19 10:13:43am: --------------------------
+2022-09-19 10:13:43am: --------NEW REQUEST-------
+2022-09-19 10:13:43am: Start page loading
+2022-09-19 10:13:43am: Send access token request
+2022-09-19 10:13:43am: Recieve access token request
+2022-09-19 10:13:43am: Start GET data request
+2022-09-19 10:13:48am: Retrieve GET data request
+2022-09-19 10:13:48am:  print statistical circles data
+2022-09-19 10:13:48am: -----------END------------
+2022-09-19 10:13:48am:  print company data
+2022-09-19 10:13:48am:  print company data End
+2022-09-19 10:14:03am: --------------------------
+2022-09-19 10:14:03am: --------NEW REQUEST-------
+2022-09-19 10:14:03am: Start page loading
+2022-09-19 10:14:03am: Send access token request
+2022-09-19 10:14:03am: Recieve access token request
+2022-09-19 10:14:03am: Start GET data request
+2022-09-19 10:14:11am: Retrieve GET data request
+2022-09-19 10:14:11am:  print statistical circles data
+2022-09-19 10:14:11am: -----------END------------
+2022-09-19 10:14:11am:  print company data
+2022-09-19 10:14:11am:  print company data End
+2022-09-19 10:15:27am: --------------------------
+2022-09-19 10:15:27am: --------NEW REQUEST-------
+2022-09-19 10:15:27am: Start page loading
+2022-09-19 10:15:27am: Send access token request
+2022-09-19 10:15:27am: Recieve access token request
+2022-09-19 10:15:27am: Start GET data request
+2022-09-19 10:15:32am: Retrieve GET data request
+2022-09-19 10:15:32am:  print statistical circles data
+2022-09-19 10:15:32am: -----------END------------
+2022-09-19 10:15:32am:  print company data
+2022-09-19 10:15:33am:  print company data End
