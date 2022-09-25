@@ -72,7 +72,7 @@
 }
 
 
-.width {
+.year_data {
 
     COLOR: aliceblue;
     FONT-SIZE: 21PX;
@@ -82,8 +82,6 @@
     justify-content: space-evenly;
     width: 100%;
     position: relative;
-    left: -41%;
-    top: 208px;
     display: grid;
 
 }
@@ -154,6 +152,7 @@
     display: flex;
     align-items: flex-start;
     margin: 0 auto;
+    gap: 2px;
     flex-direction: row-reverse;
 }
 
@@ -168,12 +167,13 @@
     align-items: flex-end;
     flex-direction: row-reverse;
     margin: 0 auto;
+    gap: 2px;
 }
 
 .Net_data_chart {
-    width: 25px;
+    width: 23px;
     position: revert;
-    border: 5PX SOLID #795ab0;
+    border: 1PX SOLID #795ab0;
     /*margin-left: -4px;*/
     display: inline-block;
     /*margin-left: -4px;*/

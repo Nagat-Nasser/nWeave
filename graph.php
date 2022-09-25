@@ -44,10 +44,12 @@
                                 //negtivte net bar
                                 if($Net_data<0){
                                 echo '<div class="Net_data_chart" style="height:'?><?php echo abs(number_format(($Net_data / $max) * 220, 2));?><?php echo 'px">' . '</div>';} ?>
-                         </div>
-                       <?php }?>
-                    <!--                            <div class="width">--><?php //echo $year_data ?><!--</div>-->
 
+                         </div>
+
+                       <?php }
+                    for ($year_data = $_GET['startYear']; $year_data <= $_GET['endYear']; $year_data++) {?>
+                    <div class="year_data"><?php echo $year_data ?></div><?php }?>
                 </div>
             </div>
         </div>
