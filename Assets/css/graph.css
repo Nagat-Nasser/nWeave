@@ -17,7 +17,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-area: Graph_Header;
-gap: 33px;
+    gap:33px;
 }
 
 .lab1,
@@ -37,10 +37,10 @@ gap: 33px;
     outline: none;
     width: 147px;
     height: 21px;
-    /*MARGIN-LEFT: -109PX;*/
+    MARGIN-LEFT: -89PX;
 }
 
-.graph_buttonHeader {
+.graph_buttonHeader{
     width: 87px;
     height: 28px;
     border: none;
@@ -55,23 +55,25 @@ gap: 33px;
 
 #length2 {
     COLOR: aliceblue;
+     line-height: 0px;
     FONT-SIZE: 14PX;
-    font-weight: 600;
+    font-weight: 400;
     width: 62px;
-    line-height: 36px;
+    height: 100%;
     z-index: 300000;
-    background-color: #16202f;
     grid-area: length2;
 
 }
 
-#charts2 {
+#charts2{
+
     grid-area: charts2;
-    overflow: hidden;
+    overflow-x: auto;
 }
 
 
 .width {
+
     COLOR: aliceblue;
     FONT-SIZE: 21PX;
     display: flex;
@@ -82,28 +84,52 @@ gap: 33px;
     position: relative;
     left: -41%;
     top: 208px;
+    display: grid;
+
 }
+
+/*.charts {*/
+/*    MARGIN-LEFT: 21PX;*/
+/*    height: 448px;*/
+
+
+/*}*/
 
 .scroll-chart {
-    overflow: hidden;
-    width: 100%;
+    /*margin-top: -434px;*/
+    /*margin-left: 90px;*/
+    overflow-x: auto;
+
+
 
 
 }
 
-.drawchart {
-    border-left: 1.5px solid #111926;
-       display: grid;
-        grid-template-rows: 1fr 1fr;
-        grid-template-areas:
-        "positive_part_of_graph"
-        "negative_part_of_graph";
-    height: 471px;
-    position: relative;
-    top:51px;
-    overflow-x: scroll;
-    overflow-y: hidden;
+/*.spanchart1 {*/
+/*    margin-bottom: 26px;*/
+/*}*/
 
+/*.spanchart2 {*/
+/*    bottom: 42px;*/
+/*    margin-left: -94px;*/
+
+/*}*/
+
+.drawchart {
+    /*border-left: 1.5px solid #111926;*/
+    height:555px;
+    overflow: hidden;
+    /* display: flex; */
+    display: grid;
+    /* width: 124%; */
+    width: 101%;
+    grid-template-rows: 1fr 1fr;
+    /* gap: 48px; */
+    /* grid-auto-columns: auto; */
+    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
+    grid-template-areas:
+        "a"
+        "b";
 
 }
 
@@ -121,167 +147,163 @@ gap: 33px;
     border-right: 1.5px #111926 solid;
     border-left: 1.5PX #111926 solid;
 }
-
-.Graph_Data_chart1 {
-    height: 335%;
+.Graph_Data_chart2{
+    display: flex;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    margin: 0 auto;
+    flex-direction: row-reverse;
 }
 
-.Graph_Data_chart2 {
+.Graph_Data_chart1 {
+
+    margin-left: 11px;
+    height: 100%;
+    position: relative;
     display: flex;
-    height: 263%;
+    /* top: 131px; */
+    /*left: -41px;*/
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    margin: 0 auto;
 }
 
 .Net_data_chart {
-    width: 32px;
+    width: 25px;
     position: revert;
     border: 5PX SOLID #795ab0;
-    /* margin-left: -4px; */
+    /*margin-left: -4px;*/
     display: inline-block;
-    margin-left: 14px;
+    /*margin-left: -4px;*/
 }
 
 .Acquisition_data_chart {
-    width: 34px;
+    width: 25px;
     background-color: #d59563;
     position: revert;
     display: inline-block;
 }
 
-.Dispoaition_data_chart {
-    width: 49px;
+.Disposition_data_chart {
+    width: 25px;
     background-color: #439abb;
     position: revert;
     display: inline-block;
+    /*margin-left: 6px;*/
     margin-top: 0;
 }
 
-.positive_part_of_graph {
+.a{
     display: grid;
-    grid-template-columns: .5fr 1.6fr .7fr 1.2fr 1fr 1fr 1fr 1fr 1fr .8fr;
-    display: grid;
-    grid-auto-columns: 1fr;
-    grid-template-rows: repeat(8, minmax(0, 1fr)) -91.6rem;
-    grid-column-gap: 13px;
-    align-items: baseline;
+    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;*/
+    align-items: end;
+    /*justify-items: center;*/
+    /*height: 281px;*/
 
 }
 
-
-.negative_part_of_graph {
+.b{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    display: grid;
-    grid-template-columns: 65px 65px 65px 65px 65px 65px 65px 65px 65px 65px;
-    grid-template-rows: 290px;
-    box-sizing: border-box;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: space-evenly;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    justify-items: start;
-    display: grid;
-    grid-auto-columns: 1fr;
-    grid-template-rows: repeat(8, minmax(0, 1fr)) -91.6rem;
-    grid-column-gap: 58px;
-
+    height: 100%;
+    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;*/
+    /*justify-items: center;*/
 }
-
 .purblechartn {
-height: 17px;
-width: 28px;
-position: relative;
-left: 72px;
-margin-top: 11px;
-border: 5PX SOLID #795ab0;
+    height: 17px;
+    width: 28px;
+    position: relative;
+    left: 72px;
+    margin-top: 11px;
+    border: 5PX SOLID #795ab0;
 }
 
 .orangechartn {
-height: 17px;
-width: 28px;
-background-color: #d59563;
-position: relative;
+    height: 17px;
+    width: 28px;
+    background-color: #d59563;
+    position: relative;
 
-left: 72px;
-top: 14px;
+    left: 72px;
+    top: 14px;
 }
 
 .bubbybluechartn {
-height: 17px;
-width: 28px;
-background-color: #439abb;
-position: relative;
-left: 72px;
-top: 14px;
+    height: 17px;
+    width: 28px;
+    background-color: #439abb;
+    position: relative;
+    left: 72px;
+    top: 14px;
 }
 
 .bubbybluechart7 {
-height: 17px;
-width: 28px;
-background-color: #439abb;
-position: revert;
-margin-left: 48px;
-margin-top: 0px;
+    height: 17px;
+    width: 28px;
+    background-color: #439abb;
+    position: revert;
+    margin-left: 48px;
+    margin-top: 0px;
 }
 
 .purblechartn {
-height: 17px;
-width: 28px;
-position: relative;
-left: 72px;
-margin-top: 11px;
-border: 5PX SOLID #795ab0;
+    height: 17px;
+    width: 28px;
+    position: relative;
+    left: 72px;
+    margin-top: 11px;
+    border: 5PX SOLID #795ab0;
 }
 
 .orangechartn {
-height: 17px;
-width: 28px;
-background-color: #d59563;
-position: relative;
+    height: 17px;
+    width: 28px;
+    background-color: #d59563;
+    position: relative;
 
-left: 72px;
-top: 14px;
+    left: 72px;
+    top: 14px;
 }
 
 .bubbybluechartn {
-height: 17px;
-width: 28px;
-background-color: #439abb;
-position: relative;
-left: 72px;
-top: 14px;
+    height: 17px;
+    width: 28px;
+    background-color: #439abb;
+    position: relative;
+    left: 72px;
+    top: 14px;
 }
 
 
 
 .Generalnote1 {
-display: flex;
-justify-content: space-between;
-position: absolute;
-align-content: center;
-flex-direction: column;
-align-items: flex-start;
-color: aliceblue;
-margin-left: 1165px;
-MARGIN-TOP: -494PX;
-FONT-SIZE: 10PX;
-FONT-FAMILY: ARIAL;
-FONT-WEIGHT: bold;
-display: none;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    align-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    color: aliceblue;
+    margin-left: 1165px;
+    MARGIN-TOP: -494PX;
+    FONT-SIZE: 10PX;
+    FONT-FAMILY: ARIAL;
+    FONT-WEIGHT: bold;
+    display: none;
 
 }
 
 .note0 {
 
-display: flex;
-flex-direction: column;
-align-content: flex-end;
-justify-content: space-around;
-align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 .Net {
-position: relative;
-top: -14px;
+    position: relative;
+    top: -14px;
 }
