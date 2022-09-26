@@ -23,8 +23,12 @@
                             //acquisition bar
                             echo '<div class="Acquisition_data_chart" style="height:'?><?php echo number_format(($Acquisition_data /$max)*220,1);?><?php echo 'px">' . '</div>';
                             //positive net bar
-                            if($Net_data>0) {
-                                echo '<div class="Net_data_chart" style="height:'?><?php echo abs(number_format(($Net_data / $max) * 220, 1)) ;?><?php echo 'px">' . '</div>';} ?>
+                            if($Net_data>0){
+                                if(abs(number_format(($Net_data / $max) * 220, 1))==abs(number_format(($Acquisition_data / $max) * 220, 1))){?>
+                                    <div class="Net_data_chart" style="border-top:<?php echo (abs(number_format(($Net_data / $max) * 220, 1)))/2;?>px solid #795ab0 ; border-bottom:<?php echo (abs(number_format(($Net_data / $max) * 220, 2)))/2;?>px solid #795ab0">  </div>;
+                                <?php }else{
+                                    echo '<div class="Net_data_chart" style="height:'?><?php echo abs(number_format(($Net_data / $max) * 220, 1));?><?php echo 'px">' . '</div>';
+                                }}?>
                         </div>
                     <?php }?>
                 </div>
@@ -43,15 +47,11 @@
                             echo '<div class="Disposition_data_chart" style="height:'?><?php echo number_format(($Disposition_data/$max)*220,1);?><?php echo 'px">' . '</div>';
                             //negtivte net bar
                             if($Net_data<0){
-                            if($Net_data=$Disposition_data){?>
-                            <div class="Net_data_chart" style="border-top:<?php echo (abs(number_format(($Net_data / $max) * 220, 2)))/2;?>px solid #795ab0 ; border-bottom:<?php echo (abs(number_format(($Net_data / $max) * 220, 2)))/2;?>px solid #795ab0">  </div>;
+                            if(abs(number_format(($Net_data / $max) * 220, 1))==abs(number_format(($Disposition_data / $max) * 220, 1))){?>
+                            <div class="Net_data_chart" style="border-top:<?php echo (abs(number_format(($Net_data / $max) * 220, 1)))/2;?>px solid #795ab0 ; border-bottom:<?php echo (abs(number_format(($Net_data / $max) * 220, 2)))/2;?>px solid #795ab0">  </div>;
                             <?php }else{
-                                echo '<div class="Net_data_chart" style="height:'?><?php echo abs(number_format(($Net_data / $max) * 220, 2));?><?php echo 'px">' . '</div>';
+                                echo '<div class="Net_data_chart" style="height:'?><?php echo abs(number_format(($Net_data / $max) * 220, 1));?><?php echo 'px">' . '</div>';
                             }}?>
-
-
-
-
                         </div>
 
                     <?php }
