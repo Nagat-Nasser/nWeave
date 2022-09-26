@@ -85,67 +85,28 @@
     display: grid;
 
 }
-
-/*.charts {*/
-/*    MARGIN-LEFT: 21PX;*/
-/*    height: 448px;*/
-
-
-/*}*/
-
 .scroll-chart {
-    /*margin-top: -434px;*/
-    /*margin-left: 90px;*/
     overflow-x: auto;
-
-
-
-
 }
 
-/*.spanchart1 {*/
-/*    margin-bottom: 26px;*/
-/*}*/
-
-/*.spanchart2 {*/
-/*    bottom: 42px;*/
-/*    margin-left: -94px;*/
-
-/*}*/
-
 .drawchart {
-    /*border-left: 1.5px solid #111926;*/
     height:555px;
-    /*overflow: hidden;*/
-    /* display: flex; */
     display: grid;
-    /* width: 124%; */
     width: 101%;
     grid-template-rows: 1fr 1fr;
     gap: 1px;
-    /* gap: 48px; */
-    /* grid-auto-columns: auto; */
-    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
     grid-template-areas:
         "a"
         "b";
-
 }
 
-.Graph_Data_chart,
-.chart2,
-.chart3,
-.chart4,
-.chart5,
-.chart6,
-.chart7,
-.chart8,
-.chart9 {
+.Graph_Data_chart{
     height: 408px;
     width: 115px;
     border-right: 1.5px #111926 solid;
     border-left: 1.5PX #111926 solid;
 }
+
 .Graph_Data_chart2{
     display: flex;
     height: 100%;
@@ -163,13 +124,24 @@
     height: 100%;
     position: relative;
     display: flex;
-    /* top: 131px; */
-    /*left: -41px;*/
     align-items: flex-end;
     flex-direction: row-reverse;
     margin: 0 auto;
     gap: 2px;
 }
+
+.a{
+    display: grid;
+    align-items: end;
+    gap: 76px;
+}
+
+.b{
+    display: grid;
+    height: 100%;
+    gap: 83px;
+}
+
 
 .Net_data_chart {
     width: 23px;
@@ -194,115 +166,3 @@
     margin-top: 0;
 }
 
-.a{
-    display: grid;
-    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;*/
-    align-items: end;
-    /*justify-items: center;*/
-    /*height: 281px;*/
-
-}
-
-.b{
-    display: grid;
-    height: 100%;
-    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;*/
-    /*justify-items: center;*/
-}
-.purblechartn {
-    height: 17px;
-    width: 28px;
-    position: relative;
-    left: 72px;
-    margin-top: 11px;
-    border: 5PX SOLID #795ab0;
-}
-
-.orangechartn {
-    height: 17px;
-    width: 28px;
-    background-color: #d59563;
-    position: relative;
-
-    left: 72px;
-    top: 14px;
-}
-
-.bubbybluechartn {
-    height: 17px;
-    width: 28px;
-    background-color: #439abb;
-    position: relative;
-    left: 72px;
-    top: 14px;
-}
-
-.bubbybluechart7 {
-    height: 17px;
-    width: 28px;
-    background-color: #439abb;
-    position: revert;
-    margin-left: 48px;
-    margin-top: 0px;
-}
-
-.purblechartn {
-    height: 17px;
-    width: 28px;
-    position: relative;
-    left: 72px;
-    margin-top: 11px;
-    border: 5PX SOLID #795ab0;
-}
-
-.orangechartn {
-    height: 17px;
-    width: 28px;
-    background-color: #d59563;
-    position: relative;
-
-    left: 72px;
-    top: 14px;
-}
-
-.bubbybluechartn {
-    height: 17px;
-    width: 28px;
-    background-color: #439abb;
-    position: relative;
-    left: 72px;
-    top: 14px;
-}
-
-
-
-.Generalnote1 {
-    display: flex;
-    justify-content: space-between;
-    position: absolute;
-    align-content: center;
-    flex-direction: column;
-    align-items: flex-start;
-    color: aliceblue;
-    margin-left: 1165px;
-    MARGIN-TOP: -494PX;
-    FONT-SIZE: 10PX;
-    FONT-FAMILY: ARIAL;
-    FONT-WEIGHT: bold;
-    display: none;
-
-}
-
-.note0 {
-
-    display: flex;
-    flex-direction: column;
-    align-content: flex-end;
-    justify-content: space-around;
-    align-items: flex-end;
-}
-
-.Net {
-    position: relative;
-    top: -14px;
-}
