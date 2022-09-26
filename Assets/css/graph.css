@@ -125,13 +125,13 @@
 .positive_part_of_graph{
     display: grid;
     align-items: end;
-    gap: 76px;
+
 }
 
 .negative_part_of_graph{
     display: grid;
     height: 100%;
-    gap: 83px;
+
 }
 
 
