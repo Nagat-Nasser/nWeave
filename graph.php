@@ -4,7 +4,7 @@
         <input type="number" class="inp1">
         <div class="lab2">To :</div>
         <input type="number" class="inp2">
-        <input type="button"  class="graph_buttonHeader"></div>
+    <input type="button" value="Filter" class="graph_buttonHeader"></div>
     <div id="chart">
         <div class="scroll-chart">
             <div class="drawchart">
